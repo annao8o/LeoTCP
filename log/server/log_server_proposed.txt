@@ -1,0 +1,16 @@
+111
+222
+10.0.1.100 proposed 0
+bind
+----------------------------- proposed ------------------------------------------------
+Server listening on TCP port 12345
+Server 10.0.1.100 port 12345 connected with client ('10.0.9.95', 51356)
+-----------------------------------------------------------------------------
+Freeze duration: 0
+remaining time: 1.0
+Timestamp: 1707889134.4631991
+Packet Size: 33
+Throughput: 5.867845458800776 Mbps
+Total Packet: 26036 / Lost Packet: 3809
+Packet Loss Rate: 0.14629743432170841
+Congestion Window (cwnd): 
