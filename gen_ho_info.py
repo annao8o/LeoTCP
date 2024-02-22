@@ -112,14 +112,13 @@ def set_connection(sat, gs):
     sat.set_current_gs(gs)
     # set_link_properties(net, )
 
-def run(satellite_list, gs_list, output_file):
-    cycles = 5
+def run(satellite_list, gs_list, total_cycle, output_file):
     gs_ho_info = {}
     # for gs in gs_list:
     #     gs.print_info()
 
-    for curr_cycle in range(0, cycles):
-        print(f"------------------------ Cycle {curr_cycle} ------------------------")
+    for curr_cycle in range(0, total_cycle):
+        print(f"------------------------ Cycle {curr_cycle} / {total_cycle}------------------------")
         # Set candidate satellites for each ground station
         for gs in gs_list:
             if str(gs.id) not in gs_ho_info:
@@ -181,6 +180,7 @@ if __name__ == '__main__':
         exit()
     
     satellite_objs = []
+    total_cycle = 0
     file_path = os.path.join(data_file_dir, sys.argv[1])
     try:
         satellite_positions = scio.loadmat(file_path)
@@ -188,6 +188,7 @@ if __name__ == '__main__':
             if 'STARLINK' in sat_name:
                 sat = Satellite(id-2, sat_name, satellite_positions[sat_name])
                 satellite_objs.append(sat)
+                total_cycle = len(satellite_positions[sat_name])
     except Exception as exception:
         # Handle exceptions (you may want to log or print the exception)
         print(f"Error processing file {file_path}: {exception}")
@@ -201,6 +202,6 @@ if __name__ == '__main__':
         gs_objs.append(gs)
     
     ho_mat_file = './save/handover_info_file.mat'
-    run(satellite_objs, gs_objs, ho_mat_file)
+    run(satellite_objs, gs_objs, total_cycle, ho_mat_file)
 
     print(f"Handover information is saved to '{ho_mat_file}'.")

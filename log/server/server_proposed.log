@@ -1,0 +1,114 @@
+
+[*] start server 10.0.1.100:12345.
+[+] accept connection: ('10.0.13.240', 57246)
+[-] connection is stopped: ('10.0.13.240', 57246)
+[!] ('10.0.13.240', 57246) - Total packets: 14825, Lost packets: 2
+[!] ('10.0.13.240', 57246) - Throughput: 3.73 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.9.98', 59804)
+[+] accept connection: ('10.0.3.168', 47066)
+[-] connection is stopped: ('10.0.9.98', 59804)
+[!] ('10.0.9.98', 59804) - Total packets: 15015, Lost packets: 2
+[!] ('10.0.9.98', 59804) - Throughput: 3.78 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.8.2', 34460)
+[-] connection is stopped: ('10.0.3.168', 47066)
+[!] ('10.0.3.168', 47066) - Total packets: 14685, Lost packets: 2
+[!] ('10.0.3.168', 47066) - Throughput: 3.70 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.8.2', 34460)
+[!] ('10.0.8.2', 34460) - Total packets: 15003, Lost packets: 2
+[!] ('10.0.8.2', 34460) - Throughput: 3.78 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.4.162', 39088)
+[+] accept connection: ('10.0.19.25', 45138)
+[-] connection is stopped: ('10.0.4.162', 39088)
+[!] ('10.0.4.162', 39088) - Total packets: 14723, Lost packets: 3
+[!] ('10.0.4.162', 39088) - Throughput: 3.71 Mbps, Packet Loss Rate: 0.02%
+[-] connection is stopped: ('10.0.19.25', 45138)
+[!] ('10.0.19.25', 45138) - Total packets: 14885, Lost packets: 1
+[!] ('10.0.19.25', 45138) - Throughput: 3.75 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.13.253', 51970)
+[-] connection is stopped: ('10.0.13.253', 51970)
+[!] ('10.0.13.253', 51970) - Total packets: 15267, Lost packets: 3
+[!] ('10.0.13.253', 51970) - Throughput: 3.84 Mbps, Packet Loss Rate: 0.02%
+[+] accept connection: ('10.0.1.7', 41698)
+[+] accept connection: ('10.0.19.23', 58298)
+[-] connection is stopped: ('10.0.1.7', 41698)
+[!] ('10.0.1.7', 41698) - Total packets: 14613, Lost packets: 2
+[!] ('10.0.1.7', 41698) - Throughput: 3.68 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.19.23', 58298)
+[!] ('10.0.19.23', 58298) - Total packets: 14875, Lost packets: 2
+[!] ('10.0.19.23', 58298) - Throughput: 3.75 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.6.0', 59844)
+[-] connection is stopped: ('10.0.6.0', 59844)
+[!] ('10.0.6.0', 59844) - Total packets: 14509, Lost packets: 2
+[!] ('10.0.6.0', 59844) - Throughput: 3.65 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.5.252', 33258)
+[+] accept connection: ('10.0.19.22', 35678)
+[-] connection is stopped: ('10.0.5.252', 33258)
+[!] ('10.0.5.252', 33258) - Total packets: 14856, Lost packets: 2
+[!] ('10.0.5.252', 33258) - Throughput: 3.74 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.19.22', 35678)
+[!] ('10.0.19.22', 35678) - Total packets: 15217, Lost packets: 3
+[!] ('10.0.19.22', 35678) - Throughput: 3.83 Mbps, Packet Loss Rate: 0.02%
+[+] accept connection: ('10.0.1.6', 34804)
+[-] connection is stopped: ('10.0.1.6', 34804)
+[!] ('10.0.1.6', 34804) - Total packets: 14896, Lost packets: 2
+[!] ('10.0.1.6', 34804) - Throughput: 3.75 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.3.165', 36586)
+[+] accept connection: ('10.0.16.71', 47304)
+[-] connection is stopped: ('10.0.3.165', 36586)
+[!] ('10.0.3.165', 36586) - Total packets: 14691, Lost packets: 3
+[!] ('10.0.3.165', 36586) - Throughput: 3.70 Mbps, Packet Loss Rate: 0.02%
+[-] connection is stopped: ('10.0.16.71', 47304)
+[!] ('10.0.16.71', 47304) - Total packets: 14812, Lost packets: 2
+[!] ('10.0.16.71', 47304) - Throughput: 3.73 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.18.25', 49198)
+[-] connection is stopped: ('10.0.18.25', 49198)
+[!] ('10.0.18.25', 49198) - Total packets: 14929, Lost packets: 2
+[!] ('10.0.18.25', 49198) - Throughput: 3.76 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.17.192', 46050)
+[+] accept connection: ('10.0.7.166', 57012)
+[-] connection is stopped: ('10.0.17.192', 46050)
+[!] ('10.0.17.192', 46050) - Total packets: 14733, Lost packets: 2
+[!] ('10.0.17.192', 46050) - Throughput: 3.71 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.7.166', 57012)
+[!] ('10.0.7.166', 57012) - Total packets: 14898, Lost packets: 2
+[!] ('10.0.7.166', 57012) - Throughput: 3.75 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.19.20', 37050)
+[-] connection is stopped: ('10.0.19.20', 37050)
+[!] ('10.0.19.20', 37050) - Total packets: 14774, Lost packets: 1
+[!] ('10.0.19.20', 37050) - Throughput: 3.72 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.3.143', 59312)
+[+] accept connection: ('10.0.18.28', 52920)
+[-] connection is stopped: ('10.0.3.143', 59312)
+[!] ('10.0.3.143', 59312) - Total packets: 14706, Lost packets: 2
+[!] ('10.0.3.143', 59312) - Throughput: 3.70 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.18.28', 52920)
+[!] ('10.0.18.28', 52920) - Total packets: 14315, Lost packets: 2
+[!] ('10.0.18.28', 52920) - Throughput: 3.60 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.19.19', 58028)
+[+] accept connection: ('10.0.4.175', 45156)
+[-] connection is stopped: ('10.0.19.19', 58028)
+[!] ('10.0.19.19', 58028) - Total packets: 15169, Lost packets: 2
+[!] ('10.0.19.19', 58028) - Throughput: 3.82 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.4.175', 45156)
+[!] ('10.0.4.175', 45156) - Total packets: 15010, Lost packets: 3
+[!] ('10.0.4.175', 45156) - Throughput: 3.78 Mbps, Packet Loss Rate: 0.02%
+[+] accept connection: ('10.0.11.250', 53930)
+[-] connection is stopped: ('10.0.11.250', 53930)
+[!] ('10.0.11.250', 53930) - Total packets: 14987, Lost packets: 2
+[!] ('10.0.11.250', 53930) - Throughput: 3.77 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.3.246', 53484)
+[-] connection is stopped: ('10.0.3.246', 53484)
+[!] ('10.0.3.246', 53484) - Total packets: 15191, Lost packets: 2
+[!] ('10.0.3.246', 53484) - Throughput: 3.82 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.19.21', 41324)
+[-] connection is stopped: ('10.0.19.21', 41324)
+[!] ('10.0.19.21', 41324) - Total packets: 14919, Lost packets: 2
+[!] ('10.0.19.21', 41324) - Throughput: 3.76 Mbps, Packet Loss Rate: 0.01%
+[+] accept connection: ('10.0.16.67', 52054)
+[+] accept connection: ('10.0.4.174', 50402)
+[-] connection is stopped: ('10.0.16.67', 52054)
+[!] ('10.0.16.67', 52054) - Total packets: 14869, Lost packets: 2
+[!] ('10.0.16.67', 52054) - Throughput: 3.74 Mbps, Packet Loss Rate: 0.01%
+[-] connection is stopped: ('10.0.4.174', 50402)
+[!] ('10.0.4.174', 50402) - Total packets: 15033, Lost packets: 2
+[!] ('10.0.4.174', 50402) - Throughput: 3.78 Mbps, Packet Loss Rate: 0.01%

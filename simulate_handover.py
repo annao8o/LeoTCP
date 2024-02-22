@@ -72,6 +72,7 @@ def remove_satellite(net, node1, node2):
 
 def add_satellite(net, switch, new_node, address):
     host = net.addHost(f's{new_node}')
+    # CLI(net)
     net.addLink(host, switch, cls=TCLink)
     set_link_properties(net, host, switch, bw=link_bw, delay=link_delay, switch_queue_size=switch_queue_size)
     host.intfList()[0].setIP(address)
@@ -96,7 +97,7 @@ def allocate_ip_addresses(num_satellites, base_ip="10.0.0.0", subnet_mask="/16")
 
 def simulate_handover(net, gs, curr_sat, target_sat, duration):
     try:
-        subprocess.run(["echo", "UNIX TIME: %s: end handover triggered!" % str(time.time())], stdout=kernel_output)
+        # subprocess.run(["echo", "UNIX TIME: %s: end handover triggered!" % str(time.time())], stdout=kernel_output)
         # Handover Starts
         net.configLinkStatus(gs, curr_sat, 'down')
         time.sleep(duration)
@@ -105,22 +106,9 @@ def simulate_handover(net, gs, curr_sat, target_sat, duration):
     except Exception as e:
         print("failed to simulate end handover:", e)
 
-def tcp_data_transfer(net, src, dst, algorithm, duration):
-    print(algorithm, src, dst)
-    src.cmd(f'python3.8 server.py {src.IP()} {algorithm} {duration} >> log/server/log_server_{algorithm}.txt &')
-    time.sleep(2)  # Wait for the server to start
+def tcp_data_transfer(src, dst, algorithm, duration):
     print(f"Starting TCP data transfer from {src.name} to {dst.name}")
-    dst.cmd(f'python3.8 client.py {src.IP()} {algorithm} >> log/client/log_client_{algorithm}.txt')
-    start_time = time.time()
-    # while True:
-    #     if (time.time() - start_time) > frame_length:
-    #         print("end")
-    #         # src.cmd('kill %python')
-    #         dst.cmd('kill %python')
-    #         # time.sleep(2)
-    #         break
-    
-    # return delay, loss
+    dst.cmd(f'python3.8 client.py {src.IP()} {dst.IP()} {algorithm} {duration} &')
 
 def show_results(algo_list, result_file):
     with open(result_file, mode='w', newline='') as f:
@@ -142,12 +130,10 @@ def process_handover(net, address_list, algo_list, ho_info):
     switch = net.getNodeByName('switch0')
 
     for cycle in range(1, len(ho_info)):
-        print(f"\n------------------------ Cycle {cycle} ------------------------")
+        print(f"\n------------------------ Cycle {cycle} / {len(ho_info)}------------------------")
         tstart = time.time()
         curr_data = gs_data[cycle]
         curr_sat = curr_data[0].strip()
-        target_sat = curr_data[1].strip()
-        duration = float(curr_data[2].strip())
 
         if curr_sat == "NULL":
             net.configLinkStatus('s%s' % curr_sat, 'switch0', 'down')
@@ -155,6 +141,8 @@ def process_handover(net, address_list, algo_list, ho_info):
             time.sleep(frame_length)
             continue
         else:
+            target_sat = curr_data[1].strip()
+            duration = float(curr_data[2].strip())
             if curr_sat != target_sat:
                 old_sat = net.getNodeByName(f's{curr_sat}')
                 addr = address_list[int(target_sat)]
@@ -162,19 +150,18 @@ def process_handover(net, address_list, algo_list, ho_info):
                 remove_satellite(net, old_sat, switch)
                 new_sat = add_satellite(net, switch, target_sat, addr)
                 for algo in algo_list:
+                    ## Freeze == True 인 알고리즘들은 freeze duration 동안 data 보내지 않음
                     if algo.is_freeze:
                         if not algo.freeze_duration:
                             algo.set_freeze_duration(duration)
-                            print("set freeze duration...")
-                        # time.sleep(algo.freeze_duration)
-                    else:
-                        print("not freeze")
-                        # tcp_data_transfer(net, gs, target_sat, algo.name, algo.freeze_duration)
+                            # time.sleep(algo.freeze_duration)
+                        # simulate_handover()
+                    else: 
+                        tcp_data_transfer(gs, old_sat, algo.name, algo.freeze_duration)
 
+                    ## 나머지 duration 동안 data 전송 
                     ## Transmit data to the new satellite
-                    print("transfer...")
-                    print(algo.freeze_duration)
-                    tcp_data_transfer(net, gs, new_sat, algo.name, algo.freeze_duration)
+                    tcp_data_transfer(gs, new_sat, algo.name, algo.freeze_duration)
                 
         # -------------------------------------------------------------------------------------
         # sleep for extra time to reach one cycle duration
@@ -182,7 +169,7 @@ def process_handover(net, address_list, algo_list, ho_info):
         sleep_duration = frame_length - (tend - tstart)
         if sleep_duration < 0:
             sleep_duration = 0
-        print(sleep_duration)
+        print("sleep duration:", sleep_duration)
         time.sleep(sleep_duration)
 
     # show_results(algo_list)
@@ -210,12 +197,22 @@ if __name__ == '__main__':
     # Add algorithms
     algorithm_list = []
 
-    algo2 = Algorithm("satcp", is_freeze=True, freeze_duration=0.3)
-    algorithm_list.append(algo2)
-    algo3 = Algorithm("noFreeze", is_freeze=False)
-    algorithm_list.append(algo3)
-    algo1 = Algorithm("proposed", is_freeze=True)
-    algorithm_list.append(algo1)
+    ## Proposed
+    # algo = Algorithm("proposed", is_freeze=True)
+    # algorithm_list.append(algo)
+
+    ## SaTCP - 0.6
+    # algo = Algorithm("satcp", is_freeze=True, freeze_duration=0.6)
+    # algorithm_list.append(algo)
+
+    ## SaTCP - 0.4
+    # algo = Algorithm("satcp_0.4", is_freeze=True, freeze_duration=0.4)
+    # algorithm_list.append(algo)
+
+    ## No freeze
+    algo = Algorithm("noFreeze", is_freeze=False)
+    algorithm_list.append(algo)
+
 
     # Configure initial topology
     init_sat = gs_data[0][1].strip()    # ['NULL', sat_id, 'NULL']
@@ -227,7 +224,9 @@ if __name__ == '__main__':
     net.start()
 
     gs = net.getNodeByName('gs')
-    # gs.cmd(f'python3.8 server.py {gs.IP()} >> log/log_server.txt &')
+    print(gs, gs.IP())
+    gs.cmd(f'python3.8 server.py {gs.IP()} {algo.name} &')
+    time.sleep(2)
     # gs.cmd(f'iperf -s -p {server_port} -i 1> log_server.txt &')    # 2000 (Bytes)
 
     # bgproc = gs.cmd(f'ps ef')
@@ -238,9 +237,8 @@ if __name__ == '__main__':
     set_link_properties(net, sat, switch, link_bw, link_delay, switch_queue_size=switch_queue_size)
     # sat.cmd(f'python3.8 client.py {gs.IP()} >> log/log_client.txt')
     # sat.cmd(f'iperf -c {gs.IP()} -p {server_port} -t 20 > log_client.txt &')
-    # for algo in algorithm_list:
     for algo in algorithm_list:
-        tcp_data_transfer(net, gs, sat, algo.name, duration=0)
+        tcp_data_transfer(gs, sat, algo.name, duration=0)
     
     process_handover(net, ip_address_list, algorithm_list, gs_data)
     CLI(net)
