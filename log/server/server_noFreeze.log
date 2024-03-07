@@ -1,0 +1,49 @@
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+[+] accept connection: ('10.0.9.95', 35014)
+[+] accept connection: ('10.0.9.95', 35018)
+[-] connection is stopped: ('10.0.9.95', 35014)
+[!] ('10.0.9.95', 35014) - Total packets: 2, Lost packets: 1
+[!] ('10.0.9.95', 35014) - Throughput: 0.00 Mbps, Packet Loss Rate: 50.00%
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.
+
+[*] start server 10.0.1.100:12345.

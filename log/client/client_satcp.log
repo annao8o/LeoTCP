@@ -138,3 +138,49 @@ remaining time: 0.4
 [+] satcp 10.0.4.174 is connected to server 10.0.1.100:12345.
 10.0.4.174 received 8804 packets.
 [-] 10.0.4.174 connection is closed..
+---------------------- satcp -----------------------------
+[+] satcp 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 4377 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- satcp -----------------------------
+[+] satcp 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 4451 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- satcp -----------------------------
+[+] satcp 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 4353 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- satcp -----------------------------
+[+] satcp 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 4415 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- satcp -----------------------------
+0.19999999999999996
+[+] satcp 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 4432 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- satcp -----------------------------
+0.19999999999999996
+[+] satcp 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 4505 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- satcp -----------------------------
+0.19999999999999996
+[+] satcp 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 4142 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- satcp -----------------------------
+0.19999999999999996
+[+] satcp 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 4427 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- satcp -----------------------------
+0.19999999999999996
+[+] satcp 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 4396 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- satcp -----------------------------
+0.19999999999999996
+[+] satcp 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 3885 packets.
+[-] 10.0.4.174 connection is closed..

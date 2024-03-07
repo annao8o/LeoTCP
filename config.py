@@ -21,9 +21,10 @@ max_duration = 10
 ## TCP settings
 REMOTE_CONTROLLER_IP = "127.0.0.1"
 frame_length = 1
-payload_data = "Hello, this is your data payload!"
+duration_per_cycle = 5
+payload_data = "Hello, this is your data payload!"      # payload size: 5KB로 나오도록 수정 필요 
 switch_queue_size = 50000
-link_bw = 200       # Mbps
+link_bw = 100       # Mbps
 # a negligible delay value assigned to links when the simulation has not started yet
 link_delay = '0.01ms'
 

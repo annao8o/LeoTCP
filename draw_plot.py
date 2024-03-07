@@ -53,5 +53,5 @@ plt.legend()
 plt.grid(True)
 
 # 그래프 저장 및 보여주기
-plt.savefig('throughput_comparison_graph.pdf')
+plt.savefig('save/throughput_comparison_graph.pdf')
 plt.show()
