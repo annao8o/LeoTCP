@@ -70,7 +70,7 @@ def remove_satellite(net, node1, node2):
     net.delNode(node1)
     print(f"Delete node {node1.name}...")
 
-def add_satellite(net, switch, new_node, address):
+def add_satellite(net, link_bw, switch, new_node, address):
     host = net.addHost(f's{new_node}')
     # CLI(net)
     net.addLink(host, switch, cls=TCLink)
@@ -102,12 +102,12 @@ def tcp_data_transfer(net, src, dst, algo, duration):
     if not algo.is_freeze:
         net.configLinkStatus('switch0', dst.name, 'down')
 
-def process_handover(net, address_list, algo, ho_info):
+def process_handover(net, link_bw, address_list, algo, gs_data):
     gs = net.getNodeByName('gs')
     switch = net.getNodeByName('switch0')
 
-    for cycle in range(1, len(ho_info)):
-        print(f"\n------------------------ Cycle {cycle} / {len(ho_info)}------------------------")
+    for cycle in range(1, len(gs_data)):
+        print(f"\n------------------------ Cycle {cycle} / {len(gs_data)}------------------------")
         curr_data = gs_data[cycle]
         curr_sat = curr_data[0].strip()
         
@@ -134,7 +134,7 @@ def process_handover(net, address_list, algo, ho_info):
                     ## set new environment 
                     net.configLinkStatus('switch0', old_sat.name, 'down')
                     remove_satellite(net, old_sat, switch)
-                    new_sat = add_satellite(net, switch, target_sat, target_addr)
+                    new_sat = add_satellite(net, link_bw, switch, target_sat, target_addr)
 
                     # ## freeze and send data
                     time.sleep(algo.freeze_duration)
@@ -151,13 +151,7 @@ def process_handover(net, address_list, algo, ho_info):
 
         time.sleep(1)
 
-if __name__ == '__main__':
-    setLogLevel('info')
-
-    if len(sys.argv) != 2:
-        print("need to specify the satellite position file!")
-        exit()
-    
+def main_simulation(link_bw):
     gs_id = 0
     file_path = os.path.join(save_file_dir, sys.argv[1])
     try:
@@ -171,19 +165,17 @@ if __name__ == '__main__':
     ip_address_list = allocate_ip_addresses(satellites_num, base_ip=base_ip, subnet_mask=subnet_mask)
 
     # Proposed
-    algo = Algorithm("proposed", is_freeze=True)
-    # # SaTCP - 0.3
-    # algo = Algorithm("satcp_0.5", is_freeze=True, freeze_duration=0.5)
-    # algorithm_list.append(algo)
+    # algo = Algorithm("proposed", is_freeze=True)
 
-    ## SaTCP - 0.4
-    # algo = Algorithm("satcp_0.4", is_freeze=True, freeze_duration=0.4)
-    # algorithm_list.append(algo)
+    # SaTCP - 0.3
+    algo = Algorithm("satcp_0.3", is_freeze=True, freeze_duration=0.3)
+
+    # SaTCP - 0.9
+    # algo = Algorithm("satcp_0.9", is_freeze=True, freeze_duration=0.9)
 
     # # No freeze
     # algo = Algorithm("noFreeze", is_freeze=False)
     # algorithm_list.append(algo)
-
 
     # Configure initial topology
     init_sat = gs_data[0][1].strip()    # ['NULL', sat_id, 'NULL']
@@ -211,8 +203,64 @@ if __name__ == '__main__':
     
     tcp_data_transfer(net, gs, sat, algo, duration=0)
     
-    process_handover(net, ip_address_list, algo, gs_data)
-    CLI(net)
+    process_handover(net, link_bw, ip_address_list, algo, gs_data)
+    # CLI(net)
 
     net.stop()
     print("Simulation is successfully completed!")
+
+    throughput, loss = calculate_averages(f'log/server/results_{algo.name}.csv')
+    return algo.name, throughput, loss
+
+# Function to calculate average throughput and loss from CSV data
+def calculate_averages(csv_file_path):
+    with open(csv_file_path, mode='r') as file:
+        csv_reader = csv.DictReader(file)
+        
+        # Initialize variables to calculate sums
+        total_throughput = 0
+        total_loss = 0
+        row_count = 0
+
+        # Iterate through each row in the CSV file
+        for row in csv_reader:
+            total_throughput += float(row["Throughput (Mbps)"])
+            total_loss += float(row["Packet Loss Rate (%)"])
+            row_count += 1
+
+        # Calculate averages
+        average_throughput = total_throughput / row_count
+        average_loss = total_loss / row_count
+
+        return average_throughput, average_loss
+
+
+if __name__ == '__main__':
+    setLogLevel('info')
+
+    if len(sys.argv) != 2:
+        print("need to specify the satellite position file!")
+        exit()
+    
+    bandwidth_throughput = {}
+    bandwidth_loss = {}
+
+    for link_bw in range(start_bw, end_bw + 1, step_bw):
+        algo_name, average_throughput, average_loss = main_simulation(link_bw)
+        bandwidth_throughput[link_bw] = (average_throughput, average_loss)
+    
+    try: 
+        with open(results_file, mode='r') as file:
+            pass
+    except FileNotFoundError:
+        with open(results_file, mode='w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Algorithm Name', 'Bandwidth (Mbps)', 'Average Throughput(Mbps)', 'Average Loss Rate (%)'])
+
+    with open(results_file, mode='a', newline='') as file:
+        writer = csv.writer(file)
+        for bw, values in bandwidth_throughput.items():
+            writer.writerow([algo_name, bw, values[0], values[1]])
+            print(f"Bandwidth: {bw} Mbps, Average Throughput: {values[0]} Mbps, Average Loss: {values[1]}")
+
+    print(f"Results have been saved to {results_file}.")

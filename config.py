@@ -22,9 +22,13 @@ max_duration = 10
 REMOTE_CONTROLLER_IP = "127.0.0.1"
 frame_length = 1
 duration_per_cycle = 5
-payload_data = "Hello, this is your data payload!"      # payload size: 5KB로 나오도록 수정 필요 
+payload_size = 5 * 1024     # 5KB [SaTCP]
+payload_data = "A" * payload_size      
 switch_queue_size = 50000
-link_bw = 100       # Mbps
+# link_bw = 100       # Mbps
+start_bw = 100
+end_bw = 1000
+step_bw = 100
 # a negligible delay value assigned to links when the simulation has not started yet
 link_delay = '0.01ms'
 
@@ -34,10 +38,10 @@ base_ip='10.0.0.0'
 subnet_mask='/16'
 server_port = 12345
 
-
 ## File settings
 data_file_dir = './data/'
 save_file_dir = './save/'
 ground_station_file_name = 'ground_stations.xlsx'
 handover_info_file_name = 'handover_info_file.mat'
 server_output_path = 'log/log_server.txt'
+results_file = 'save/results.csv'

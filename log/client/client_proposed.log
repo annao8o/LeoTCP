@@ -1,280 +1,1820 @@
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
-10.0.13.240 received 14823 packets.
+10.0.13.240 received 9228 packets.
 [-] 10.0.13.240 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
-10.0.9.98 received 15013 packets.
+10.0.9.98 received 9232 packets.
 [-] 10.0.9.98 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
-10.0.3.168 received 14683 packets.
+10.0.3.168 received 9239 packets.
 [-] 10.0.3.168 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
-10.0.8.2 received 15001 packets.
+10.0.8.2 received 9282 packets.
 [-] 10.0.8.2 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
-10.0.4.162 received 14720 packets.
+10.0.4.162 received 9233 packets.
 [-] 10.0.4.162 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
-10.0.19.25 received 14884 packets.
+10.0.19.25 received 9233 packets.
 [-] 10.0.19.25 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
-10.0.13.253 received 15264 packets.
+10.0.13.253 received 9233 packets.
 [-] 10.0.13.253 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
-10.0.1.7 received 14611 packets.
+10.0.1.7 received 9236 packets.
 [-] 10.0.1.7 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
-10.0.19.23 received 14873 packets.
+10.0.19.23 received 9227 packets.
 [-] 10.0.19.23 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
-10.0.6.0 received 14507 packets.
+10.0.6.0 received 9233 packets.
 [-] 10.0.6.0 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
-10.0.5.252 received 14854 packets.
+10.0.5.252 received 9237 packets.
 [-] 10.0.5.252 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
-10.0.19.22 received 15214 packets.
+10.0.19.22 received 9233 packets.
 [-] 10.0.19.22 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
-10.0.1.6 received 14894 packets.
+10.0.1.6 received 9234 packets.
 [-] 10.0.1.6 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
-10.0.3.165 received 14688 packets.
+10.0.3.165 received 9138 packets.
 [-] 10.0.3.165 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
-10.0.16.71 received 14810 packets.
+10.0.16.71 received 9228 packets.
 [-] 10.0.16.71 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
-10.0.18.25 received 14927 packets.
+10.0.18.25 received 9235 packets.
 [-] 10.0.18.25 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
-10.0.17.192 received 14731 packets.
+10.0.17.192 received 9282 packets.
 [-] 10.0.17.192 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
-10.0.7.166 received 14896 packets.
+10.0.7.166 received 9232 packets.
 [-] 10.0.7.166 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
-10.0.19.20 received 14773 packets.
+10.0.19.20 received 9233 packets.
 [-] 10.0.19.20 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
-10.0.3.143 received 14704 packets.
+10.0.3.143 received 9233 packets.
 [-] 10.0.3.143 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
-10.0.18.28 received 14313 packets.
+10.0.18.28 received 9283 packets.
 [-] 10.0.18.28 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
-10.0.19.19 received 15167 packets.
+10.0.19.19 received 9235 packets.
 [-] 10.0.19.19 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
-10.0.4.175 received 15007 packets.
+10.0.4.175 received 9228 packets.
 [-] 10.0.4.175 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
-10.0.11.250 received 14985 packets.
+10.0.11.250 received 9234 packets.
 [-] 10.0.11.250 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
-10.0.3.246 received 15189 packets.
+10.0.3.246 received 9233 packets.
 [-] 10.0.3.246 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
-10.0.19.21 received 14917 packets.
+10.0.19.21 received 9239 packets.
 [-] 10.0.19.21 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
-10.0.16.67 received 14867 packets.
+10.0.16.67 received 9240 packets.
 [-] 10.0.16.67 connection is closed..
 ---------------------- proposed -----------------------------
-remaining time: 0.6666666666666667
+0.6666666666666667
 [+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
-10.0.4.174 received 15031 packets.
+10.0.4.174 received 9233 packets.
 [-] 10.0.4.174 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
-10.0.13.240 received 14914 packets.
+10.0.13.240 received 18463 packets.
 [-] 10.0.13.240 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
-10.0.9.98 received 15058 packets.
+10.0.9.98 received 18470 packets.
 [-] 10.0.9.98 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
-10.0.3.168 received 14441 packets.
+10.0.3.168 received 18468 packets.
 [-] 10.0.3.168 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
-10.0.8.2 received 14798 packets.
+10.0.8.2 received 18460 packets.
 [-] 10.0.8.2 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
-10.0.4.162 received 14387 packets.
+10.0.4.162 received 18464 packets.
 [-] 10.0.4.162 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
-10.0.19.25 received 14866 packets.
+10.0.19.25 received 18478 packets.
 [-] 10.0.19.25 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
-10.0.13.253 received 14452 packets.
+10.0.13.253 received 16780 packets.
 [-] 10.0.13.253 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
-10.0.1.7 received 15123 packets.
+10.0.1.7 received 18564 packets.
 [-] 10.0.1.7 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
-10.0.19.23 received 14683 packets.
+10.0.19.23 received 18467 packets.
 [-] 10.0.19.23 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
-10.0.6.0 received 14654 packets.
+10.0.6.0 received 18480 packets.
 [-] 10.0.6.0 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
-10.0.5.252 received 14669 packets.
+10.0.5.252 received 18463 packets.
 [-] 10.0.5.252 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
-10.0.19.22 received 14715 packets.
+10.0.19.22 received 18462 packets.
 [-] 10.0.19.22 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
-10.0.1.6 received 14958 packets.
+10.0.1.6 received 18462 packets.
 [-] 10.0.1.6 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
-10.0.3.165 received 14869 packets.
+10.0.3.165 received 18458 packets.
 [-] 10.0.3.165 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
-10.0.16.71 received 14769 packets.
+10.0.16.71 received 18459 packets.
 [-] 10.0.16.71 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
-10.0.18.25 received 14875 packets.
+10.0.18.25 received 16110 packets.
 [-] 10.0.18.25 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
-10.0.17.192 received 14706 packets.
+10.0.17.192 received 18465 packets.
 [-] 10.0.17.192 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
-10.0.7.166 received 14595 packets.
+10.0.7.166 received 18455 packets.
 [-] 10.0.7.166 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
-10.0.19.20 received 15009 packets.
+10.0.19.20 received 18467 packets.
 [-] 10.0.19.20 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
-10.0.3.143 received 14900 packets.
+10.0.3.143 received 18457 packets.
 [-] 10.0.3.143 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
-10.0.18.28 received 14925 packets.
+10.0.18.28 received 18459 packets.
 [-] 10.0.18.28 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
-10.0.19.19 received 14733 packets.
+10.0.19.19 received 18457 packets.
 [-] 10.0.19.19 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
-10.0.4.175 received 14710 packets.
+10.0.4.175 received 18562 packets.
 [-] 10.0.4.175 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
-10.0.11.250 received 15035 packets.
+10.0.11.250 received 18472 packets.
 [-] 10.0.11.250 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
-10.0.3.246 received 14663 packets.
+10.0.3.246 received 18459 packets.
 [-] 10.0.3.246 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
-10.0.19.21 received 14641 packets.
+10.0.19.21 received 18466 packets.
 [-] 10.0.19.21 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
-10.0.16.67 received 14942 packets.
+10.0.16.67 received 17871 packets.
 [-] 10.0.16.67 connection is closed..
 ---------------------- proposed -----------------------------
 0.6666666666666667
 [+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
-10.0.4.174 received 14922 packets.
+10.0.4.174 received 18470 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 27708 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 27710 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 27836 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 27646 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 23101 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 27650 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 27841 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 27682 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 27705 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 27694 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 27674 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 27694 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 27836 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 27699 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 23120 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 27684 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 27674 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 27679 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 27697 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 26706 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 27704 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 27682 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 27692 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 27687 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 27830 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 27665 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 24685 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 27688 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 9233 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 9233 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 9239 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 9234 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 9233 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 9282 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 9233 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 9227 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 9239 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 9234 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 9228 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 9233 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 9227 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 9233 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 9233 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 9233 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 9233 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 9239 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 9239 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 9228 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 9233 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 9233 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 9233 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 9233 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 9233 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 9233 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 9233 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 9239 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 18463 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 18461 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 18465 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 18459 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 18465 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 18467 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 18471 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 18243 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 18473 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 18464 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 18465 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 18464 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 18433 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 18466 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 18466 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 18466 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 18449 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 18463 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 18459 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 18454 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 18451 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 18564 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 18465 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 18457 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 18472 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 18461 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 18463 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 18467 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 27684 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 27214 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 27832 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 27699 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 25859 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 27725 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 27688 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 27680 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 23527 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 27662 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 27681 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 27690 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 23092 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 27697 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 27682 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 27699 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 27698 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 27829 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 27697 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 27698 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 24681 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 24545 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 23201 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 27567 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 25118 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 27668 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 27678 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 27831 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 36920 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 36906 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 36871 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 34174 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 33877 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 36911 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 36894 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 36920 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 36884 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 33797 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 30806 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 36929 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 37108 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 36901 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 33520 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 36898 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 36899 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 36948 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 37091 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 36931 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 36910 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 36793 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 36911 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 30791 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 36898 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 36930 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 34456 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 36901 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 38477 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 46087 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 38620 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 46127 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 46112 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 46313 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 46101 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 46125 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 46113 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 46071 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 44213 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 46047 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 38514 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 46126 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 40127 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 41391 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 46140 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 46096 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 46095 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 46058 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 46108 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 46098 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 46062 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 46093 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 38548 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 46113 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 46121 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 43193 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 55006 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 46182 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 55274 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 54899 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 46157 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 46213 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 54760 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 53916 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 54485 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 46158 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 54827 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 48107 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 55099 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 48069 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 54183 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 54473 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 54183 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 54565 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 54771 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 46111 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 55043 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 50555 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 55290 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 46183 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 53967 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 46119 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 47747 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 54629 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 58461 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 62697 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 62089 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 59430 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 53814 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 62447 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 61217 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 53817 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 62475 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 62367 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 60968 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 61762 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 62928 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 53832 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 53883 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 61828 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 54651 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 53846 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 63449 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 53904 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 61468 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 63281 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 62357 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 63321 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 56351 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 60862 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 55349 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 62524 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 65199 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 61876 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 66357 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 64987 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 69337 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 63111 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 61804 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 70091 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 64159 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 67586 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 61533 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 65398 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 69926 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 69771 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 67812 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 61516 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 64766 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 69888 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 61507 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 68531 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 69330 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 69952 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 61546 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 69088 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 65664 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 62840 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 61417 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 63332 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 70714 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 69190 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 71616 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 70803 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 70328 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 71018 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 69046 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 69107 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 70416 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 71519 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 69228 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 69645 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 70977 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 69127 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 71101 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 70255 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 70801 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 69849 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 74197 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 69199 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 69049 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 71956 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 69961 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 74430 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 69116 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 70747 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 69157 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 69119 packets.
+[-] 10.0.4.174 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.240 is connected to server 10.0.1.100:12345.
+10.0.13.240 received 78766 packets.
+[-] 10.0.13.240 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.9.98 is connected to server 10.0.1.100:12345.
+10.0.9.98 received 79866 packets.
+[-] 10.0.9.98 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.168 is connected to server 10.0.1.100:12345.
+10.0.3.168 received 76233 packets.
+[-] 10.0.3.168 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.8.2 is connected to server 10.0.1.100:12345.
+10.0.8.2 received 76735 packets.
+[-] 10.0.8.2 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.162 is connected to server 10.0.1.100:12345.
+10.0.4.162 received 77972 packets.
+[-] 10.0.4.162 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.25 is connected to server 10.0.1.100:12345.
+10.0.19.25 received 76756 packets.
+[-] 10.0.19.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.13.253 is connected to server 10.0.1.100:12345.
+10.0.13.253 received 78406 packets.
+[-] 10.0.13.253 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.7 is connected to server 10.0.1.100:12345.
+10.0.1.7 received 76048 packets.
+[-] 10.0.1.7 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.23 is connected to server 10.0.1.100:12345.
+10.0.19.23 received 80115 packets.
+[-] 10.0.19.23 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.6.0 is connected to server 10.0.1.100:12345.
+10.0.6.0 received 79200 packets.
+[-] 10.0.6.0 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.5.252 is connected to server 10.0.1.100:12345.
+10.0.5.252 received 79300 packets.
+[-] 10.0.5.252 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.22 is connected to server 10.0.1.100:12345.
+10.0.19.22 received 80292 packets.
+[-] 10.0.19.22 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.1.6 is connected to server 10.0.1.100:12345.
+10.0.1.6 received 80109 packets.
+[-] 10.0.1.6 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.165 is connected to server 10.0.1.100:12345.
+10.0.3.165 received 81146 packets.
+[-] 10.0.3.165 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.71 is connected to server 10.0.1.100:12345.
+10.0.16.71 received 77315 packets.
+[-] 10.0.16.71 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.25 is connected to server 10.0.1.100:12345.
+10.0.18.25 received 75815 packets.
+[-] 10.0.18.25 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.17.192 is connected to server 10.0.1.100:12345.
+10.0.17.192 received 76524 packets.
+[-] 10.0.17.192 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.7.166 is connected to server 10.0.1.100:12345.
+10.0.7.166 received 76617 packets.
+[-] 10.0.7.166 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.20 is connected to server 10.0.1.100:12345.
+10.0.19.20 received 79555 packets.
+[-] 10.0.19.20 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.143 is connected to server 10.0.1.100:12345.
+10.0.3.143 received 77143 packets.
+[-] 10.0.3.143 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.18.28 is connected to server 10.0.1.100:12345.
+10.0.18.28 received 76173 packets.
+[-] 10.0.18.28 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.19 is connected to server 10.0.1.100:12345.
+10.0.19.19 received 77309 packets.
+[-] 10.0.19.19 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.175 is connected to server 10.0.1.100:12345.
+10.0.4.175 received 80486 packets.
+[-] 10.0.4.175 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.11.250 is connected to server 10.0.1.100:12345.
+10.0.11.250 received 80630 packets.
+[-] 10.0.11.250 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.3.246 is connected to server 10.0.1.100:12345.
+10.0.3.246 received 77023 packets.
+[-] 10.0.3.246 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.19.21 is connected to server 10.0.1.100:12345.
+10.0.19.21 received 78065 packets.
+[-] 10.0.19.21 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.16.67 is connected to server 10.0.1.100:12345.
+10.0.16.67 received 77292 packets.
+[-] 10.0.16.67 connection is closed..
+---------------------- proposed -----------------------------
+0.6666666666666667
+[+] proposed 10.0.4.174 is connected to server 10.0.1.100:12345.
+10.0.4.174 received 75537 packets.
 [-] 10.0.4.174 connection is closed..
