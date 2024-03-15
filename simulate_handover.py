@@ -16,22 +16,21 @@ from mininet.node import RemoteController
 kernel_output = open('/dev/kmsg', 'w')
 
 class Mytopo( Topo ):
-    def __init__(self, addr_list, init_sat):
+    def __init__(self, addr_list, satellite):
         Topo.__init__(self)
         self.address_list = addr_list
 
         # Add ground user
         gs = self.addHost('gs', ip=gs_ip_addr)
-
-        # Add satellite
-        self.addHost(f's{init_sat}', ip=f'{addr_list[int(init_sat)]}')
-
+        
         # Add switches
         switch0 = self.addSwitch('switch0')
-
-        # Create links
         self.addLink(gs, switch0, cls=TCLink)
-        self.addLink("s%s" % init_sat, switch0, cls=TCLink)    
+
+         # Add satellite
+        for sat in satellite:
+            self.addHost(f's{sat}', ip=f'{addr_list[int(sat)]}')
+            self.addLink("s%s" % sat, switch0, cls=TCLink)    
 
 class Algorithm:
     def __init__(self, name, is_freeze, freeze_duration=None) -> None:
@@ -54,31 +53,30 @@ class Algorithm:
     def get_result(self):
         return self.packet_delay, self.loss_rate
 
-def remove_satellite(net, node1, node2):
-    ## break link 
-    try:
-        net.configLinkStatus('switch0', node1.name, 'down')
-        interfaces = node1.connectionsTo(node2)
-        node1_intf = interfaces[0][0]
-        node2_intf = interfaces[0][1]
-        node1.delIntf(node1_intf)
-        node2.delIntf(node2_intf)
-    except Exception as e:
-        print(f"failed to break link with {node1.name} and {node2.name}")
+# def remove_satellite(net, node1, node2):
+#     ## break link 
+#     try:
+#         net.configLinkStatus('switch0', node1.name, 'down')
+#         interfaces = node1.connectionsTo(node2)
+#         node1_intf = interfaces[0][0]
+#         node2_intf = interfaces[0][1]
+#         node1.delIntf(node1_intf)
+#         node2.delIntf(node2_intf)
+#     except Exception as e:
+#         print(f"failed to break link with {node1.name} and {node2.name}")
 
-    ## delete node
-    net.delNode(node1)
-    print(f"Delete node {node1.name}...")
+#     ## delete node
+#     net.delNode(node1)
+#     print(f"Delete node {node1.name}...")
 
-def add_satellite(net, link_bw, switch, new_node, address):
-    host = net.addHost(f's{new_node}')
-    # CLI(net)
-    net.addLink(host, switch, cls=TCLink)
-    set_link_properties(net, host, switch, bw=link_bw, delay=link_delay, switch_queue_size=switch_queue_size)
-    host.intfList()[0].setIP(address)
-    return host
+# def add_satellite(net, link_bw, switch, new_node, address):
+#     host = net.addHost(f's{new_node}')
+#     net.addLink(host, switch, cls=TCLink)
+#     set_link_properties(net, host, switch, bw=link_bw, delay=link_delay, switch_queue_size=switch_queue_size)
+#     host.intfList()[0].setIP(address)
+#     return host
     
-def set_link_properties(net, node1, node2, bw, delay, switch_queue_size):
+def set_link_properties(node1, node2, bw, delay, switch_queue_size):
     print(f"Set the properties of link between {node1} and {node2}")
     interfaces = node1.connectionsTo(node2)
     src_intf = interfaces[0][0]
@@ -95,18 +93,69 @@ def allocate_ip_addresses(num_satellites, base_ip="10.0.0.0", subnet_mask="/16")
 
     return allocated_ips
 
-def tcp_data_transfer(net, src, dst, algo, duration):
-    print(f"Starting TCP data transfer from {src.name} to {dst.name}")
-    print(src.IP(), dst.IP())
-    dst.cmd(f'python3.8 client.py {src.IP()} {dst.IP()} {algo.name} {duration} &')
-    if not algo.is_freeze:
-        net.configLinkStatus('switch0', dst.name, 'down')
+def start_mininet_env(ip_address_list, link_bw, sat_list, algo):
+    my_topo = Mytopo(ip_address_list, sat_list)
+    print(sat_list)
+    net = Mininet(topo=my_topo, link=TCLink)
 
-def process_handover(net, link_bw, address_list, algo, gs_data):
+    # Initialize link between switch and inital satellite
+    print("start the network...")
+    net.start()
+
     gs = net.getNodeByName('gs')
+    gs.cmd(f'python3.8 server.py {gs.IP()} {algo.name} &')
+    time.sleep(2)
+
     switch = net.getNodeByName('switch0')
 
+    sat_objs = []
+    for sat in sat_list:
+        sat = net.getNodeByName('s%s' % sat)
+        set_link_properties(sat, switch, link_bw, link_delay, switch_queue_size=switch_queue_size)
+        sat_objs.append(sat)
+    
+    return net, gs, sat_objs
+
+    # sat.cmd(f'python3.8 client.py {gs.IP()} >> log/log_client.txt')
+    # sat.cmd(f'iperf -c {gs.IP()} -p {server_port} -t 20 > log_client.txt &')
+        
+def clean_mininet_env():
+    try:
+        print("Cleaning up Mininet environment...")
+        subprocess.check_call(['mn', '-c'])
+    except subprocess.CalledProcessError as e:
+        print("Failed to clean up Mininet environment:", e)
+
+def tcp_data_transfer(src, dst_list, algo, freeze_duration, remaining_duration):
+    if len(dst_list) > 1:
+        old_sat = dst_list[0]
+        new_sat = dst_list[1]
+    else:
+        old_sat = None
+        new_sat = dst_list[0]
+
+    print("sat: ", old_sat, new_sat)
+    if old_sat is not None:
+        old_sat.cmd(f'python3.8 client.py {src.IP()} {old_sat.IP()} {algo.name} --mode old {freeze_duration} &')
+
+        time.sleep(freeze_duration)
+
+    new_sat.cmd(f'python3.8 client.py {src.IP()} {new_sat.IP()} {algo.name} --mode new {remaining_duration} &')
+    time.sleep(remaining_duration)
+
+    # print(f"Starting TCP data transfer from {src.name} to {dst.name}")
+    # print(src.IP(), dst.IP())
+    # dst.cmd(f'python3.8 client.py {src.IP()} {dst.IP()} {algo.name} {duration} &')
+    # if not algo.is_freeze:
+    #     net.configLinkStatus('switch0', dst.name, 'down')
+
+def process_handover(link_bw, address_list, algo, gs_data):
+    # gs = net.getNodeByName('gs')
+    # switch = net.getNodeByName('switch0')
+
     for cycle in range(1, len(gs_data)):
+        clean_mininet_env()
+
         print(f"\n------------------------ Cycle {cycle} / {len(gs_data)}------------------------")
         curr_data = gs_data[cycle]
         curr_sat = curr_data[0].strip()
@@ -119,37 +168,50 @@ def process_handover(net, link_bw, address_list, algo, gs_data):
 
         else:
             target_sat = curr_data[1].strip()
-            target_addr = address_list[int(target_sat)]
-            # if curr_sat == target_sat:
-            #     continue
+            net, gs, sat_list = start_mininet_env(address_list, link_bw, [curr_sat, target_sat], algo)
+
             if curr_sat != target_sat:
-                old_sat = net.getNodeByName(f's{curr_sat}')
+                if 'proposed' in algo.name:
+                    duration = float(curr_data[2].strip())
+                    algo.set_freeze_duration(duration)
 
-                tstart = time.time()
                 if algo.is_freeze:
-                    if 'proposed' in algo.name:
-                        duration = float(curr_data[2].strip())
-                        algo.set_freeze_duration(duration)
+                    tstart = time.time()
+                    tcp_data_transfer(gs, sat_list, algo, algo.freeze_duration, frame_length-algo.freeze_duration)    # sat_list = [old_sat, new_sat]
+
+            # # if curr_sat == target_sat:
+            # #     continue
+            # if curr_sat != target_sat:
+            #     old_sat = net.getNodeByName(f's{curr_sat}')
+
+            #     tstart = time.time()
+            #     if algo.is_freeze:
+            #         if 'proposed' in algo.name:
+            #             duration = float(curr_data[2].strip())
+            #             algo.set_freeze_duration(duration)
                     
-                    ## set new environment 
-                    net.configLinkStatus('switch0', old_sat.name, 'down')
-                    remove_satellite(net, old_sat, switch)
-                    new_sat = add_satellite(net, link_bw, switch, target_sat, target_addr)
+            #         ## set new environment 
+            #         net.configLinkStatus('switch0', old_sat.name, 'down')
+            #         remove_satellite(net, old_sat, switch)
+            #         new_sat = add_satellite(net, link_bw, switch, target_sat, target_addr)
 
-                    # ## freeze and send data
-                    time.sleep(algo.freeze_duration)
-                    remaining_time = frame_length - algo.freeze_duration
-                    print(frame_length, algo.freeze_duration, remaining_time)
-                    tcp_data_transfer(net, gs, new_sat, algo, remaining_time)
-                else:
-                    # net.configLinkStatus('switch0', old_sat.name, 'down')
-                    tcp_data_transfer(net, gs, old_sat, algo, frame_length)
-                    time.sleep(1)
-                    remove_satellite(net, old_sat, switch)
-                    new_sat = add_satellite(net, switch, target_sat, target_addr)
-                    # 전체 한 cycle의 duration_per_cycle - handover_duration 을 한 나머지는 새로운 satellite에 data 전송하기
-
-        time.sleep(1)
+            #         # ## send data
+            #         tcp_data_transfer(net, gs, new_sat, algo, algo.freeze_duration)
+            #     else:
+            #         # net.configLinkStatus('switch0', old_sat.name, 'down')
+            #         tcp_data_transfer(net, gs, old_sat, algo, max_handover_time)
+            #         time.sleep(1)
+            #         remove_satellite(net, old_sat, switch)
+            #         new_sat = add_satellite(net, switch, target_sat, target_addr)
+            #         # 전체 한 cycle의 duration_per_cycle - handover_duration 을 한 나머지는 새로운 satellite에 data 전송하기
+        
+        tend = time.time()
+        sleep_duration = frame_length - (tend - tstart)
+        if sleep_duration < 0:
+            sleep_duration = 0
+        print(f"sleep duration: {sleep_duration}")
+        time.sleep(sleep_duration)
+        # time.sleep(1)
 
 def main_simulation(link_bw):
     gs_id = 0
@@ -168,7 +230,7 @@ def main_simulation(link_bw):
     # algo = Algorithm("proposed", is_freeze=True)
 
     # SaTCP - 0.3
-    algo = Algorithm("satcp_0.3", is_freeze=True, freeze_duration=0.3)
+    algo = Algorithm("satcp_0.6", is_freeze=True, freeze_duration=0.6)
 
     # SaTCP - 0.9
     # algo = Algorithm("satcp_0.9", is_freeze=True, freeze_duration=0.9)
@@ -179,32 +241,10 @@ def main_simulation(link_bw):
 
     # Configure initial topology
     init_sat = gs_data[0][1].strip()    # ['NULL', sat_id, 'NULL']
-    my_topo = Mytopo(ip_address_list, init_sat)
-    net = Mininet(topo=my_topo, link=TCLink)
-
-    # Initialize link between switch and inital satellite
-    print("start the network...")
-    net.start()
-
-    gs = net.getNodeByName('gs')
-    print(gs, gs.IP())
-    gs.cmd(f'python3.8 server.py {gs.IP()} {algo.name} &')
-    time.sleep(2)
-    # gs.cmd(f'iperf -s -p {server_port} -i 1> log_server.txt &')    # 2000 (Bytes)
-
-    # bgproc = gs.cmd(f'ps ef')
-    # print(bgproc)
-
-    sat = net.getNodeByName('s%s' % init_sat)
-    switch = net.getNodeByName('switch0')
-    set_link_properties(net, sat, switch, link_bw, link_delay, switch_queue_size=switch_queue_size)
-    # sat.cmd(f'python3.8 client.py {gs.IP()} >> log/log_client.txt')
-    # sat.cmd(f'iperf -c {gs.IP()} -p {server_port} -t 20 > log_client.txt &')
+    net, gs, sat = start_mininet_env(ip_address_list, link_bw, [init_sat], algo)
     
-    tcp_data_transfer(net, gs, sat, algo, duration=0)
-    
-    process_handover(net, link_bw, ip_address_list, algo, gs_data)
-    # CLI(net)
+    tcp_data_transfer(gs, sat, algo, freeze_duration=0, remaining_duration=frame_length)
+    process_handover(link_bw, ip_address_list, algo, gs_data)
 
     net.stop()
     print("Simulation is successfully completed!")

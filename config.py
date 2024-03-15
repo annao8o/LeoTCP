@@ -20,8 +20,8 @@ max_duration = 10
 
 ## TCP settings
 REMOTE_CONTROLLER_IP = "127.0.0.1"
-frame_length = 1
-duration_per_cycle = 5
+frame_length = 5
+max_handover_time = 1
 payload_size = 5 * 1024     # 5KB [SaTCP]
 payload_data = "A" * payload_size      
 switch_queue_size = 50000

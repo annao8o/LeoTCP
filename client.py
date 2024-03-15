@@ -2,11 +2,13 @@ import sys
 import socket
 import time
 import logging
+import argparse
 from config import server_port, frame_length
 
 
-def main(server_ip, client_ip, algorithm, duration):
-    logging.info(f"---------------------- {algorithm} -----------------------------")
+def main(server_ip, client_ip, algorithm, mode, duration):
+    logging.basicConfig(filename=f'log/client/client_{algorithm}.log', level=logging.DEBUG, format='%(asctime)s - %(message)s')
+    logging.info(f"Starting client with mode {mode} for duration {duration} seconds")
 
     duration = float(duration)
     logging.info(duration)
@@ -19,17 +21,18 @@ def main(server_ip, client_ip, algorithm, duration):
         client_socket.connect((server_ip, server_port))
         logging.info(f"[+] {algorithm} {client_ip} is connected to server {server_ip}:{server_port}.")
         start_time = time.time()
+        end_time = start_time + duration
 
-        while True:
-            # receive data from server
-            data = client_socket.recv(1024)
-            if not data:
-                break
-            client_socket.sendall('ACK'.encode()) 
-            packet_num += 1
-            if time.time() - start_time > duration:
-                client_socket.close()
-                break
+        if mode == 'old':
+            time.sleep(duration)
+        else:
+            while True:
+                # receive data from server
+                data = client_socket.recv(1024)
+                client_socket.sendall('ACK'.encode()) 
+                packet_num += 1
+                if time.time() > end_time:
+                    break
     except ConnectionRefusedError:
         logging.info(f"[-] cannot connected to {server_ip}:{server_port}.")
     except KeyboardInterrupt:
@@ -39,47 +42,50 @@ def main(server_ip, client_ip, algorithm, duration):
         logging.info(f'[-] {client_ip} connection is closed..')
         client_socket.close()
 
-server_ip = sys.argv[1]
-client_ip = sys.argv[2]
-algorithm = sys.argv[3]
-duration = sys.argv[4]
-logging.basicConfig(filename=f'log/client/client_{algorithm}.log', level=logging.DEBUG, format='%(message)s')
-main(server_ip, client_ip, algorithm, duration)
+    '''
+    try:
+        # connect to server
+        client_socket.connect((server_ip, server_port))
+        logging.info(f"[+] {algorithm} {client_ip} is connected to server {server_ip}:{server_port}.")
+        client_socket.send(str(freeze_duration).encode())      ## send information of freeze duration
+        start_time = time.time()
 
-
-'''
-start_time = time.time()
-num_data = 0
-
-# Create clinet socket
-client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
-server_IP = sys.argv[1]
-algo_name = sys.argv[2]
-
-# Set server IP & port
-server_address = (server_IP, server_port)
-
-# Connect to server
-client_socket.connect(server_address)
-clinet_ip = client_socket.getsockname()
-print(f'------------------------------- {algo_name} ----------------------------------------------')
-print(f'Client {clinet_ip} is connected to server: {server_address}')
-print('-----------------------------------------------------------------------------')
-
-while True:
-    if time.time() - start_time > frame_length:
+        while True:
+            try: 
+                data = client_socket.recv(1024)
+                logging.info(f"receives data {len(data)}.")
+                client_socket.sendall('ACK'.encode())
+                packet_num += 1
+            except:
+                pass
+            # if current_time > end_time:
+            #     client_socket.close()
+            #     break
+    except ConnectionRefusedError:
+        logging.info(f"[-] cannot connected to {server_ip}:{server_port}.")
+    except KeyboardInterrupt:
+        logging.info("\n[-] Connection is interrupted.")
+    finally:
+        logging.info(f'{client_ip} received {packet_num} packets.')
+        logging.info(f'[-] {client_ip} connection is closed..')
         client_socket.close()
-        break
+    '''
 
-    # Receive data from server
-    data = client_socket.recv(1024).decode()
-    num_data += 1
+parser = argparse.ArgumentParser(description='Client for Mininet simulation.')
+parser.add_argument('server_ip', type=str, help='Server IP address')
+parser.add_argument('client_ip', type=str, help='Client IP address')
+parser.add_argument('algorithm', type=str, help='Algorithm name')
+parser.add_argument('--mode', type=str, choices=['old', 'new'], help='Operation mode')
+parser.add_argument('duration', type=float, help='Duration in seconds')
+args = parser.parse_args()
 
-    if data:
-        # Send ack to server
-        ack = "Received data"
-        client_socket.sendall(ack.encode())
+main(args.server_ip, args.client_ip, args.algorithm, args.mode, args.duration)
 
-print(f"Received data: {num_data}")
-'''
+# server_ip = sys.argv[1]
+# client_ip = sys.argv[2]
+# algorithm = sys.argv[3]
+# state = sys.argv[4]
+# duration = sys.argv[5]
+# logging.info(f"{server_ip} {client_ip} {algorithm} {state} {duration}")
+# logging.basicConfig(filename=f'log/client/client_{algorithm}.log', level=logging.DEBUG, format='%(message)s')
+# main(server_ip, client_ip, algorithm, state, duration)
