@@ -1,0 +1,48 @@
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 60222)
+[!] ('10.0.9.95', 60222) - Throughput: 90.70 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.95', 60222) - Throughput at second 1: 90.76 Mbps
+[!] ('10.0.9.95', 60222) - Throughput at second 2: 90.69 Mbps
+[!] ('10.0.9.95', 60222) - Throughput at second 3: 90.69 Mbps
+[!] ('10.0.9.95', 60222) - Throughput at second 4: 90.69 Mbps
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 60228)
+[+] accept connection: ('10.0.13.240', 35534)
+[!] ('10.0.9.95', 60228) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.95', 60228) - Throughput at second 1: 0.04 Mbps
+[!] ('10.0.9.95', 60228) - Throughput at second 2: 0.00 Mbps
+[!] ('10.0.9.95', 60228) - Throughput at second 3: 0.00 Mbps
+[!] ('10.0.9.95', 60228) - Throughput at second 4: 0.00 Mbps
+[!] ('10.0.13.240', 35534) - Throughput: 77.72 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 35534) - Throughput at second 1: 90.02 Mbps
+[!] ('10.0.13.240', 35534) - Throughput at second 2: 90.17 Mbps
+[!] ('10.0.13.240', 35534) - Throughput at second 3: 90.68 Mbps
+[!] ('10.0.13.240', 35534) - Throughput at second 4: 90.53 Mbps
+[!] Average Throughput: 38.86 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 52868)
+[+] accept connection: ('10.0.9.98', 36892)
+[!] ('10.0.13.240', 52868) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 52868) - Throughput at second 1: 0.04 Mbps
+[!] ('10.0.13.240', 52868) - Throughput at second 2: 0.00 Mbps
+[!] ('10.0.13.240', 52868) - Throughput at second 3: 0.00 Mbps
+[!] ('10.0.13.240', 52868) - Throughput at second 4: 0.00 Mbps
+[!] ('10.0.9.98', 36892) - Throughput: 64.82 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 36892) - Throughput at second 1: 68.53 Mbps
+[!] ('10.0.9.98', 36892) - Throughput at second 2: 67.99 Mbps
+[!] ('10.0.9.98', 36892) - Throughput at second 3: 81.81 Mbps
+[!] ('10.0.9.98', 36892) - Throughput at second 4: 81.65 Mbps
+[!] Average Throughput: 32.41 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 37922)
+[+] accept connection: ('10.0.3.168', 54336)

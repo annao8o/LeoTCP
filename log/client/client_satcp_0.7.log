@@ -1,0 +1,2850 @@
+2024-03-19 08:20:55,349 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:20:55,349 - 5.0
+2024-03-19 08:20:55,362 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:00,362 - 10.0.9.95 received 69585 packets.
+2024-03-19 08:21:00,362 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:21:04,315 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:04,315 - 0.7
+2024-03-19 08:21:04,328 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:05,016 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:05,016 - 4.3
+2024-03-19 08:21:05,029 - 10.0.9.95 received 0 packets.
+2024-03-19 08:21:05,029 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:21:05,029 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:09,330 - 10.0.13.240 received 42012 packets.
+2024-03-19 08:21:09,330 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:21:13,319 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:13,319 - 0.7
+2024-03-19 08:21:13,332 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:14,022 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:14,022 - 4.3
+2024-03-19 08:21:14,033 - 10.0.13.240 received 0 packets.
+2024-03-19 08:21:14,033 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:21:14,035 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:18,335 - 10.0.9.98 received 41863 packets.
+2024-03-19 08:21:18,336 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:21:22,335 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:22,335 - 0.7
+2024-03-19 08:21:22,348 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:23,035 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:23,035 - 4.3
+2024-03-19 08:21:23,048 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:23,049 - 10.0.9.98 received 0 packets.
+2024-03-19 08:21:23,049 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:21:27,348 - 10.0.3.168 received 49564 packets.
+2024-03-19 08:21:27,348 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:21:31,389 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:31,389 - 0.7
+2024-03-19 08:21:31,401 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:32,086 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:32,086 - 4.3
+2024-03-19 08:21:32,099 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:32,102 - 10.0.3.168 received 0 packets.
+2024-03-19 08:21:32,102 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:21:36,399 - 10.0.8.2 received 48635 packets.
+2024-03-19 08:21:36,399 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:21:40,395 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:40,396 - 0.7
+2024-03-19 08:21:40,408 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:41,099 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:41,099 - 4.3
+2024-03-19 08:21:41,108 - 10.0.8.2 received 0 packets.
+2024-03-19 08:21:41,109 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:21:41,113 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:45,413 - 10.0.4.162 received 49538 packets.
+2024-03-19 08:21:45,413 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:21:49,494 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:49,494 - 0.7
+2024-03-19 08:21:49,507 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:50,192 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:50,192 - 4.3
+2024-03-19 08:21:50,205 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:50,208 - 10.0.4.162 received 0 packets.
+2024-03-19 08:21:50,208 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:21:54,505 - 10.0.19.25 received 51627 packets.
+2024-03-19 08:21:54,505 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:21:58,494 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:21:58,494 - 0.7
+2024-03-19 08:21:58,506 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:21:59,196 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:21:59,196 - 4.3
+2024-03-19 08:21:59,207 - 10.0.19.25 received 0 packets.
+2024-03-19 08:21:59,207 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:21:59,209 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:03,509 - 10.0.13.253 received 35006 packets.
+2024-03-19 08:22:03,509 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:22:07,519 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:22:07,519 - 0.7
+2024-03-19 08:22:07,534 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:08,220 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:22:08,220 - 4.3
+2024-03-19 08:22:08,233 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:08,235 - 10.0.13.253 received 0 packets.
+2024-03-19 08:22:08,235 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:22:12,535 - 10.0.1.7 received 40320 packets.
+2024-03-19 08:22:12,535 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:22:16,532 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:22:16,532 - 0.7
+2024-03-19 08:22:16,544 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:17,236 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:22:17,237 - 4.3
+2024-03-19 08:22:17,245 - 10.0.1.7 received 0 packets.
+2024-03-19 08:22:17,245 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:22:17,248 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:21,549 - 10.0.19.23 received 42072 packets.
+2024-03-19 08:22:21,549 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:22:31,789 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:22:31,789 - 0.7
+2024-03-19 08:22:31,801 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:32,491 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:22:32,491 - 4.3
+2024-03-19 08:22:32,502 - 10.0.19.23 received 0 packets.
+2024-03-19 08:22:32,502 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:22:32,504 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:36,804 - 10.0.6.0 received 37951 packets.
+2024-03-19 08:22:36,804 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:22:40,815 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:22:40,815 - 0.7
+2024-03-19 08:22:40,828 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:41,516 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:22:41,516 - 4.3
+2024-03-19 08:22:41,529 - 10.0.6.0 received 0 packets.
+2024-03-19 08:22:41,529 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:22:41,529 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:45,829 - 10.0.5.252 received 43369 packets.
+2024-03-19 08:22:45,829 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:22:49,853 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:22:49,853 - 0.7
+2024-03-19 08:22:49,866 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:50,553 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:22:50,553 - 4.3
+2024-03-19 08:22:50,566 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:50,566 - 10.0.5.252 received 0 packets.
+2024-03-19 08:22:50,566 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:22:54,866 - 10.0.19.22 received 43542 packets.
+2024-03-19 08:22:54,866 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:22:58,896 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:22:58,896 - 0.7
+2024-03-19 08:22:58,908 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:22:59,599 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:22:59,599 - 4.3
+2024-03-19 08:22:59,609 - 10.0.19.22 received 0 packets.
+2024-03-19 08:22:59,609 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:22:59,612 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:03,912 - 10.0.1.6 received 37782 packets.
+2024-03-19 08:23:03,912 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:23:07,929 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:23:07,929 - 0.7
+2024-03-19 08:23:07,942 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:08,627 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:23:08,627 - 4.3
+2024-03-19 08:23:08,640 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:08,643 - 10.0.1.6 received 0 packets.
+2024-03-19 08:23:08,643 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:23:12,940 - 10.0.3.165 received 40006 packets.
+2024-03-19 08:23:12,940 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:23:16,975 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:23:16,975 - 0.7
+2024-03-19 08:23:16,988 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:17,675 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:23:17,675 - 4.3
+2024-03-19 08:23:17,688 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:17,689 - 10.0.3.165 received 0 packets.
+2024-03-19 08:23:17,689 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:23:21,988 - 10.0.16.71 received 39050 packets.
+2024-03-19 08:23:21,988 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:23:26,055 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:23:26,055 - 0.7
+2024-03-19 08:23:26,070 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:26,753 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:23:26,753 - 4.3
+2024-03-19 08:23:26,766 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:26,770 - 10.0.16.71 received 0 packets.
+2024-03-19 08:23:26,770 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:23:31,067 - 10.0.18.25 received 38408 packets.
+2024-03-19 08:23:31,067 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:23:35,088 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:23:35,088 - 0.7
+2024-03-19 08:23:35,100 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:35,784 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:23:35,784 - 4.3
+2024-03-19 08:23:35,796 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:35,801 - 10.0.18.25 received 0 packets.
+2024-03-19 08:23:35,801 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:23:40,097 - 10.0.17.192 received 40565 packets.
+2024-03-19 08:23:40,097 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:23:44,115 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:23:44,115 - 0.7
+2024-03-19 08:23:44,127 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:44,813 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:23:44,813 - 4.3
+2024-03-19 08:23:44,825 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:44,828 - 10.0.17.192 received 0 packets.
+2024-03-19 08:23:44,828 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:23:49,126 - 10.0.7.166 received 38749 packets.
+2024-03-19 08:23:49,126 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:23:53,163 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:23:53,163 - 0.7
+2024-03-19 08:23:53,176 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:53,864 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:23:53,864 - 4.3
+2024-03-19 08:23:53,876 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:23:53,877 - 10.0.7.166 received 0 packets.
+2024-03-19 08:23:53,877 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:23:58,177 - 10.0.19.20 received 51072 packets.
+2024-03-19 08:23:58,177 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:24:02,225 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:02,225 - 0.7
+2024-03-19 08:24:02,237 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:02,927 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:02,927 - 4.3
+2024-03-19 08:24:02,938 - 10.0.19.20 received 0 packets.
+2024-03-19 08:24:02,938 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:24:02,939 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:07,239 - 10.0.3.143 received 42457 packets.
+2024-03-19 08:24:07,239 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:24:11,267 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:11,267 - 0.7
+2024-03-19 08:24:11,280 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:11,968 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:11,968 - 4.3
+2024-03-19 08:24:11,980 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:11,981 - 10.0.3.143 received 0 packets.
+2024-03-19 08:24:11,981 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:24:16,280 - 10.0.18.28 received 42608 packets.
+2024-03-19 08:24:16,281 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:24:20,337 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:20,337 - 0.7
+2024-03-19 08:24:20,350 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:21,036 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:21,036 - 4.3
+2024-03-19 08:24:21,049 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:21,051 - 10.0.18.28 received 0 packets.
+2024-03-19 08:24:21,051 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:24:25,349 - 10.0.19.19 received 59453 packets.
+2024-03-19 08:24:25,349 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:24:29,385 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:29,386 - 0.7
+2024-03-19 08:24:29,399 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:30,086 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:30,086 - 4.3
+2024-03-19 08:24:30,100 - 10.0.19.19 received 0 packets.
+2024-03-19 08:24:30,100 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:24:30,101 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:34,401 - 10.0.4.175 received 39241 packets.
+2024-03-19 08:24:34,401 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:24:38,410 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:38,410 - 0.7
+2024-03-19 08:24:38,423 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:39,108 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:39,108 - 4.3
+2024-03-19 08:24:39,121 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:39,123 - 10.0.4.175 received 0 packets.
+2024-03-19 08:24:39,124 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:24:43,421 - 10.0.11.250 received 50852 packets.
+2024-03-19 08:24:43,421 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:24:47,467 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:47,467 - 0.7
+2024-03-19 08:24:47,479 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:48,167 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:48,167 - 4.3
+2024-03-19 08:24:48,180 - 10.0.11.250 received 0 packets.
+2024-03-19 08:24:48,180 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:24:48,180 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:52,481 - 10.0.3.246 received 32325 packets.
+2024-03-19 08:24:52,481 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:24:56,525 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:24:56,525 - 0.7
+2024-03-19 08:24:56,538 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:57,226 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:24:57,226 - 4.3
+2024-03-19 08:24:57,238 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:24:57,239 - 10.0.3.246 received 0 packets.
+2024-03-19 08:24:57,239 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:25:01,539 - 10.0.19.21 received 46348 packets.
+2024-03-19 08:25:01,539 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:25:05,565 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:25:05,565 - 0.7
+2024-03-19 08:25:05,577 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:06,266 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:25:06,266 - 4.3
+2024-03-19 08:25:06,278 - 10.0.19.21 received 0 packets.
+2024-03-19 08:25:06,278 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:25:06,278 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:10,579 - 10.0.16.67 received 43683 packets.
+2024-03-19 08:25:10,579 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:25:14,620 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:25:14,620 - 0.7
+2024-03-19 08:25:14,633 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:15,319 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:25:15,319 - 4.3
+2024-03-19 08:25:15,332 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:15,334 - 10.0.16.67 received 0 packets.
+2024-03-19 08:25:15,334 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:25:19,632 - 10.0.4.174 received 43930 packets.
+2024-03-19 08:25:19,632 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:25:23,608 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:25:23,608 - 5.0
+2024-03-19 08:25:23,621 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:28,621 - 10.0.9.95 received 139179 packets.
+2024-03-19 08:25:28,621 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:25:32,621 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:25:32,621 - 0.7
+2024-03-19 08:25:32,634 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:33,322 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:25:33,323 - 4.3
+2024-03-19 08:25:33,335 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:33,335 - 10.0.9.95 received 0 packets.
+2024-03-19 08:25:33,335 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:25:37,635 - 10.0.13.240 received 99435 packets.
+2024-03-19 08:25:37,635 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:25:41,671 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:25:41,671 - 0.7
+2024-03-19 08:25:41,684 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:42,373 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:25:42,373 - 4.3
+2024-03-19 08:25:42,385 - 10.0.13.240 received 0 packets.
+2024-03-19 08:25:42,385 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:25:42,386 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:46,686 - 10.0.9.98 received 80419 packets.
+2024-03-19 08:25:46,686 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:25:50,793 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:25:50,793 - 0.7
+2024-03-19 08:25:50,806 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:51,495 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:25:51,495 - 4.3
+2024-03-19 08:25:51,507 - 10.0.9.98 received 0 packets.
+2024-03-19 08:25:51,507 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:25:51,507 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:25:55,807 - 10.0.3.168 received 66910 packets.
+2024-03-19 08:25:55,808 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:25:59,869 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:25:59,869 - 0.7
+2024-03-19 08:25:59,880 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:00,569 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:26:00,569 - 4.3
+2024-03-19 08:26:00,581 - 10.0.3.168 received 0 packets.
+2024-03-19 08:26:00,581 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:26:00,582 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:04,882 - 10.0.8.2 received 74304 packets.
+2024-03-19 08:26:04,882 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:26:08,943 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:26:08,943 - 0.7
+2024-03-19 08:26:08,956 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:09,642 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:26:09,642 - 4.3
+2024-03-19 08:26:09,655 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:09,657 - 10.0.8.2 received 0 packets.
+2024-03-19 08:26:09,657 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:26:13,955 - 10.0.4.162 received 74020 packets.
+2024-03-19 08:26:13,955 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:26:17,997 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:26:17,997 - 0.7
+2024-03-19 08:26:18,010 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:18,703 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:26:18,703 - 4.3
+2024-03-19 08:26:18,711 - 10.0.4.162 received 0 packets.
+2024-03-19 08:26:18,711 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:26:18,715 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:23,016 - 10.0.19.25 received 58080 packets.
+2024-03-19 08:26:23,016 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:26:27,070 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:26:27,070 - 0.7
+2024-03-19 08:26:27,084 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:27,775 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:26:27,775 - 4.3
+2024-03-19 08:26:27,784 - 10.0.19.25 received 0 packets.
+2024-03-19 08:26:27,785 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:26:27,788 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:32,089 - 10.0.13.253 received 70422 packets.
+2024-03-19 08:26:32,089 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:26:36,144 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:26:36,144 - 0.7
+2024-03-19 08:26:36,157 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:36,846 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:26:36,846 - 4.3
+2024-03-19 08:26:36,858 - 10.0.13.253 received 0 packets.
+2024-03-19 08:26:36,858 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:26:36,859 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:41,159 - 10.0.1.7 received 74268 packets.
+2024-03-19 08:26:41,159 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:26:45,202 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:26:45,202 - 0.7
+2024-03-19 08:26:45,214 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:45,904 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:26:45,904 - 4.3
+2024-03-19 08:26:45,915 - 10.0.1.7 received 0 packets.
+2024-03-19 08:26:45,915 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:26:45,917 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:26:50,217 - 10.0.19.23 received 62308 packets.
+2024-03-19 08:26:50,217 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:27:00,515 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:00,515 - 0.7
+2024-03-19 08:27:00,527 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:01,219 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:01,219 - 4.3
+2024-03-19 08:27:01,228 - 10.0.19.23 received 0 packets.
+2024-03-19 08:27:01,228 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:27:01,232 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:05,532 - 10.0.6.0 received 77654 packets.
+2024-03-19 08:27:05,532 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:27:09,583 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:09,583 - 0.7
+2024-03-19 08:27:09,595 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:10,282 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:10,282 - 4.3
+2024-03-19 08:27:10,295 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:10,296 - 10.0.6.0 received 0 packets.
+2024-03-19 08:27:10,296 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:27:14,595 - 10.0.5.252 received 84622 packets.
+2024-03-19 08:27:14,595 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:27:18,654 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:18,654 - 0.7
+2024-03-19 08:27:18,666 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:19,352 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:19,352 - 4.3
+2024-03-19 08:27:19,365 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:19,367 - 10.0.5.252 received 0 packets.
+2024-03-19 08:27:19,367 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:27:23,665 - 10.0.19.22 received 98653 packets.
+2024-03-19 08:27:23,666 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:27:27,741 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:27,741 - 0.7
+2024-03-19 08:27:27,754 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:28,439 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:28,439 - 4.3
+2024-03-19 08:27:28,452 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:28,455 - 10.0.19.22 received 0 packets.
+2024-03-19 08:27:28,455 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:27:32,752 - 10.0.1.6 received 97896 packets.
+2024-03-19 08:27:32,752 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:27:36,776 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:36,776 - 0.7
+2024-03-19 08:27:36,789 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:37,478 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:37,478 - 4.3
+2024-03-19 08:27:37,489 - 10.0.1.6 received 0 packets.
+2024-03-19 08:27:37,490 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:27:37,490 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:41,791 - 10.0.3.165 received 76292 packets.
+2024-03-19 08:27:41,791 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:27:45,853 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:45,853 - 0.7
+2024-03-19 08:27:45,866 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:46,556 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:46,556 - 4.3
+2024-03-19 08:27:46,567 - 10.0.3.165 received 0 packets.
+2024-03-19 08:27:46,567 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:27:46,569 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:50,869 - 10.0.16.71 received 67915 packets.
+2024-03-19 08:27:50,869 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:27:54,914 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:27:54,915 - 0.7
+2024-03-19 08:27:54,927 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:55,615 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:27:55,615 - 4.3
+2024-03-19 08:27:55,628 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:27:55,628 - 10.0.16.71 received 0 packets.
+2024-03-19 08:27:55,628 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:27:59,928 - 10.0.18.25 received 67018 packets.
+2024-03-19 08:27:59,928 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:28:04,007 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:04,007 - 0.7
+2024-03-19 08:28:04,020 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:04,710 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:04,710 - 4.3
+2024-03-19 08:28:04,721 - 10.0.18.25 received 0 packets.
+2024-03-19 08:28:04,721 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:28:04,722 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:09,022 - 10.0.17.192 received 68407 packets.
+2024-03-19 08:28:09,022 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:28:13,100 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:13,100 - 0.7
+2024-03-19 08:28:13,113 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:13,797 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:13,797 - 4.3
+2024-03-19 08:28:13,810 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:13,813 - 10.0.17.192 received 0 packets.
+2024-03-19 08:28:13,814 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:28:18,110 - 10.0.7.166 received 72003 packets.
+2024-03-19 08:28:18,110 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:28:22,201 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:22,201 - 0.7
+2024-03-19 08:28:22,213 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:22,906 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:22,906 - 4.3
+2024-03-19 08:28:22,914 - 10.0.7.166 received 0 packets.
+2024-03-19 08:28:22,914 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:28:22,919 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:27,219 - 10.0.19.20 received 88542 packets.
+2024-03-19 08:28:27,219 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:28:31,292 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:31,292 - 0.7
+2024-03-19 08:28:31,305 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:31,992 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:31,992 - 4.3
+2024-03-19 08:28:32,005 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:32,006 - 10.0.19.20 received 0 packets.
+2024-03-19 08:28:32,006 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:28:36,305 - 10.0.3.143 received 76222 packets.
+2024-03-19 08:28:36,305 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:28:40,381 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:40,381 - 0.7
+2024-03-19 08:28:40,393 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:41,084 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:41,084 - 4.3
+2024-03-19 08:28:41,094 - 10.0.3.143 received 0 packets.
+2024-03-19 08:28:41,094 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:28:41,097 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:45,397 - 10.0.18.28 received 54596 packets.
+2024-03-19 08:28:45,397 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:28:49,477 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:49,477 - 0.7
+2024-03-19 08:28:49,490 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:50,181 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:50,181 - 4.3
+2024-03-19 08:28:50,191 - 10.0.18.28 received 0 packets.
+2024-03-19 08:28:50,191 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:28:50,195 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:54,495 - 10.0.19.19 received 68072 packets.
+2024-03-19 08:28:54,495 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:28:58,560 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:28:58,560 - 0.7
+2024-03-19 08:28:58,573 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:59,261 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:28:59,261 - 4.3
+2024-03-19 08:28:59,274 - 10.0.19.19 received 0 packets.
+2024-03-19 08:28:59,274 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:28:59,274 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:29:03,574 - 10.0.4.175 received 76558 packets.
+2024-03-19 08:29:03,574 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:29:07,653 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:29:07,653 - 0.7
+2024-03-19 08:29:07,666 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:08,353 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:29:08,353 - 4.3
+2024-03-19 08:29:08,366 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:08,366 - 10.0.4.175 received 0 packets.
+2024-03-19 08:29:08,367 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:29:12,666 - 10.0.11.250 received 77443 packets.
+2024-03-19 08:29:12,666 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:29:16,746 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:29:16,746 - 0.7
+2024-03-19 08:29:16,759 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:17,446 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:29:17,446 - 4.3
+2024-03-19 08:29:17,459 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:17,460 - 10.0.11.250 received 0 packets.
+2024-03-19 08:29:17,460 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:29:21,760 - 10.0.3.246 received 71131 packets.
+2024-03-19 08:29:21,760 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:29:25,835 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:29:25,835 - 0.7
+2024-03-19 08:29:25,848 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:26,535 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:29:26,535 - 4.3
+2024-03-19 08:29:26,548 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:26,549 - 10.0.3.246 received 0 packets.
+2024-03-19 08:29:26,549 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:29:30,848 - 10.0.19.21 received 78815 packets.
+2024-03-19 08:29:30,849 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:29:34,930 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:29:34,930 - 0.7
+2024-03-19 08:29:34,943 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:35,631 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:29:35,631 - 4.3
+2024-03-19 08:29:35,643 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:35,644 - 10.0.19.21 received 0 packets.
+2024-03-19 08:29:35,644 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:29:39,944 - 10.0.16.67 received 70981 packets.
+2024-03-19 08:29:39,944 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:29:44,004 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:29:44,005 - 0.7
+2024-03-19 08:29:44,017 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:44,706 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:29:44,706 - 4.3
+2024-03-19 08:29:44,718 - 10.0.16.67 received 0 packets.
+2024-03-19 08:29:44,718 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:29:44,721 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:49,022 - 10.0.4.174 received 69214 packets.
+2024-03-19 08:29:49,022 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:29:52,988 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:29:52,988 - 5.0
+2024-03-19 08:29:53,001 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:29:58,001 - 10.0.9.95 received 208687 packets.
+2024-03-19 08:29:58,001 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:30:02,036 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:02,037 - 0.7
+2024-03-19 08:30:02,049 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:02,737 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:02,737 - 4.3
+2024-03-19 08:30:02,750 - 10.0.9.95 received 0 packets.
+2024-03-19 08:30:02,750 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:30:02,751 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:07,051 - 10.0.13.240 received 93394 packets.
+2024-03-19 08:30:07,051 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:30:11,116 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:11,116 - 0.7
+2024-03-19 08:30:11,128 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:11,818 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:11,818 - 4.3
+2024-03-19 08:30:11,829 - 10.0.13.240 received 0 packets.
+2024-03-19 08:30:11,829 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:30:11,832 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:16,132 - 10.0.9.98 received 94678 packets.
+2024-03-19 08:30:16,132 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:30:20,179 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:20,179 - 0.7
+2024-03-19 08:30:20,192 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:20,877 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:20,878 - 4.3
+2024-03-19 08:30:20,890 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:20,893 - 10.0.9.98 received 0 packets.
+2024-03-19 08:30:20,893 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:30:25,190 - 10.0.3.168 received 144811 packets.
+2024-03-19 08:30:25,190 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:30:29,289 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:29,289 - 0.7
+2024-03-19 08:30:29,301 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:29,989 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:29,989 - 4.3
+2024-03-19 08:30:30,002 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:30,002 - 10.0.3.168 received 0 packets.
+2024-03-19 08:30:30,002 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:30:34,302 - 10.0.8.2 received 140374 packets.
+2024-03-19 08:30:34,302 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:30:38,399 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:38,400 - 0.7
+2024-03-19 08:30:38,412 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:39,099 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:39,099 - 4.3
+2024-03-19 08:30:39,112 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:39,113 - 10.0.8.2 received 0 packets.
+2024-03-19 08:30:39,113 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:30:43,412 - 10.0.4.162 received 95775 packets.
+2024-03-19 08:30:43,412 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:30:47,463 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:47,463 - 0.7
+2024-03-19 08:30:47,476 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:48,162 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:48,162 - 4.3
+2024-03-19 08:30:48,175 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:48,177 - 10.0.4.162 received 0 packets.
+2024-03-19 08:30:48,177 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:30:52,475 - 10.0.19.25 received 109136 packets.
+2024-03-19 08:30:52,475 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:30:56,560 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:30:56,560 - 0.7
+2024-03-19 08:30:56,573 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:57,260 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:30:57,260 - 4.3
+2024-03-19 08:30:57,272 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:30:57,273 - 10.0.19.25 received 0 packets.
+2024-03-19 08:30:57,274 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:31:01,572 - 10.0.13.253 received 119476 packets.
+2024-03-19 08:31:01,573 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:31:05,631 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:31:05,631 - 0.7
+2024-03-19 08:31:05,644 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:06,332 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:31:06,332 - 4.3
+2024-03-19 08:31:06,345 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:06,345 - 10.0.13.253 received 0 packets.
+2024-03-19 08:31:06,345 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:31:10,645 - 10.0.1.7 received 146716 packets.
+2024-03-19 08:31:10,645 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:31:14,728 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:31:14,728 - 0.7
+2024-03-19 08:31:14,741 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:15,429 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:31:15,429 - 4.3
+2024-03-19 08:31:15,442 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:15,442 - 10.0.1.7 received 0 packets.
+2024-03-19 08:31:15,442 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:31:19,742 - 10.0.19.23 received 99617 packets.
+2024-03-19 08:31:19,742 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:31:30,099 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:31:30,099 - 0.7
+2024-03-19 08:31:30,111 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:30,799 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:31:30,800 - 4.3
+2024-03-19 08:31:30,812 - 10.0.19.23 received 0 packets.
+2024-03-19 08:31:30,812 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:31:30,813 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:35,113 - 10.0.6.0 received 104473 packets.
+2024-03-19 08:31:35,113 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:31:39,207 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:31:39,207 - 0.7
+2024-03-19 08:31:39,220 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:39,906 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:31:39,906 - 4.3
+2024-03-19 08:31:39,919 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:39,920 - 10.0.6.0 received 0 packets.
+2024-03-19 08:31:39,920 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:31:44,219 - 10.0.5.252 received 143062 packets.
+2024-03-19 08:31:44,219 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:31:48,285 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:31:48,285 - 0.7
+2024-03-19 08:31:48,298 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:48,986 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:31:48,986 - 4.3
+2024-03-19 08:31:48,998 - 10.0.5.252 received 0 packets.
+2024-03-19 08:31:48,999 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:31:48,999 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:53,299 - 10.0.19.22 received 111516 packets.
+2024-03-19 08:31:53,299 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:31:57,404 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:31:57,404 - 0.7
+2024-03-19 08:31:57,416 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:58,104 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:31:58,104 - 4.3
+2024-03-19 08:31:58,116 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:31:58,117 - 10.0.19.22 received 0 packets.
+2024-03-19 08:31:58,117 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:32:02,417 - 10.0.1.6 received 127304 packets.
+2024-03-19 08:32:02,417 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:32:06,490 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:32:06,490 - 0.7
+2024-03-19 08:32:06,503 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:07,188 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:32:07,189 - 4.3
+2024-03-19 08:32:07,201 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:07,203 - 10.0.1.6 received 0 packets.
+2024-03-19 08:32:07,204 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:32:11,502 - 10.0.3.165 received 148487 packets.
+2024-03-19 08:32:11,502 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:32:15,599 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:32:15,599 - 0.7
+2024-03-19 08:32:15,612 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:16,301 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:32:16,301 - 4.3
+2024-03-19 08:32:16,312 - 10.0.3.165 received 0 packets.
+2024-03-19 08:32:16,313 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:32:16,314 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:20,614 - 10.0.16.71 received 149436 packets.
+2024-03-19 08:32:20,614 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:32:24,682 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:32:24,682 - 0.7
+2024-03-19 08:32:24,695 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:25,381 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:32:25,381 - 4.3
+2024-03-19 08:32:25,394 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:25,396 - 10.0.16.71 received 0 packets.
+2024-03-19 08:32:25,396 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:32:29,695 - 10.0.18.25 received 86255 packets.
+2024-03-19 08:32:29,695 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:32:33,771 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:32:33,771 - 0.7
+2024-03-19 08:32:33,783 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:34,471 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:32:34,471 - 4.3
+2024-03-19 08:32:34,484 - 10.0.18.25 received 0 packets.
+2024-03-19 08:32:34,484 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:32:34,484 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:38,784 - 10.0.17.192 received 110516 packets.
+2024-03-19 08:32:38,784 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:32:42,896 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:32:42,896 - 0.7
+2024-03-19 08:32:42,909 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:43,598 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:32:43,598 - 4.3
+2024-03-19 08:32:43,610 - 10.0.17.192 received 0 packets.
+2024-03-19 08:32:43,610 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:32:43,611 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:47,911 - 10.0.7.166 received 114558 packets.
+2024-03-19 08:32:47,911 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:32:51,989 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:32:51,989 - 0.7
+2024-03-19 08:32:52,002 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:52,692 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:32:52,692 - 4.3
+2024-03-19 08:32:52,702 - 10.0.7.166 received 0 packets.
+2024-03-19 08:32:52,703 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:32:52,705 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:32:57,005 - 10.0.19.20 received 91764 packets.
+2024-03-19 08:32:57,005 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:33:01,123 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:01,123 - 0.7
+2024-03-19 08:33:01,136 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:01,823 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:01,823 - 4.3
+2024-03-19 08:33:01,836 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:01,836 - 10.0.19.20 received 0 packets.
+2024-03-19 08:33:01,837 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:33:06,136 - 10.0.3.143 received 105220 packets.
+2024-03-19 08:33:06,136 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:33:10,230 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:10,230 - 0.7
+2024-03-19 08:33:10,242 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:10,934 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:10,934 - 4.3
+2024-03-19 08:33:10,943 - 10.0.3.143 received 0 packets.
+2024-03-19 08:33:10,943 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:33:10,946 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:15,246 - 10.0.18.28 received 123485 packets.
+2024-03-19 08:33:15,246 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:33:19,320 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:19,320 - 0.7
+2024-03-19 08:33:19,332 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:20,022 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:20,022 - 4.3
+2024-03-19 08:33:20,033 - 10.0.18.28 received 0 packets.
+2024-03-19 08:33:20,033 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:33:20,035 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:24,335 - 10.0.19.19 received 113711 packets.
+2024-03-19 08:33:24,335 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:33:28,421 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:28,421 - 0.7
+2024-03-19 08:33:28,433 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:29,121 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:29,122 - 4.3
+2024-03-19 08:33:29,134 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:29,134 - 10.0.19.19 received 0 packets.
+2024-03-19 08:33:29,134 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:33:33,434 - 10.0.4.175 received 139211 packets.
+2024-03-19 08:33:33,434 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:33:37,521 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:37,521 - 0.7
+2024-03-19 08:33:37,534 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:38,224 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:38,224 - 4.3
+2024-03-19 08:33:38,235 - 10.0.4.175 received 0 packets.
+2024-03-19 08:33:38,235 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:33:38,236 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:42,537 - 10.0.11.250 received 123794 packets.
+2024-03-19 08:33:42,537 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:33:46,596 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:46,596 - 0.7
+2024-03-19 08:33:46,609 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:47,299 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:47,299 - 4.3
+2024-03-19 08:33:47,310 - 10.0.11.250 received 0 packets.
+2024-03-19 08:33:47,310 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:33:47,312 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:51,612 - 10.0.3.246 received 103933 packets.
+2024-03-19 08:33:51,612 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:33:55,703 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:33:55,703 - 0.7
+2024-03-19 08:33:55,715 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:33:56,404 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:33:56,404 - 4.3
+2024-03-19 08:33:56,416 - 10.0.3.246 received 0 packets.
+2024-03-19 08:33:56,416 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:33:56,417 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:00,717 - 10.0.19.21 received 119889 packets.
+2024-03-19 08:34:00,717 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:34:04,830 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:34:04,830 - 0.7
+2024-03-19 08:34:04,842 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:05,529 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:34:05,529 - 4.3
+2024-03-19 08:34:05,541 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:05,543 - 10.0.19.21 received 0 packets.
+2024-03-19 08:34:05,543 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:34:09,841 - 10.0.16.67 received 94850 packets.
+2024-03-19 08:34:09,841 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:34:13,954 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:34:13,954 - 0.7
+2024-03-19 08:34:13,967 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:14,656 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:34:14,656 - 4.3
+2024-03-19 08:34:14,667 - 10.0.16.67 received 0 packets.
+2024-03-19 08:34:14,668 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:34:14,669 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:18,969 - 10.0.4.174 received 120059 packets.
+2024-03-19 08:34:18,969 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:34:22,965 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:34:22,965 - 5.0
+2024-03-19 08:34:22,977 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:27,978 - 10.0.9.95 received 278177 packets.
+2024-03-19 08:34:27,978 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:34:32,030 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:34:32,030 - 0.7
+2024-03-19 08:34:32,046 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:32,731 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:34:32,731 - 4.3
+2024-03-19 08:34:32,743 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:32,747 - 10.0.9.95 received 0 packets.
+2024-03-19 08:34:32,747 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:34:37,043 - 10.0.13.240 received 95885 packets.
+2024-03-19 08:34:37,043 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:34:41,121 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:34:41,121 - 0.7
+2024-03-19 08:34:41,135 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:41,822 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:34:41,822 - 4.3
+2024-03-19 08:34:41,834 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:41,835 - 10.0.13.240 received 0 packets.
+2024-03-19 08:34:41,835 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:34:46,135 - 10.0.9.98 received 122227 packets.
+2024-03-19 08:34:46,135 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:34:50,248 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:34:50,248 - 0.7
+2024-03-19 08:34:50,260 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:50,950 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:34:50,950 - 4.3
+2024-03-19 08:34:50,961 - 10.0.9.98 received 0 packets.
+2024-03-19 08:34:50,961 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:34:50,963 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:34:55,263 - 10.0.3.168 received 107668 packets.
+2024-03-19 08:34:55,263 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:34:59,378 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:34:59,378 - 0.7
+2024-03-19 08:34:59,391 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:00,078 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:35:00,078 - 4.3
+2024-03-19 08:35:00,091 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:00,091 - 10.0.3.168 received 0 packets.
+2024-03-19 08:35:00,092 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:35:04,391 - 10.0.8.2 received 126170 packets.
+2024-03-19 08:35:04,391 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:35:08,488 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:35:08,488 - 0.7
+2024-03-19 08:35:08,501 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:09,189 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:35:09,189 - 4.3
+2024-03-19 08:35:09,202 - 10.0.8.2 received 0 packets.
+2024-03-19 08:35:09,202 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:35:09,203 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:13,503 - 10.0.4.162 received 88598 packets.
+2024-03-19 08:35:13,503 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:35:17,617 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:35:17,617 - 0.7
+2024-03-19 08:35:17,630 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:18,313 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:35:18,313 - 4.3
+2024-03-19 08:35:18,326 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:18,331 - 10.0.4.162 received 0 packets.
+2024-03-19 08:35:18,331 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:35:22,628 - 10.0.19.25 received 129046 packets.
+2024-03-19 08:35:22,628 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:35:26,719 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:35:26,719 - 0.7
+2024-03-19 08:35:26,731 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:27,420 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:35:27,420 - 4.3
+2024-03-19 08:35:27,432 - 10.0.19.25 received 0 packets.
+2024-03-19 08:35:27,432 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:35:27,432 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:31,732 - 10.0.13.253 received 88471 packets.
+2024-03-19 08:35:31,733 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:35:35,847 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:35:35,847 - 0.7
+2024-03-19 08:35:35,858 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:36,547 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:35:36,547 - 4.3
+2024-03-19 08:35:36,559 - 10.0.13.253 received 0 packets.
+2024-03-19 08:35:36,559 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:35:36,560 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:40,860 - 10.0.1.7 received 184776 packets.
+2024-03-19 08:35:40,860 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:35:44,945 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:35:44,946 - 0.7
+2024-03-19 08:35:44,959 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:45,644 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:35:45,644 - 4.3
+2024-03-19 08:35:45,657 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:35:45,659 - 10.0.1.7 received 0 packets.
+2024-03-19 08:35:45,660 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:35:49,958 - 10.0.19.23 received 98496 packets.
+2024-03-19 08:35:49,958 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:36:00,348 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:00,348 - 0.7
+2024-03-19 08:36:00,360 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:01,050 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:01,050 - 4.3
+2024-03-19 08:36:01,061 - 10.0.19.23 received 0 packets.
+2024-03-19 08:36:01,061 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:36:01,063 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:05,363 - 10.0.6.0 received 121095 packets.
+2024-03-19 08:36:05,363 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:36:09,471 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:09,471 - 0.7
+2024-03-19 08:36:09,484 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:10,172 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:10,172 - 4.3
+2024-03-19 08:36:10,185 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:10,198 - 10.0.6.0 received 0 packets.
+2024-03-19 08:36:10,198 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:36:14,497 - 10.0.5.252 received 96718 packets.
+2024-03-19 08:36:14,506 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:36:18,602 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:18,602 - 0.7
+2024-03-19 08:36:18,615 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:19,303 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:19,303 - 4.3
+2024-03-19 08:36:19,316 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:19,316 - 10.0.5.252 received 0 packets.
+2024-03-19 08:36:19,316 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:36:23,616 - 10.0.19.22 received 153211 packets.
+2024-03-19 08:36:23,616 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:36:27,711 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:27,711 - 0.7
+2024-03-19 08:36:27,724 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:28,413 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:28,413 - 4.3
+2024-03-19 08:36:28,425 - 10.0.19.22 received 0 packets.
+2024-03-19 08:36:28,425 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:36:28,426 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:32,726 - 10.0.1.6 received 96523 packets.
+2024-03-19 08:36:32,726 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:36:36,835 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:36,835 - 0.7
+2024-03-19 08:36:36,847 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:37,534 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:37,534 - 4.3
+2024-03-19 08:36:37,547 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:37,548 - 10.0.1.6 received 0 packets.
+2024-03-19 08:36:37,548 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:36:41,847 - 10.0.3.165 received 160949 packets.
+2024-03-19 08:36:41,847 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:36:45,943 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:45,943 - 0.7
+2024-03-19 08:36:45,956 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:46,641 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:46,641 - 4.3
+2024-03-19 08:36:46,654 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:46,657 - 10.0.3.165 received 0 packets.
+2024-03-19 08:36:46,657 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:36:50,956 - 10.0.16.71 received 77282 packets.
+2024-03-19 08:36:50,956 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:36:55,069 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:36:55,069 - 0.7
+2024-03-19 08:36:55,082 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:55,769 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:36:55,769 - 4.3
+2024-03-19 08:36:55,781 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:36:55,783 - 10.0.16.71 received 0 packets.
+2024-03-19 08:36:55,783 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:37:00,081 - 10.0.18.25 received 189037 packets.
+2024-03-19 08:37:00,082 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:37:04,208 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:04,208 - 0.7
+2024-03-19 08:37:04,221 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:04,908 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:04,908 - 4.3
+2024-03-19 08:37:04,920 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:04,922 - 10.0.18.25 received 0 packets.
+2024-03-19 08:37:04,922 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:37:09,222 - 10.0.17.192 received 85032 packets.
+2024-03-19 08:37:09,222 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:37:13,328 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:13,328 - 0.7
+2024-03-19 08:37:13,340 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:14,029 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:14,029 - 4.3
+2024-03-19 08:37:14,041 - 10.0.17.192 received 0 packets.
+2024-03-19 08:37:14,041 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:37:14,042 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:18,342 - 10.0.7.166 received 90474 packets.
+2024-03-19 08:37:18,342 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:37:22,464 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:22,464 - 0.7
+2024-03-19 08:37:22,477 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:23,162 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:23,162 - 4.3
+2024-03-19 08:37:23,175 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:23,177 - 10.0.7.166 received 0 packets.
+2024-03-19 08:37:23,178 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:37:27,475 - 10.0.19.20 received 149346 packets.
+2024-03-19 08:37:27,475 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:37:31,616 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:31,616 - 0.7
+2024-03-19 08:37:31,629 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:32,315 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:32,315 - 4.3
+2024-03-19 08:37:32,328 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:32,330 - 10.0.19.20 received 0 packets.
+2024-03-19 08:37:32,330 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:37:36,628 - 10.0.3.143 received 118546 packets.
+2024-03-19 08:37:36,628 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:37:40,723 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:40,723 - 0.7
+2024-03-19 08:37:40,736 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:41,427 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:41,427 - 4.3
+2024-03-19 08:37:41,437 - 10.0.3.143 received 0 packets.
+2024-03-19 08:37:41,437 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:37:41,441 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:45,742 - 10.0.18.28 received 103099 packets.
+2024-03-19 08:37:45,742 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:37:49,923 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:49,923 - 0.7
+2024-03-19 08:37:49,936 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:50,621 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:50,621 - 4.3
+2024-03-19 08:37:50,634 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:50,637 - 10.0.18.28 received 0 packets.
+2024-03-19 08:37:50,637 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:37:54,934 - 10.0.19.19 received 80878 packets.
+2024-03-19 08:37:54,935 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:37:59,058 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:37:59,058 - 0.7
+2024-03-19 08:37:59,071 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:59,756 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:37:59,757 - 4.3
+2024-03-19 08:37:59,769 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:37:59,772 - 10.0.19.19 received 0 packets.
+2024-03-19 08:37:59,772 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:38:04,070 - 10.0.4.175 received 98685 packets.
+2024-03-19 08:38:04,070 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:38:08,183 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:38:08,183 - 0.7
+2024-03-19 08:38:08,196 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:08,882 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:38:08,882 - 4.3
+2024-03-19 08:38:08,894 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:08,897 - 10.0.4.175 received 0 packets.
+2024-03-19 08:38:08,897 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:38:13,194 - 10.0.11.250 received 95587 packets.
+2024-03-19 08:38:13,194 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:38:17,334 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:38:17,334 - 0.7
+2024-03-19 08:38:17,347 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:18,033 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:38:18,033 - 4.3
+2024-03-19 08:38:18,046 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:18,048 - 10.0.11.250 received 0 packets.
+2024-03-19 08:38:18,048 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:38:22,348 - 10.0.3.246 received 83633 packets.
+2024-03-19 08:38:22,348 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:38:26,492 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:38:26,492 - 0.7
+2024-03-19 08:38:26,505 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:27,193 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:38:27,193 - 4.3
+2024-03-19 08:38:27,205 - 10.0.3.246 received 0 packets.
+2024-03-19 08:38:27,206 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:38:27,207 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:31,507 - 10.0.19.21 received 182577 packets.
+2024-03-19 08:38:31,507 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:38:35,637 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:38:35,637 - 0.7
+2024-03-19 08:38:35,650 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:36,340 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:38:36,340 - 4.3
+2024-03-19 08:38:36,351 - 10.0.19.21 received 0 packets.
+2024-03-19 08:38:36,351 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:38:36,353 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:40,653 - 10.0.16.67 received 109206 packets.
+2024-03-19 08:38:40,653 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:38:44,765 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:38:44,765 - 0.7
+2024-03-19 08:38:44,778 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:45,467 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:38:45,467 - 4.3
+2024-03-19 08:38:45,479 - 10.0.16.67 received 0 packets.
+2024-03-19 08:38:45,479 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:38:45,480 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:49,780 - 10.0.4.174 received 162491 packets.
+2024-03-19 08:38:49,780 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:38:53,812 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:38:53,812 - 5.0
+2024-03-19 08:38:53,825 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:38:58,825 - 10.0.9.95 received 289940 packets.
+2024-03-19 08:38:58,825 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:39:02,879 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:02,879 - 0.7
+2024-03-19 08:39:02,892 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:03,576 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:03,576 - 4.3
+2024-03-19 08:39:03,589 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:03,593 - 10.0.9.95 received 0 packets.
+2024-03-19 08:39:03,593 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:39:07,889 - 10.0.13.240 received 182917 packets.
+2024-03-19 08:39:07,889 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:39:12,026 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:12,026 - 0.7
+2024-03-19 08:39:12,038 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:12,727 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:12,727 - 4.3
+2024-03-19 08:39:12,739 - 10.0.13.240 received 0 packets.
+2024-03-19 08:39:12,739 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:39:12,740 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:17,040 - 10.0.9.98 received 209202 packets.
+2024-03-19 08:39:17,040 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:39:21,178 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:21,178 - 0.7
+2024-03-19 08:39:21,191 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:21,878 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:21,878 - 4.3
+2024-03-19 08:39:21,891 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:21,892 - 10.0.9.98 received 0 packets.
+2024-03-19 08:39:21,892 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:39:26,192 - 10.0.3.168 received 133928 packets.
+2024-03-19 08:39:26,192 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:39:30,338 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:30,338 - 0.7
+2024-03-19 08:39:30,353 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:31,037 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:31,037 - 4.3
+2024-03-19 08:39:31,049 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:31,054 - 10.0.3.168 received 0 packets.
+2024-03-19 08:39:31,054 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:39:35,349 - 10.0.8.2 received 185205 packets.
+2024-03-19 08:39:35,350 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:39:39,482 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:39,482 - 0.7
+2024-03-19 08:39:39,494 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:40,179 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:40,179 - 4.3
+2024-03-19 08:39:40,192 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:40,195 - 10.0.8.2 received 0 packets.
+2024-03-19 08:39:40,195 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:39:44,495 - 10.0.4.162 received 112035 packets.
+2024-03-19 08:39:44,495 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:39:48,597 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:48,597 - 0.7
+2024-03-19 08:39:48,609 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:49,298 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:49,298 - 4.3
+2024-03-19 08:39:49,310 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:49,310 - 10.0.4.162 received 0 packets.
+2024-03-19 08:39:49,310 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:39:53,610 - 10.0.19.25 received 108898 packets.
+2024-03-19 08:39:53,610 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:39:57,764 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:39:57,764 - 0.7
+2024-03-19 08:39:57,777 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:39:58,467 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:39:58,467 - 4.3
+2024-03-19 08:39:58,478 - 10.0.19.25 received 0 packets.
+2024-03-19 08:39:58,478 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:39:58,480 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:02,780 - 10.0.13.253 received 153019 packets.
+2024-03-19 08:40:02,780 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:40:06,908 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:40:06,908 - 0.7
+2024-03-19 08:40:06,921 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:07,610 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:40:07,610 - 4.3
+2024-03-19 08:40:07,622 - 10.0.13.253 received 0 packets.
+2024-03-19 08:40:07,622 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:40:07,624 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:11,924 - 10.0.1.7 received 104227 packets.
+2024-03-19 08:40:11,924 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:40:16,067 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:40:16,067 - 0.7
+2024-03-19 08:40:16,082 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:16,770 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:40:16,770 - 4.3
+2024-03-19 08:40:16,782 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:16,783 - 10.0.1.7 received 0 packets.
+2024-03-19 08:40:16,783 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:40:21,082 - 10.0.19.23 received 97982 packets.
+2024-03-19 08:40:21,082 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:40:31,534 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:40:31,534 - 0.7
+2024-03-19 08:40:31,546 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:32,234 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:40:32,234 - 4.3
+2024-03-19 08:40:32,246 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:32,247 - 10.0.19.23 received 0 packets.
+2024-03-19 08:40:32,247 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:40:36,546 - 10.0.6.0 received 127354 packets.
+2024-03-19 08:40:36,546 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:40:40,668 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:40:40,668 - 0.7
+2024-03-19 08:40:40,680 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:41,366 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:40:41,366 - 4.3
+2024-03-19 08:40:41,378 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:41,381 - 10.0.6.0 received 0 packets.
+2024-03-19 08:40:41,381 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:40:45,678 - 10.0.5.252 received 104174 packets.
+2024-03-19 08:40:45,678 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:40:49,811 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:40:49,811 - 0.7
+2024-03-19 08:40:49,824 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:50,506 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:40:50,506 - 4.3
+2024-03-19 08:40:50,518 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:50,525 - 10.0.5.252 received 0 packets.
+2024-03-19 08:40:50,525 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:40:54,824 - 10.0.19.22 received 164149 packets.
+2024-03-19 08:40:54,824 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:40:58,940 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:40:58,940 - 0.7
+2024-03-19 08:40:58,953 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:40:59,643 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:40:59,643 - 4.3
+2024-03-19 08:40:59,654 - 10.0.19.22 received 0 packets.
+2024-03-19 08:40:59,654 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:40:59,656 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:03,956 - 10.0.1.6 received 131487 packets.
+2024-03-19 08:41:03,956 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:41:08,128 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:41:08,128 - 0.7
+2024-03-19 08:41:08,144 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:08,829 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:41:08,829 - 4.3
+2024-03-19 08:41:08,842 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:08,844 - 10.0.1.6 received 0 packets.
+2024-03-19 08:41:08,845 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:41:13,144 - 10.0.3.165 received 190318 packets.
+2024-03-19 08:41:13,144 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:41:17,276 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:41:17,276 - 0.7
+2024-03-19 08:41:17,289 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:17,979 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:41:17,979 - 4.3
+2024-03-19 08:41:17,990 - 10.0.3.165 received 0 packets.
+2024-03-19 08:41:17,990 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:41:17,992 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:22,292 - 10.0.16.71 received 112785 packets.
+2024-03-19 08:41:22,292 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:41:26,424 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:41:26,424 - 0.7
+2024-03-19 08:41:26,436 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:27,125 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:41:27,125 - 4.3
+2024-03-19 08:41:27,137 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:27,137 - 10.0.16.71 received 0 packets.
+2024-03-19 08:41:27,137 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:41:31,437 - 10.0.18.25 received 107566 packets.
+2024-03-19 08:41:31,438 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:41:35,596 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:41:35,596 - 0.7
+2024-03-19 08:41:35,608 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:36,299 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:41:36,300 - 4.3
+2024-03-19 08:41:36,309 - 10.0.18.25 received 0 packets.
+2024-03-19 08:41:36,309 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:41:36,313 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:40,613 - 10.0.17.192 received 154651 packets.
+2024-03-19 08:41:40,613 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:41:44,736 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:41:44,736 - 0.7
+2024-03-19 08:41:44,748 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:45,435 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:41:45,435 - 4.3
+2024-03-19 08:41:45,448 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:45,449 - 10.0.17.192 received 0 packets.
+2024-03-19 08:41:45,449 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:41:49,748 - 10.0.7.166 received 179442 packets.
+2024-03-19 08:41:49,748 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:41:53,895 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:41:53,895 - 0.7
+2024-03-19 08:41:53,910 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:54,598 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:41:54,598 - 4.3
+2024-03-19 08:41:54,610 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:41:54,611 - 10.0.7.166 received 0 packets.
+2024-03-19 08:41:54,611 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:41:58,911 - 10.0.19.20 received 167027 packets.
+2024-03-19 08:41:58,911 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:42:03,067 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:03,067 - 0.7
+2024-03-19 08:42:03,079 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:03,764 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:03,765 - 4.3
+2024-03-19 08:42:03,777 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:03,780 - 10.0.19.20 received 0 packets.
+2024-03-19 08:42:03,780 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:42:08,077 - 10.0.3.143 received 215519 packets.
+2024-03-19 08:42:08,077 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:42:12,231 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:12,231 - 0.7
+2024-03-19 08:42:12,244 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:12,932 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:12,932 - 4.3
+2024-03-19 08:42:12,944 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:12,945 - 10.0.3.143 received 0 packets.
+2024-03-19 08:42:12,945 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:42:17,244 - 10.0.18.28 received 223770 packets.
+2024-03-19 08:42:17,244 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:42:21,416 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:21,416 - 0.7
+2024-03-19 08:42:21,429 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:22,114 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:22,114 - 4.3
+2024-03-19 08:42:22,126 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:22,129 - 10.0.18.28 received 0 packets.
+2024-03-19 08:42:22,129 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:42:26,429 - 10.0.19.19 received 124546 packets.
+2024-03-19 08:42:26,429 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:42:30,582 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:30,582 - 0.7
+2024-03-19 08:42:30,595 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:31,286 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:31,286 - 4.3
+2024-03-19 08:42:31,296 - 10.0.19.19 received 0 packets.
+2024-03-19 08:42:31,296 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:42:31,300 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:35,600 - 10.0.4.175 received 238938 packets.
+2024-03-19 08:42:35,600 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:42:39,738 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:39,739 - 0.7
+2024-03-19 08:42:39,751 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:40,438 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:40,438 - 4.3
+2024-03-19 08:42:40,451 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:40,452 - 10.0.4.175 received 0 packets.
+2024-03-19 08:42:40,452 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:42:44,752 - 10.0.11.250 received 154359 packets.
+2024-03-19 08:42:44,752 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:42:48,914 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:48,914 - 0.7
+2024-03-19 08:42:48,928 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:49,612 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:49,612 - 4.3
+2024-03-19 08:42:49,625 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:49,628 - 10.0.11.250 received 0 packets.
+2024-03-19 08:42:49,629 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:42:53,928 - 10.0.3.246 received 75470 packets.
+2024-03-19 08:42:53,928 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:42:58,063 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:42:58,063 - 0.7
+2024-03-19 08:42:58,076 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:42:58,764 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:42:58,764 - 4.3
+2024-03-19 08:42:58,776 - 10.0.3.246 received 0 packets.
+2024-03-19 08:42:58,776 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:42:58,776 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:03,076 - 10.0.19.21 received 150656 packets.
+2024-03-19 08:43:03,076 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:43:07,224 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:43:07,224 - 0.7
+2024-03-19 08:43:07,236 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:07,924 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:43:07,924 - 4.3
+2024-03-19 08:43:07,937 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:07,937 - 10.0.19.21 received 0 packets.
+2024-03-19 08:43:07,937 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:43:12,237 - 10.0.16.67 received 94670 packets.
+2024-03-19 08:43:12,237 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:43:16,392 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:43:16,392 - 0.7
+2024-03-19 08:43:16,405 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:17,092 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:43:17,092 - 4.3
+2024-03-19 08:43:17,105 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:17,105 - 10.0.16.67 received 0 packets.
+2024-03-19 08:43:17,106 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:43:21,405 - 10.0.4.174 received 121184 packets.
+2024-03-19 08:43:21,405 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:43:25,484 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:43:25,484 - 5.0
+2024-03-19 08:43:25,497 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:30,497 - 10.0.9.95 received 351020 packets.
+2024-03-19 08:43:30,497 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:43:34,609 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:43:34,609 - 0.7
+2024-03-19 08:43:34,622 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:35,309 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:43:35,309 - 4.3
+2024-03-19 08:43:35,321 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:35,323 - 10.0.9.95 received 0 packets.
+2024-03-19 08:43:35,323 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:43:39,621 - 10.0.13.240 received 139341 packets.
+2024-03-19 08:43:39,621 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:43:43,767 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:43:43,767 - 0.7
+2024-03-19 08:43:43,780 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:44,467 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:43:44,467 - 4.3
+2024-03-19 08:43:44,480 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:44,480 - 10.0.13.240 received 0 packets.
+2024-03-19 08:43:44,481 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:43:48,780 - 10.0.9.98 received 136778 packets.
+2024-03-19 08:43:48,780 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:43:52,942 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:43:52,942 - 0.7
+2024-03-19 08:43:52,955 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:53,642 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:43:53,642 - 4.3
+2024-03-19 08:43:53,655 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:43:53,656 - 10.0.9.98 received 0 packets.
+2024-03-19 08:43:53,656 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:43:57,955 - 10.0.3.168 received 133256 packets.
+2024-03-19 08:43:57,955 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:44:02,047 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:44:02,047 - 0.7
+2024-03-19 08:44:02,060 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:02,748 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:44:02,748 - 4.3
+2024-03-19 08:44:02,761 - 10.0.3.168 received 0 packets.
+2024-03-19 08:44:02,761 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:44:02,761 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:07,061 - 10.0.8.2 received 169229 packets.
+2024-03-19 08:44:07,061 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:44:11,200 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:44:11,200 - 0.7
+2024-03-19 08:44:11,212 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:11,903 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:44:11,903 - 4.3
+2024-03-19 08:44:11,913 - 10.0.8.2 received 0 packets.
+2024-03-19 08:44:11,913 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:44:11,916 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:16,216 - 10.0.4.162 received 137507 packets.
+2024-03-19 08:44:16,216 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:44:20,364 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:44:20,364 - 0.7
+2024-03-19 08:44:20,377 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:21,066 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:44:21,066 - 4.3
+2024-03-19 08:44:21,078 - 10.0.4.162 received 0 packets.
+2024-03-19 08:44:21,078 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:44:21,079 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:25,379 - 10.0.19.25 received 114322 packets.
+2024-03-19 08:44:25,379 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:44:29,511 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:44:29,511 - 0.7
+2024-03-19 08:44:29,524 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:30,209 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:44:30,210 - 4.3
+2024-03-19 08:44:30,222 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:30,225 - 10.0.19.25 received 0 packets.
+2024-03-19 08:44:30,225 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:44:34,524 - 10.0.13.253 received 182609 packets.
+2024-03-19 08:44:34,524 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:44:38,674 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:44:38,674 - 0.7
+2024-03-19 08:44:38,687 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:39,378 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:44:39,378 - 4.3
+2024-03-19 08:44:39,388 - 10.0.13.253 received 0 packets.
+2024-03-19 08:44:39,388 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:44:39,393 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:43,693 - 10.0.1.7 received 135706 packets.
+2024-03-19 08:44:43,694 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:44:47,854 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:44:47,854 - 0.7
+2024-03-19 08:44:47,865 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:48,555 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:44:48,555 - 4.3
+2024-03-19 08:44:48,566 - 10.0.1.7 received 0 packets.
+2024-03-19 08:44:48,566 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:44:48,567 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:44:52,868 - 10.0.19.23 received 152154 packets.
+2024-03-19 08:44:52,868 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:45:03,364 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:03,364 - 0.7
+2024-03-19 08:45:03,377 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:04,062 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:04,062 - 4.3
+2024-03-19 08:45:04,074 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:04,077 - 10.0.19.23 received 0 packets.
+2024-03-19 08:45:04,078 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:45:08,374 - 10.0.6.0 received 175758 packets.
+2024-03-19 08:45:08,374 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:45:12,551 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:12,551 - 0.7
+2024-03-19 08:45:12,564 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:13,251 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:13,251 - 4.3
+2024-03-19 08:45:13,264 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:13,265 - 10.0.6.0 received 0 packets.
+2024-03-19 08:45:13,265 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:45:17,564 - 10.0.5.252 received 160971 packets.
+2024-03-19 08:45:17,565 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:45:21,706 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:21,706 - 0.7
+2024-03-19 08:45:21,719 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:22,404 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:22,405 - 4.3
+2024-03-19 08:45:22,417 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:22,420 - 10.0.5.252 received 0 packets.
+2024-03-19 08:45:22,420 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:45:26,719 - 10.0.19.22 received 184772 packets.
+2024-03-19 08:45:26,720 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:45:30,896 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:30,897 - 0.7
+2024-03-19 08:45:30,909 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:31,596 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:31,596 - 4.3
+2024-03-19 08:45:31,609 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:31,610 - 10.0.19.22 received 0 packets.
+2024-03-19 08:45:31,610 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:45:35,910 - 10.0.1.6 received 249371 packets.
+2024-03-19 08:45:35,910 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:45:40,068 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:40,068 - 0.7
+2024-03-19 08:45:40,080 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:40,769 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:40,769 - 4.3
+2024-03-19 08:45:40,781 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:40,781 - 10.0.1.6 received 0 packets.
+2024-03-19 08:45:40,781 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:45:45,081 - 10.0.3.165 received 285596 packets.
+2024-03-19 08:45:45,082 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:45:49,247 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:49,248 - 0.7
+2024-03-19 08:45:49,260 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:49,947 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:49,947 - 4.3
+2024-03-19 08:45:49,960 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:49,961 - 10.0.3.165 received 0 packets.
+2024-03-19 08:45:49,961 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:45:54,260 - 10.0.16.71 received 148605 packets.
+2024-03-19 08:45:54,260 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:45:58,446 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:45:58,446 - 0.7
+2024-03-19 08:45:58,458 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:59,143 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:45:59,143 - 4.3
+2024-03-19 08:45:59,156 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:45:59,159 - 10.0.16.71 received 0 packets.
+2024-03-19 08:45:59,159 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:46:03,456 - 10.0.18.25 received 219298 packets.
+2024-03-19 08:46:03,456 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:46:07,613 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:46:07,613 - 0.7
+2024-03-19 08:46:07,626 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:08,313 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:46:08,313 - 4.3
+2024-03-19 08:46:08,325 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:08,327 - 10.0.18.25 received 0 packets.
+2024-03-19 08:46:08,327 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:46:12,626 - 10.0.17.192 received 127521 packets.
+2024-03-19 08:46:12,626 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:46:16,761 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:46:16,761 - 0.7
+2024-03-19 08:46:16,774 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:17,462 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:46:17,462 - 4.3
+2024-03-19 08:46:17,474 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:17,475 - 10.0.17.192 received 0 packets.
+2024-03-19 08:46:17,475 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:46:21,774 - 10.0.7.166 received 122171 packets.
+2024-03-19 08:46:21,774 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:46:25,949 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:46:25,949 - 0.7
+2024-03-19 08:46:25,962 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:26,650 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:46:26,650 - 4.3
+2024-03-19 08:46:26,662 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:26,663 - 10.0.7.166 received 0 packets.
+2024-03-19 08:46:26,663 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:46:30,962 - 10.0.19.20 received 224811 packets.
+2024-03-19 08:46:30,962 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:46:35,131 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:46:35,131 - 0.7
+2024-03-19 08:46:35,143 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:35,833 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:46:35,833 - 4.3
+2024-03-19 08:46:35,844 - 10.0.19.20 received 0 packets.
+2024-03-19 08:46:35,844 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:46:35,846 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:40,146 - 10.0.3.143 received 200661 packets.
+2024-03-19 08:46:40,146 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:46:44,322 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:46:44,322 - 0.7
+2024-03-19 08:46:44,335 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:45,023 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:46:45,023 - 4.3
+2024-03-19 08:46:45,036 - 10.0.3.143 received 0 packets.
+2024-03-19 08:46:45,036 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:46:45,036 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:49,336 - 10.0.18.28 received 137395 packets.
+2024-03-19 08:46:49,336 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:46:53,498 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:46:53,498 - 0.7
+2024-03-19 08:46:53,512 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:54,197 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:46:54,197 - 4.3
+2024-03-19 08:46:54,209 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:46:54,212 - 10.0.18.28 received 0 packets.
+2024-03-19 08:46:54,212 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:46:58,510 - 10.0.19.19 received 248537 packets.
+2024-03-19 08:46:58,510 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:47:02,676 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:47:02,676 - 0.7
+2024-03-19 08:47:02,688 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:03,379 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:47:03,379 - 4.3
+2024-03-19 08:47:03,389 - 10.0.19.19 received 0 packets.
+2024-03-19 08:47:03,389 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:47:03,392 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:07,692 - 10.0.4.175 received 122360 packets.
+2024-03-19 08:47:07,692 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:47:11,843 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:47:11,843 - 0.7
+2024-03-19 08:47:11,856 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:12,542 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:47:12,542 - 4.3
+2024-03-19 08:47:12,554 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:12,556 - 10.0.4.175 received 0 packets.
+2024-03-19 08:47:12,557 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:47:16,854 - 10.0.11.250 received 199251 packets.
+2024-03-19 08:47:16,854 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:47:21,032 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:47:21,032 - 0.7
+2024-03-19 08:47:21,045 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:21,734 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:47:21,734 - 4.3
+2024-03-19 08:47:21,746 - 10.0.11.250 received 0 packets.
+2024-03-19 08:47:21,758 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:47:21,758 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:26,058 - 10.0.3.246 received 149698 packets.
+2024-03-19 08:47:26,058 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:47:30,205 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:47:30,205 - 0.7
+2024-03-19 08:47:30,217 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:30,904 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:47:30,904 - 4.3
+2024-03-19 08:47:30,917 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:30,918 - 10.0.3.246 received 0 packets.
+2024-03-19 08:47:30,918 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:47:35,218 - 10.0.19.21 received 150394 packets.
+2024-03-19 08:47:35,218 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:47:39,421 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:47:39,421 - 0.7
+2024-03-19 08:47:39,433 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:40,123 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:47:40,123 - 4.3
+2024-03-19 08:47:40,134 - 10.0.19.21 received 0 packets.
+2024-03-19 08:47:40,134 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:47:40,135 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:44,435 - 10.0.16.67 received 136093 packets.
+2024-03-19 08:47:44,435 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:47:48,617 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:47:48,617 - 0.7
+2024-03-19 08:47:48,629 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:49,318 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:47:49,318 - 4.3
+2024-03-19 08:47:49,330 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:47:49,330 - 10.0.16.67 received 0 packets.
+2024-03-19 08:47:49,330 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:47:53,630 - 10.0.4.174 received 240729 packets.
+2024-03-19 08:47:53,630 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:47:57,734 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:47:57,734 - 5.0
+2024-03-19 08:47:57,747 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:02,747 - 10.0.9.95 received 412214 packets.
+2024-03-19 08:48:02,747 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:48:06,875 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:48:06,875 - 0.7
+2024-03-19 08:48:06,888 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:07,573 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:48:07,573 - 4.3
+2024-03-19 08:48:07,585 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:07,588 - 10.0.9.95 received 0 packets.
+2024-03-19 08:48:07,589 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:48:11,886 - 10.0.13.240 received 170317 packets.
+2024-03-19 08:48:11,886 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:48:16,065 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:48:16,066 - 0.7
+2024-03-19 08:48:16,077 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:16,771 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:48:16,771 - 4.3
+2024-03-19 08:48:16,778 - 10.0.13.240 received 0 packets.
+2024-03-19 08:48:16,778 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:48:16,786 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:21,086 - 10.0.9.98 received 157269 packets.
+2024-03-19 08:48:21,086 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:48:25,282 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:48:25,282 - 0.7
+2024-03-19 08:48:25,294 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:25,980 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:48:25,980 - 4.3
+2024-03-19 08:48:25,993 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:25,995 - 10.0.9.98 received 0 packets.
+2024-03-19 08:48:25,995 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:48:30,293 - 10.0.3.168 received 238923 packets.
+2024-03-19 08:48:30,293 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:48:34,453 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:48:34,453 - 0.7
+2024-03-19 08:48:34,466 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:35,153 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:48:35,153 - 4.3
+2024-03-19 08:48:35,165 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:35,167 - 10.0.3.168 received 0 packets.
+2024-03-19 08:48:35,167 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:48:39,466 - 10.0.8.2 received 196449 packets.
+2024-03-19 08:48:39,466 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:48:43,653 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:48:43,653 - 0.7
+2024-03-19 08:48:43,665 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:44,351 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:48:44,351 - 4.3
+2024-03-19 08:48:44,364 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:44,366 - 10.0.8.2 received 0 packets.
+2024-03-19 08:48:44,366 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:48:48,664 - 10.0.4.162 received 171037 packets.
+2024-03-19 08:48:48,664 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:48:52,838 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:48:52,838 - 0.7
+2024-03-19 08:48:52,850 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:53,539 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:48:53,539 - 4.3
+2024-03-19 08:48:53,551 - 10.0.4.162 received 0 packets.
+2024-03-19 08:48:53,551 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:48:53,551 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:48:57,851 - 10.0.19.25 received 177707 packets.
+2024-03-19 08:48:57,851 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:49:02,036 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:49:02,036 - 0.7
+2024-03-19 08:49:02,048 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:02,739 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:49:02,739 - 4.3
+2024-03-19 08:49:02,749 - 10.0.19.25 received 0 packets.
+2024-03-19 08:49:02,749 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:49:02,752 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:07,053 - 10.0.13.253 received 197450 packets.
+2024-03-19 08:49:07,053 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:49:11,217 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:49:11,218 - 0.7
+2024-03-19 08:49:11,230 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:11,918 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:49:11,918 - 4.3
+2024-03-19 08:49:11,930 - 10.0.13.253 received 0 packets.
+2024-03-19 08:49:11,931 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:49:11,931 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:16,231 - 10.0.1.7 received 317917 packets.
+2024-03-19 08:49:16,231 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:49:20,398 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:49:20,398 - 0.7
+2024-03-19 08:49:20,411 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:21,097 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:49:21,097 - 4.3
+2024-03-19 08:49:21,109 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:21,112 - 10.0.1.7 received 0 packets.
+2024-03-19 08:49:21,112 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:49:25,409 - 10.0.19.23 received 277809 packets.
+2024-03-19 08:49:25,410 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:49:36,000 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:49:36,000 - 0.7
+2024-03-19 08:49:36,012 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:36,700 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:49:36,700 - 4.3
+2024-03-19 08:49:36,713 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:36,713 - 10.0.19.23 received 0 packets.
+2024-03-19 08:49:36,713 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:49:41,013 - 10.0.6.0 received 197160 packets.
+2024-03-19 08:49:41,013 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:49:45,178 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:49:45,178 - 0.7
+2024-03-19 08:49:45,190 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:45,877 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:49:45,877 - 4.3
+2024-03-19 08:49:45,889 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:45,891 - 10.0.6.0 received 0 packets.
+2024-03-19 08:49:45,891 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:49:50,189 - 10.0.5.252 received 159158 packets.
+2024-03-19 08:49:50,189 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:49:54,355 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:49:54,355 - 0.7
+2024-03-19 08:49:54,368 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:55,055 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:49:55,056 - 4.3
+2024-03-19 08:49:55,068 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:49:55,069 - 10.0.5.252 received 0 packets.
+2024-03-19 08:49:55,069 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:49:59,368 - 10.0.19.22 received 307182 packets.
+2024-03-19 08:49:59,369 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:50:03,572 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:03,572 - 0.7
+2024-03-19 08:50:03,585 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:04,272 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:04,272 - 4.3
+2024-03-19 08:50:04,285 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:04,286 - 10.0.19.22 received 0 packets.
+2024-03-19 08:50:04,286 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:50:08,585 - 10.0.1.6 received 165190 packets.
+2024-03-19 08:50:08,586 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:50:12,753 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:12,753 - 0.7
+2024-03-19 08:50:12,766 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:13,457 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:13,457 - 4.3
+2024-03-19 08:50:13,467 - 10.0.1.6 received 0 packets.
+2024-03-19 08:50:13,467 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:50:13,469 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:17,769 - 10.0.3.165 received 129769 packets.
+2024-03-19 08:50:17,769 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:50:21,961 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:21,961 - 0.7
+2024-03-19 08:50:21,974 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:22,664 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:22,664 - 4.3
+2024-03-19 08:50:22,675 - 10.0.3.165 received 0 packets.
+2024-03-19 08:50:22,675 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:50:22,677 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:26,977 - 10.0.16.71 received 160850 packets.
+2024-03-19 08:50:26,977 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:50:31,152 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:31,152 - 0.7
+2024-03-19 08:50:31,165 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:31,852 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:31,852 - 4.3
+2024-03-19 08:50:31,865 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:31,865 - 10.0.16.71 received 0 packets.
+2024-03-19 08:50:31,866 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:50:36,165 - 10.0.18.25 received 156989 packets.
+2024-03-19 08:50:36,165 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:50:40,340 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:40,340 - 0.7
+2024-03-19 08:50:40,353 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:41,042 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:41,042 - 4.3
+2024-03-19 08:50:41,054 - 10.0.18.25 received 0 packets.
+2024-03-19 08:50:41,054 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:50:41,055 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:45,355 - 10.0.17.192 received 280444 packets.
+2024-03-19 08:50:45,355 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:50:49,539 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:49,539 - 0.7
+2024-03-19 08:50:49,552 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:50,239 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:50,239 - 4.3
+2024-03-19 08:50:50,251 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:50,252 - 10.0.17.192 received 0 packets.
+2024-03-19 08:50:50,253 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:50:54,551 - 10.0.7.166 received 166920 packets.
+2024-03-19 08:50:54,551 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:50:58,712 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:50:58,713 - 0.7
+2024-03-19 08:50:58,725 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:50:59,415 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:50:59,415 - 4.3
+2024-03-19 08:50:59,425 - 10.0.7.166 received 0 packets.
+2024-03-19 08:50:59,426 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:50:59,428 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:03,728 - 10.0.19.20 received 288024 packets.
+2024-03-19 08:51:03,728 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:51:07,940 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:51:07,940 - 0.7
+2024-03-19 08:51:07,953 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:08,642 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:51:08,642 - 4.3
+2024-03-19 08:51:08,654 - 10.0.19.20 received 0 packets.
+2024-03-19 08:51:08,654 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:51:08,656 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:12,956 - 10.0.3.143 received 165946 packets.
+2024-03-19 08:51:12,956 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:51:17,150 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:51:17,150 - 0.7
+2024-03-19 08:51:17,163 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:17,848 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:51:17,848 - 4.3
+2024-03-19 08:51:17,860 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:17,864 - 10.0.3.143 received 0 packets.
+2024-03-19 08:51:17,864 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:51:22,161 - 10.0.18.28 received 290606 packets.
+2024-03-19 08:51:22,161 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:51:26,347 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:51:26,347 - 0.7
+2024-03-19 08:51:26,360 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:27,049 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:51:27,050 - 4.3
+2024-03-19 08:51:27,061 - 10.0.18.28 received 0 packets.
+2024-03-19 08:51:27,061 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:51:27,062 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:31,363 - 10.0.19.19 received 136899 packets.
+2024-03-19 08:51:31,363 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:51:35,560 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:51:35,560 - 0.7
+2024-03-19 08:51:35,573 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:36,261 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:51:36,261 - 4.3
+2024-03-19 08:51:36,273 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:36,274 - 10.0.19.19 received 0 packets.
+2024-03-19 08:51:36,274 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:51:40,573 - 10.0.4.175 received 158557 packets.
+2024-03-19 08:51:40,573 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:51:44,740 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:51:44,740 - 0.7
+2024-03-19 08:51:44,753 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:45,440 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:51:45,440 - 4.3
+2024-03-19 08:51:45,452 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:45,453 - 10.0.4.175 received 0 packets.
+2024-03-19 08:51:45,454 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:51:49,753 - 10.0.11.250 received 134443 packets.
+2024-03-19 08:51:49,753 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:51:53,927 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:51:53,927 - 0.7
+2024-03-19 08:51:53,940 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:54,627 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:51:54,627 - 4.3
+2024-03-19 08:51:54,640 - 10.0.11.250 received 0 packets.
+2024-03-19 08:51:54,640 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:51:54,640 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:51:58,940 - 10.0.3.246 received 119017 packets.
+2024-03-19 08:51:58,940 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:52:03,155 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:52:03,155 - 0.7
+2024-03-19 08:52:03,168 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:03,855 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:52:03,855 - 4.3
+2024-03-19 08:52:03,868 - 10.0.3.246 received 0 packets.
+2024-03-19 08:52:03,869 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:52:03,882 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:08,182 - 10.0.19.21 received 196831 packets.
+2024-03-19 08:52:08,182 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:52:12,368 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:52:12,368 - 0.7
+2024-03-19 08:52:12,381 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:13,071 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:52:13,071 - 4.3
+2024-03-19 08:52:13,082 - 10.0.19.21 received 0 packets.
+2024-03-19 08:52:13,082 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:52:13,085 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:17,385 - 10.0.16.67 received 162586 packets.
+2024-03-19 08:52:17,385 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:52:21,604 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:52:21,604 - 0.7
+2024-03-19 08:52:21,619 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:22,303 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:52:22,303 - 4.3
+2024-03-19 08:52:22,315 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:22,320 - 10.0.16.67 received 0 packets.
+2024-03-19 08:52:22,320 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:52:26,616 - 10.0.4.174 received 197915 packets.
+2024-03-19 08:52:26,616 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:52:30,693 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:52:30,693 - 5.0
+2024-03-19 08:52:30,705 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:35,706 - 10.0.9.95 received 467648 packets.
+2024-03-19 08:52:35,706 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:52:39,878 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:52:39,878 - 0.7
+2024-03-19 08:52:39,890 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:40,582 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:52:40,582 - 4.3
+2024-03-19 08:52:40,591 - 10.0.9.95 received 0 packets.
+2024-03-19 08:52:40,591 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:52:40,595 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:44,895 - 10.0.13.240 received 205827 packets.
+2024-03-19 08:52:44,896 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:52:49,081 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:52:49,081 - 0.7
+2024-03-19 08:52:49,092 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:49,782 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:52:49,782 - 4.3
+2024-03-19 08:52:49,793 - 10.0.13.240 received 0 packets.
+2024-03-19 08:52:49,793 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:52:49,795 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:54,095 - 10.0.9.98 received 246661 packets.
+2024-03-19 08:52:54,095 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:52:58,300 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:52:58,300 - 0.7
+2024-03-19 08:52:58,313 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:59,000 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:52:59,000 - 4.3
+2024-03-19 08:52:59,013 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:52:59,014 - 10.0.9.98 received 0 packets.
+2024-03-19 08:52:59,014 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:53:03,313 - 10.0.3.168 received 194017 packets.
+2024-03-19 08:53:03,313 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:53:07,514 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:53:07,514 - 0.7
+2024-03-19 08:53:07,526 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:08,212 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:53:08,212 - 4.3
+2024-03-19 08:53:08,225 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:08,227 - 10.0.3.168 received 0 packets.
+2024-03-19 08:53:08,227 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:53:12,525 - 10.0.8.2 received 167458 packets.
+2024-03-19 08:53:12,525 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:53:16,754 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:53:16,754 - 0.7
+2024-03-19 08:53:16,766 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:17,453 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:53:17,453 - 4.3
+2024-03-19 08:53:17,465 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:17,467 - 10.0.8.2 received 0 packets.
+2024-03-19 08:53:17,467 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:53:21,766 - 10.0.4.162 received 188990 packets.
+2024-03-19 08:53:21,767 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:53:25,956 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:53:25,956 - 0.7
+2024-03-19 08:53:25,969 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:26,658 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:53:26,658 - 4.3
+2024-03-19 08:53:26,670 - 10.0.4.162 received 0 packets.
+2024-03-19 08:53:26,670 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:53:26,671 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:30,972 - 10.0.19.25 received 205638 packets.
+2024-03-19 08:53:30,972 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:53:35,162 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:53:35,162 - 0.7
+2024-03-19 08:53:35,174 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:35,860 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:53:35,860 - 4.3
+2024-03-19 08:53:35,873 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:35,875 - 10.0.19.25 received 0 packets.
+2024-03-19 08:53:35,875 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:53:40,175 - 10.0.13.253 received 258289 packets.
+2024-03-19 08:53:40,175 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:53:44,363 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:53:44,363 - 0.7
+2024-03-19 08:53:44,375 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:45,066 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:53:45,066 - 4.3
+2024-03-19 08:53:45,076 - 10.0.13.253 received 0 packets.
+2024-03-19 08:53:45,076 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:53:45,078 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:49,379 - 10.0.1.7 received 144779 packets.
+2024-03-19 08:53:49,379 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:53:53,561 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:53:53,561 - 0.7
+2024-03-19 08:53:53,573 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:54,261 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:53:54,261 - 4.3
+2024-03-19 08:53:54,274 - 10.0.1.7 received 0 packets.
+2024-03-19 08:53:54,274 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:53:54,274 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:53:58,575 - 10.0.19.23 received 186456 packets.
+2024-03-19 08:53:58,575 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:54:09,197 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:54:09,197 - 0.7
+2024-03-19 08:54:09,209 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:09,896 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:54:09,896 - 4.3
+2024-03-19 08:54:09,909 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:09,910 - 10.0.19.23 received 0 packets.
+2024-03-19 08:54:09,910 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:54:14,209 - 10.0.6.0 received 198138 packets.
+2024-03-19 08:54:14,209 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:54:18,408 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:54:18,408 - 0.7
+2024-03-19 08:54:18,421 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:19,113 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:54:19,113 - 4.3
+2024-03-19 08:54:19,122 - 10.0.6.0 received 0 packets.
+2024-03-19 08:54:19,122 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:54:19,126 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:23,426 - 10.0.5.252 received 162105 packets.
+2024-03-19 08:54:23,426 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:54:27,621 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:54:27,621 - 0.7
+2024-03-19 08:54:27,633 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:28,323 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:54:28,324 - 4.3
+2024-03-19 08:54:28,334 - 10.0.5.252 received 0 packets.
+2024-03-19 08:54:28,334 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:54:28,336 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:32,636 - 10.0.19.22 received 158996 packets.
+2024-03-19 08:54:32,637 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:54:36,853 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:54:36,853 - 0.7
+2024-03-19 08:54:36,865 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:37,555 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:54:37,555 - 4.3
+2024-03-19 08:54:37,566 - 10.0.19.22 received 0 packets.
+2024-03-19 08:54:37,566 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:54:37,567 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:41,867 - 10.0.1.6 received 169295 packets.
+2024-03-19 08:54:41,867 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:54:46,132 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:54:46,132 - 0.7
+2024-03-19 08:54:46,144 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:46,833 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:54:46,833 - 4.3
+2024-03-19 08:54:46,845 - 10.0.1.6 received 0 packets.
+2024-03-19 08:54:46,845 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:54:46,846 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:51,146 - 10.0.3.165 received 295286 packets.
+2024-03-19 08:54:51,146 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:54:55,355 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:54:55,355 - 0.7
+2024-03-19 08:54:55,368 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:56,055 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:54:56,055 - 4.3
+2024-03-19 08:54:56,068 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:54:56,069 - 10.0.3.165 received 0 packets.
+2024-03-19 08:54:56,069 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:55:00,368 - 10.0.16.71 received 234718 packets.
+2024-03-19 08:55:00,368 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:55:04,584 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:04,584 - 0.7
+2024-03-19 08:55:04,596 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:05,285 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:55:05,285 - 4.3
+2024-03-19 08:55:05,297 - 10.0.16.71 received 0 packets.
+2024-03-19 08:55:05,297 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:55:05,298 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:09,598 - 10.0.18.25 received 317833 packets.
+2024-03-19 08:55:09,598 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:55:13,814 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:13,814 - 0.7
+2024-03-19 08:55:13,826 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:14,514 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:55:14,514 - 4.3
+2024-03-19 08:55:14,527 - 10.0.18.25 received 0 packets.
+2024-03-19 08:55:14,527 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:55:14,528 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:18,828 - 10.0.17.192 received 305089 packets.
+2024-03-19 08:55:18,828 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:55:23,075 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:23,075 - 0.7
+2024-03-19 08:55:23,088 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:23,774 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:55:23,774 - 4.3
+2024-03-19 08:55:23,786 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:23,789 - 10.0.17.192 received 0 packets.
+2024-03-19 08:55:23,789 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:55:28,087 - 10.0.7.166 received 228169 packets.
+2024-03-19 08:55:28,087 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:55:32,307 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:32,307 - 0.7
+2024-03-19 08:55:32,320 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:33,006 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:55:33,006 - 4.3
+2024-03-19 08:55:33,019 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:33,021 - 10.0.7.166 received 0 packets.
+2024-03-19 08:55:33,021 - [-] 10.0.7.166 connection is closed..
+2024-03-19 08:55:37,319 - 10.0.19.20 received 333833 packets.
+2024-03-19 08:55:37,319 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:55:41,548 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:41,548 - 0.7
+2024-03-19 08:55:41,561 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:42,246 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:55:42,246 - 4.3
+2024-03-19 08:55:42,259 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:42,262 - 10.0.19.20 received 0 packets.
+2024-03-19 08:55:42,262 - [-] 10.0.19.20 connection is closed..
+2024-03-19 08:55:46,561 - 10.0.3.143 received 272746 packets.
+2024-03-19 08:55:46,561 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:55:50,774 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:50,774 - 0.7
+2024-03-19 08:55:50,788 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:51,478 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:55:51,478 - 4.3
+2024-03-19 08:55:51,488 - 10.0.3.143 received 0 packets.
+2024-03-19 08:55:51,488 - [-] 10.0.3.143 connection is closed..
+2024-03-19 08:55:51,494 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:55:55,794 - 10.0.18.28 received 275697 packets.
+2024-03-19 08:55:55,794 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:55:59,998 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:55:59,998 - 0.7
+2024-03-19 08:56:00,011 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:00,697 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:00,697 - 4.3
+2024-03-19 08:56:00,710 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:00,712 - 10.0.18.28 received 0 packets.
+2024-03-19 08:56:00,712 - [-] 10.0.18.28 connection is closed..
+2024-03-19 08:56:05,010 - 10.0.19.19 received 263267 packets.
+2024-03-19 08:56:05,010 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:56:09,273 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:56:09,273 - 0.7
+2024-03-19 08:56:09,284 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:09,972 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:09,972 - 4.3
+2024-03-19 08:56:09,985 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:09,985 - 10.0.19.19 received 0 packets.
+2024-03-19 08:56:09,985 - [-] 10.0.19.19 connection is closed..
+2024-03-19 08:56:14,285 - 10.0.4.175 received 181046 packets.
+2024-03-19 08:56:14,285 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:56:18,514 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:56:18,514 - 0.7
+2024-03-19 08:56:18,527 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:19,214 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:19,214 - 4.3
+2024-03-19 08:56:19,227 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:19,228 - 10.0.4.175 received 0 packets.
+2024-03-19 08:56:19,228 - [-] 10.0.4.175 connection is closed..
+2024-03-19 08:56:23,527 - 10.0.11.250 received 227948 packets.
+2024-03-19 08:56:23,527 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:56:27,759 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:56:27,759 - 0.7
+2024-03-19 08:56:27,771 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:28,457 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:28,457 - 4.3
+2024-03-19 08:56:28,470 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:28,472 - 10.0.11.250 received 0 packets.
+2024-03-19 08:56:28,472 - [-] 10.0.11.250 connection is closed..
+2024-03-19 08:56:32,770 - 10.0.3.246 received 219372 packets.
+2024-03-19 08:56:32,770 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:56:37,016 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:56:37,016 - 0.7
+2024-03-19 08:56:37,029 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:37,720 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:37,720 - 4.3
+2024-03-19 08:56:37,729 - 10.0.3.246 received 0 packets.
+2024-03-19 08:56:37,730 - [-] 10.0.3.246 connection is closed..
+2024-03-19 08:56:37,733 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:42,033 - 10.0.19.21 received 316478 packets.
+2024-03-19 08:56:42,033 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:56:46,257 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:56:46,258 - 0.7
+2024-03-19 08:56:46,270 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:46,957 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:46,957 - 4.3
+2024-03-19 08:56:46,970 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:46,971 - 10.0.19.21 received 0 packets.
+2024-03-19 08:56:46,971 - [-] 10.0.19.21 connection is closed..
+2024-03-19 08:56:51,271 - 10.0.16.67 received 193700 packets.
+2024-03-19 08:56:51,271 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:56:55,494 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:56:55,494 - 0.7
+2024-03-19 08:56:55,506 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 08:56:56,197 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:56:56,197 - 4.3
+2024-03-19 08:56:56,207 - 10.0.16.67 received 0 packets.
+2024-03-19 08:56:56,207 - [-] 10.0.16.67 connection is closed..
+2024-03-19 08:56:56,210 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:00,510 - 10.0.4.174 received 282686 packets.
+2024-03-19 08:57:00,510 - [-] 10.0.4.174 connection is closed..
+2024-03-19 08:57:04,641 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 08:57:04,641 - 5.0
+2024-03-19 08:57:04,654 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:09,654 - 10.0.9.95 received 524905 packets.
+2024-03-19 08:57:09,654 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:57:13,848 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:57:13,848 - 0.7
+2024-03-19 08:57:13,861 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:14,548 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:57:14,549 - 4.3
+2024-03-19 08:57:14,561 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:14,562 - 10.0.9.95 received 0 packets.
+2024-03-19 08:57:14,562 - [-] 10.0.9.95 connection is closed..
+2024-03-19 08:57:18,861 - 10.0.13.240 received 298384 packets.
+2024-03-19 08:57:18,874 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:57:23,092 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:57:23,093 - 0.7
+2024-03-19 08:57:23,105 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:23,794 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:57:23,794 - 4.3
+2024-03-19 08:57:23,806 - 10.0.13.240 received 0 packets.
+2024-03-19 08:57:23,806 - [-] 10.0.13.240 connection is closed..
+2024-03-19 08:57:23,807 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:28,108 - 10.0.9.98 received 329299 packets.
+2024-03-19 08:57:28,108 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:57:32,323 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:57:32,323 - 0.7
+2024-03-19 08:57:32,336 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:33,025 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:57:33,025 - 4.3
+2024-03-19 08:57:33,037 - 10.0.9.98 received 0 packets.
+2024-03-19 08:57:33,037 - [-] 10.0.9.98 connection is closed..
+2024-03-19 08:57:33,038 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:37,338 - 10.0.3.168 received 246164 packets.
+2024-03-19 08:57:37,338 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:57:41,583 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:57:41,583 - 0.7
+2024-03-19 08:57:41,596 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:42,281 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:57:42,282 - 4.3
+2024-03-19 08:57:42,294 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:42,297 - 10.0.3.168 received 0 packets.
+2024-03-19 08:57:42,297 - [-] 10.0.3.168 connection is closed..
+2024-03-19 08:57:46,594 - 10.0.8.2 received 266470 packets.
+2024-03-19 08:57:46,594 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:57:50,871 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:57:50,871 - 0.7
+2024-03-19 08:57:50,884 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:51,569 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:57:51,569 - 4.3
+2024-03-19 08:57:51,582 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:57:51,585 - 10.0.8.2 received 0 packets.
+2024-03-19 08:57:51,585 - [-] 10.0.8.2 connection is closed..
+2024-03-19 08:57:55,885 - 10.0.4.162 received 213167 packets.
+2024-03-19 08:57:55,885 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:58:00,121 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:58:00,121 - 0.7
+2024-03-19 08:58:00,134 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:00,825 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:58:00,825 - 4.3
+2024-03-19 08:58:00,834 - 10.0.4.162 received 0 packets.
+2024-03-19 08:58:00,835 - [-] 10.0.4.162 connection is closed..
+2024-03-19 08:58:00,838 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:05,138 - 10.0.19.25 received 278291 packets.
+2024-03-19 08:58:05,139 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:58:09,367 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:58:09,367 - 0.7
+2024-03-19 08:58:09,379 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:10,066 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:58:10,066 - 4.3
+2024-03-19 08:58:10,078 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:10,080 - 10.0.19.25 received 0 packets.
+2024-03-19 08:58:10,080 - [-] 10.0.19.25 connection is closed..
+2024-03-19 08:58:14,378 - 10.0.13.253 received 162131 packets.
+2024-03-19 08:58:14,378 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:58:18,613 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:58:18,613 - 0.7
+2024-03-19 08:58:18,625 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:19,313 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:58:19,313 - 4.3
+2024-03-19 08:58:19,326 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:19,326 - 10.0.13.253 received 0 packets.
+2024-03-19 08:58:19,326 - [-] 10.0.13.253 connection is closed..
+2024-03-19 08:58:23,626 - 10.0.1.7 received 215180 packets.
+2024-03-19 08:58:23,626 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:58:27,855 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:58:27,855 - 0.7
+2024-03-19 08:58:27,867 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:28,553 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:58:28,554 - 4.3
+2024-03-19 08:58:28,566 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:28,568 - 10.0.1.7 received 0 packets.
+2024-03-19 08:58:28,568 - [-] 10.0.1.7 connection is closed..
+2024-03-19 08:58:32,867 - 10.0.19.23 received 183431 packets.
+2024-03-19 08:58:32,867 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:58:43,522 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:58:43,522 - 0.7
+2024-03-19 08:58:43,538 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:44,223 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:58:44,223 - 4.3
+2024-03-19 08:58:44,235 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:44,238 - 10.0.19.23 received 0 packets.
+2024-03-19 08:58:44,238 - [-] 10.0.19.23 connection is closed..
+2024-03-19 08:58:48,538 - 10.0.6.0 received 261174 packets.
+2024-03-19 08:58:48,538 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:58:52,774 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:58:52,774 - 0.7
+2024-03-19 08:58:52,787 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:53,475 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:58:53,475 - 4.3
+2024-03-19 08:58:53,488 - 10.0.6.0 received 0 packets.
+2024-03-19 08:58:53,488 - [-] 10.0.6.0 connection is closed..
+2024-03-19 08:58:53,488 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:58:57,788 - 10.0.5.252 received 326775 packets.
+2024-03-19 08:58:57,788 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:59:02,022 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:02,022 - 0.7
+2024-03-19 08:59:02,035 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:02,725 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:02,725 - 4.3
+2024-03-19 08:59:02,736 - 10.0.5.252 received 0 packets.
+2024-03-19 08:59:02,736 - [-] 10.0.5.252 connection is closed..
+2024-03-19 08:59:02,737 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:07,038 - 10.0.19.22 received 234514 packets.
+2024-03-19 08:59:07,038 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:59:11,283 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:11,283 - 0.7
+2024-03-19 08:59:11,295 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:11,982 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:11,982 - 4.3
+2024-03-19 08:59:11,994 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:11,996 - 10.0.19.22 received 0 packets.
+2024-03-19 08:59:11,996 - [-] 10.0.19.22 connection is closed..
+2024-03-19 08:59:16,295 - 10.0.1.6 received 216453 packets.
+2024-03-19 08:59:16,295 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:59:20,541 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:20,541 - 0.7
+2024-03-19 08:59:20,554 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:21,240 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:21,240 - 4.3
+2024-03-19 08:59:21,253 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:21,254 - 10.0.1.6 received 0 packets.
+2024-03-19 08:59:21,255 - [-] 10.0.1.6 connection is closed..
+2024-03-19 08:59:25,554 - 10.0.3.165 received 145888 packets.
+2024-03-19 08:59:25,554 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:59:29,753 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:29,753 - 0.7
+2024-03-19 08:59:29,766 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:30,457 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:30,457 - 4.3
+2024-03-19 08:59:30,467 - 10.0.3.165 received 0 packets.
+2024-03-19 08:59:30,467 - [-] 10.0.3.165 connection is closed..
+2024-03-19 08:59:30,471 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:34,771 - 10.0.16.71 received 249885 packets.
+2024-03-19 08:59:34,771 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:59:38,990 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:38,990 - 0.7
+2024-03-19 08:59:39,003 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:39,690 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:39,690 - 4.3
+2024-03-19 08:59:39,703 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:39,704 - 10.0.16.71 received 0 packets.
+2024-03-19 08:59:39,704 - [-] 10.0.16.71 connection is closed..
+2024-03-19 08:59:44,003 - 10.0.18.25 received 224669 packets.
+2024-03-19 08:59:44,003 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:59:48,253 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:48,254 - 0.7
+2024-03-19 08:59:48,267 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:48,951 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:48,951 - 4.3
+2024-03-19 08:59:48,964 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:48,967 - 10.0.18.25 received 0 packets.
+2024-03-19 08:59:48,967 - [-] 10.0.18.25 connection is closed..
+2024-03-19 08:59:53,264 - 10.0.17.192 received 285538 packets.
+2024-03-19 08:59:53,264 - [-] 10.0.17.192 connection is closed..
+2024-03-19 08:59:57,510 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 08:59:57,511 - 0.7
+2024-03-19 08:59:57,523 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:58,208 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 08:59:58,208 - 4.3
+2024-03-19 08:59:58,220 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 08:59:58,224 - 10.0.17.192 received 0 packets.
+2024-03-19 08:59:58,224 - [-] 10.0.17.192 connection is closed..
+2024-03-19 09:00:02,521 - 10.0.7.166 received 197108 packets.
+2024-03-19 09:00:02,521 - [-] 10.0.7.166 connection is closed..
+2024-03-19 09:00:06,795 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:00:06,795 - 0.7
+2024-03-19 09:00:06,808 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:07,493 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:00:07,493 - 4.3
+2024-03-19 09:00:07,505 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:07,509 - 10.0.7.166 received 0 packets.
+2024-03-19 09:00:07,509 - [-] 10.0.7.166 connection is closed..
+2024-03-19 09:00:11,807 - 10.0.19.20 received 208933 packets.
+2024-03-19 09:00:11,807 - [-] 10.0.19.20 connection is closed..
+2024-03-19 09:00:16,025 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:00:16,025 - 0.7
+2024-03-19 09:00:16,038 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:16,726 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:00:16,726 - 4.3
+2024-03-19 09:00:16,738 - 10.0.19.20 received 0 packets.
+2024-03-19 09:00:16,739 - [-] 10.0.19.20 connection is closed..
+2024-03-19 09:00:16,739 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:21,039 - 10.0.3.143 received 218413 packets.
+2024-03-19 09:00:21,039 - [-] 10.0.3.143 connection is closed..
+2024-03-19 09:00:25,272 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:00:25,272 - 0.7
+2024-03-19 09:00:25,284 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:25,974 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:00:25,974 - 4.3
+2024-03-19 09:00:25,985 - 10.0.3.143 received 0 packets.
+2024-03-19 09:00:25,985 - [-] 10.0.3.143 connection is closed..
+2024-03-19 09:00:25,987 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:30,287 - 10.0.18.28 received 195655 packets.
+2024-03-19 09:00:30,287 - [-] 10.0.18.28 connection is closed..
+2024-03-19 09:00:34,523 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:00:34,523 - 0.7
+2024-03-19 09:00:34,536 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:35,224 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:00:35,224 - 4.3
+2024-03-19 09:00:35,236 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:35,237 - 10.0.18.28 received 0 packets.
+2024-03-19 09:00:35,237 - [-] 10.0.18.28 connection is closed..
+2024-03-19 09:00:39,537 - 10.0.19.19 received 280689 packets.
+2024-03-19 09:00:39,537 - [-] 10.0.19.19 connection is closed..
+2024-03-19 09:00:43,803 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:00:43,803 - 0.7
+2024-03-19 09:00:43,816 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:44,507 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:00:44,507 - 4.3
+2024-03-19 09:00:44,517 - 10.0.19.19 received 0 packets.
+2024-03-19 09:00:44,517 - [-] 10.0.19.19 connection is closed..
+2024-03-19 09:00:44,520 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:48,820 - 10.0.4.175 received 313522 packets.
+2024-03-19 09:00:48,820 - [-] 10.0.4.175 connection is closed..
+2024-03-19 09:00:53,099 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:00:53,099 - 0.7
+2024-03-19 09:00:53,111 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:53,799 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:00:53,799 - 4.3
+2024-03-19 09:00:53,812 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 09:00:53,812 - 10.0.4.175 received 0 packets.
+2024-03-19 09:00:53,812 - [-] 10.0.4.175 connection is closed..
+2024-03-19 09:00:58,112 - 10.0.11.250 received 234557 packets.
+2024-03-19 09:00:58,112 - [-] 10.0.11.250 connection is closed..
+2024-03-19 09:01:02,368 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:01:02,368 - 0.7
+2024-03-19 09:01:02,380 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:03,072 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:01:03,072 - 4.3
+2024-03-19 09:01:03,081 - 10.0.11.250 received 0 packets.
+2024-03-19 09:01:03,081 - [-] 10.0.11.250 connection is closed..
+2024-03-19 09:01:03,085 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:07,385 - 10.0.3.246 received 312349 packets.
+2024-03-19 09:01:07,386 - [-] 10.0.3.246 connection is closed..
+2024-03-19 09:01:11,641 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:01:11,641 - 0.7
+2024-03-19 09:01:11,654 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:12,342 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:01:12,342 - 4.3
+2024-03-19 09:01:12,354 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:12,355 - 10.0.3.246 received 0 packets.
+2024-03-19 09:01:12,355 - [-] 10.0.3.246 connection is closed..
+2024-03-19 09:01:16,654 - 10.0.19.21 received 215763 packets.
+2024-03-19 09:01:16,654 - [-] 10.0.19.21 connection is closed..
+2024-03-19 09:01:20,922 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:01:20,922 - 0.7
+2024-03-19 09:01:20,935 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:21,622 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:01:21,622 - 4.3
+2024-03-19 09:01:21,635 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:21,636 - 10.0.19.21 received 0 packets.
+2024-03-19 09:01:21,636 - [-] 10.0.19.21 connection is closed..
+2024-03-19 09:01:25,935 - 10.0.16.67 received 319783 packets.
+2024-03-19 09:01:25,936 - [-] 10.0.16.67 connection is closed..
+2024-03-19 09:01:30,183 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:01:30,183 - 0.7
+2024-03-19 09:01:30,196 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:30,882 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:01:30,882 - 4.3
+2024-03-19 09:01:30,896 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:30,897 - 10.0.16.67 received 0 packets.
+2024-03-19 09:01:30,897 - [-] 10.0.16.67 connection is closed..
+2024-03-19 09:01:35,196 - 10.0.4.174 received 276814 packets.
+2024-03-19 09:01:35,196 - [-] 10.0.4.174 connection is closed..
+2024-03-19 09:01:39,337 - Starting client with mode new for duration 5.0 seconds
+2024-03-19 09:01:39,337 - 5.0
+2024-03-19 09:01:39,349 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:44,349 - 10.0.9.95 received 587749 packets.
+2024-03-19 09:01:44,350 - [-] 10.0.9.95 connection is closed..
+2024-03-19 09:01:48,572 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:01:48,572 - 0.7
+2024-03-19 09:01:48,617 - [+] satcp_0.7 10.0.9.95 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:49,256 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:01:49,256 - 4.3
+2024-03-19 09:01:49,268 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:49,318 - 10.0.9.95 received 0 packets.
+2024-03-19 09:01:49,318 - [-] 10.0.9.95 connection is closed..
+2024-03-19 09:01:53,568 - 10.0.13.240 received 246497 packets.
+2024-03-19 09:01:53,568 - [-] 10.0.13.240 connection is closed..
+2024-03-19 09:01:57,835 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:01:57,836 - 0.7
+2024-03-19 09:01:57,848 - [+] satcp_0.7 10.0.13.240 is connected to server 10.0.1.100:12345.
+2024-03-19 09:01:58,537 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:01:58,537 - 4.3
+2024-03-19 09:01:58,549 - 10.0.13.240 received 0 packets.
+2024-03-19 09:01:58,549 - [-] 10.0.13.240 connection is closed..
+2024-03-19 09:01:58,550 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:02,850 - 10.0.9.98 received 193042 packets.
+2024-03-19 09:02:02,850 - [-] 10.0.9.98 connection is closed..
+2024-03-19 09:02:07,101 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:02:07,101 - 0.7
+2024-03-19 09:02:07,114 - [+] satcp_0.7 10.0.9.98 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:07,804 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:02:07,804 - 4.3
+2024-03-19 09:02:07,814 - 10.0.9.98 received 0 packets.
+2024-03-19 09:02:07,815 - [-] 10.0.9.98 connection is closed..
+2024-03-19 09:02:07,816 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:12,117 - 10.0.3.168 received 224641 packets.
+2024-03-19 09:02:12,117 - [-] 10.0.3.168 connection is closed..
+2024-03-19 09:02:16,330 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:02:16,330 - 0.7
+2024-03-19 09:02:16,343 - [+] satcp_0.7 10.0.3.168 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:17,028 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:02:17,029 - 4.3
+2024-03-19 09:02:17,041 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:17,044 - 10.0.3.168 received 0 packets.
+2024-03-19 09:02:17,044 - [-] 10.0.3.168 connection is closed..
+2024-03-19 09:02:21,343 - 10.0.8.2 received 208785 packets.
+2024-03-19 09:02:21,343 - [-] 10.0.8.2 connection is closed..
+2024-03-19 09:02:25,579 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:02:25,579 - 0.7
+2024-03-19 09:02:25,592 - [+] satcp_0.7 10.0.8.2 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:26,279 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:02:26,279 - 4.3
+2024-03-19 09:02:26,292 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:26,293 - 10.0.8.2 received 0 packets.
+2024-03-19 09:02:26,293 - [-] 10.0.8.2 connection is closed..
+2024-03-19 09:02:30,592 - 10.0.4.162 received 231248 packets.
+2024-03-19 09:02:30,592 - [-] 10.0.4.162 connection is closed..
+2024-03-19 09:02:34,845 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:02:34,845 - 0.7
+2024-03-19 09:02:34,858 - [+] satcp_0.7 10.0.4.162 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:35,545 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:02:35,545 - 4.3
+2024-03-19 09:02:35,558 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:35,558 - 10.0.4.162 received 0 packets.
+2024-03-19 09:02:35,559 - [-] 10.0.4.162 connection is closed..
+2024-03-19 09:02:39,858 - 10.0.19.25 received 213823 packets.
+2024-03-19 09:02:39,858 - [-] 10.0.19.25 connection is closed..
+2024-03-19 09:02:44,110 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:02:44,110 - 0.7
+2024-03-19 09:02:44,122 - [+] satcp_0.7 10.0.19.25 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:44,814 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:02:44,814 - 4.3
+2024-03-19 09:02:44,823 - 10.0.19.25 received 0 packets.
+2024-03-19 09:02:44,823 - [-] 10.0.19.25 connection is closed..
+2024-03-19 09:02:44,827 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:49,127 - 10.0.13.253 received 301833 packets.
+2024-03-19 09:02:49,127 - [-] 10.0.13.253 connection is closed..
+2024-03-19 09:02:53,403 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:02:53,403 - 0.7
+2024-03-19 09:02:53,416 - [+] satcp_0.7 10.0.13.253 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:54,101 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:02:54,101 - 4.3
+2024-03-19 09:02:54,114 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 09:02:54,117 - 10.0.13.253 received 0 packets.
+2024-03-19 09:02:54,117 - [-] 10.0.13.253 connection is closed..
+2024-03-19 09:02:58,414 - 10.0.1.7 received 213818 packets.
+2024-03-19 09:02:58,414 - [-] 10.0.1.7 connection is closed..
+2024-03-19 09:03:02,688 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:03:02,688 - 0.7
+2024-03-19 09:03:02,701 - [+] satcp_0.7 10.0.1.7 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:03,386 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:03:03,386 - 4.3
+2024-03-19 09:03:03,398 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:03,402 - 10.0.1.7 received 0 packets.
+2024-03-19 09:03:03,402 - [-] 10.0.1.7 connection is closed..
+2024-03-19 09:03:07,699 - 10.0.19.23 received 331110 packets.
+2024-03-19 09:03:07,699 - [-] 10.0.19.23 connection is closed..
+2024-03-19 09:03:18,438 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:03:18,438 - 0.7
+2024-03-19 09:03:18,451 - [+] satcp_0.7 10.0.19.23 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:19,139 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:03:19,140 - 4.3
+2024-03-19 09:03:19,152 - 10.0.19.23 received 0 packets.
+2024-03-19 09:03:19,152 - [-] 10.0.19.23 connection is closed..
+2024-03-19 09:03:19,153 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:23,453 - 10.0.6.0 received 340964 packets.
+2024-03-19 09:03:23,453 - [-] 10.0.6.0 connection is closed..
+2024-03-19 09:03:27,730 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:03:27,730 - 0.7
+2024-03-19 09:03:27,742 - [+] satcp_0.7 10.0.6.0 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:28,429 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:03:28,429 - 4.3
+2024-03-19 09:03:28,442 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:28,443 - 10.0.6.0 received 0 packets.
+2024-03-19 09:03:28,443 - [-] 10.0.6.0 connection is closed..
+2024-03-19 09:03:32,742 - 10.0.5.252 received 218408 packets.
+2024-03-19 09:03:32,742 - [-] 10.0.5.252 connection is closed..
+2024-03-19 09:03:37,016 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:03:37,016 - 0.7
+2024-03-19 09:03:37,029 - [+] satcp_0.7 10.0.5.252 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:37,716 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:03:37,716 - 4.3
+2024-03-19 09:03:37,729 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:37,730 - 10.0.5.252 received 0 packets.
+2024-03-19 09:03:37,730 - [-] 10.0.5.252 connection is closed..
+2024-03-19 09:03:42,029 - 10.0.19.22 received 283147 packets.
+2024-03-19 09:03:42,029 - [-] 10.0.19.22 connection is closed..
+2024-03-19 09:03:46,324 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:03:46,324 - 0.7
+2024-03-19 09:03:46,337 - [+] satcp_0.7 10.0.19.22 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:47,021 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:03:47,021 - 4.3
+2024-03-19 09:03:47,034 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:47,038 - 10.0.19.22 received 0 packets.
+2024-03-19 09:03:47,038 - [-] 10.0.19.22 connection is closed..
+2024-03-19 09:03:51,334 - 10.0.1.6 received 270189 packets.
+2024-03-19 09:03:51,334 - [-] 10.0.1.6 connection is closed..
+2024-03-19 09:03:55,587 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:03:55,587 - 0.7
+2024-03-19 09:03:55,600 - [+] satcp_0.7 10.0.1.6 is connected to server 10.0.1.100:12345.
+2024-03-19 09:03:56,289 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:03:56,289 - 4.3
+2024-03-19 09:03:56,301 - 10.0.1.6 received 0 packets.
+2024-03-19 09:03:56,301 - [-] 10.0.1.6 connection is closed..
+2024-03-19 09:03:56,302 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:00,602 - 10.0.3.165 received 317643 packets.
+2024-03-19 09:04:00,602 - [-] 10.0.3.165 connection is closed..
+2024-03-19 09:04:04,871 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:04:04,871 - 0.7
+2024-03-19 09:04:04,884 - [+] satcp_0.7 10.0.3.165 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:05,569 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:04:05,570 - 4.3
+2024-03-19 09:04:05,582 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:05,585 - 10.0.3.165 received 0 packets.
+2024-03-19 09:04:05,585 - [-] 10.0.3.165 connection is closed..
+2024-03-19 09:04:09,882 - 10.0.16.71 received 351497 packets.
+2024-03-19 09:04:09,882 - [-] 10.0.16.71 connection is closed..
+2024-03-19 09:04:14,114 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:04:14,114 - 0.7
+2024-03-19 09:04:14,127 - [+] satcp_0.7 10.0.16.71 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:14,819 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:04:14,819 - 4.3
+2024-03-19 09:04:14,828 - 10.0.16.71 received 0 packets.
+2024-03-19 09:04:14,828 - [-] 10.0.16.71 connection is closed..
+2024-03-19 09:04:14,832 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:19,132 - 10.0.18.25 received 197966 packets.
+2024-03-19 09:04:19,132 - [-] 10.0.18.25 connection is closed..
+2024-03-19 09:04:23,411 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:04:23,411 - 0.7
+2024-03-19 09:04:23,424 - [+] satcp_0.7 10.0.18.25 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:24,112 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:04:24,112 - 4.3
+2024-03-19 09:04:24,125 - 10.0.18.25 received 0 packets.
+2024-03-19 09:04:24,125 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:24,125 - [-] 10.0.18.25 connection is closed..
+2024-03-19 09:04:28,425 - 10.0.17.192 received 278405 packets.
+2024-03-19 09:04:28,425 - [-] 10.0.17.192 connection is closed..
+2024-03-19 09:04:32,696 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:04:32,696 - 0.7
+2024-03-19 09:04:32,709 - [+] satcp_0.7 10.0.17.192 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:33,400 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:04:33,400 - 4.3
+2024-03-19 09:04:33,410 - 10.0.17.192 received 0 packets.
+2024-03-19 09:04:33,410 - [-] 10.0.17.192 connection is closed..
+2024-03-19 09:04:33,413 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:37,713 - 10.0.7.166 received 236871 packets.
+2024-03-19 09:04:37,713 - [-] 10.0.7.166 connection is closed..
+2024-03-19 09:04:41,980 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:04:41,980 - 0.7
+2024-03-19 09:04:41,992 - [+] satcp_0.7 10.0.7.166 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:42,682 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:04:42,683 - 4.3
+2024-03-19 09:04:42,692 - 10.0.7.166 received 0 packets.
+2024-03-19 09:04:42,692 - [-] 10.0.7.166 connection is closed..
+2024-03-19 09:04:42,696 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:46,996 - 10.0.19.20 received 349426 packets.
+2024-03-19 09:04:46,996 - [-] 10.0.19.20 connection is closed..
+2024-03-19 09:04:51,260 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:04:51,260 - 0.7
+2024-03-19 09:04:51,273 - [+] satcp_0.7 10.0.19.20 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:51,960 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:04:51,960 - 4.3
+2024-03-19 09:04:51,973 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 09:04:51,973 - 10.0.19.20 received 0 packets.
+2024-03-19 09:04:51,974 - [-] 10.0.19.20 connection is closed..
+2024-03-19 09:04:56,273 - 10.0.3.143 received 233043 packets.
+2024-03-19 09:04:56,273 - [-] 10.0.3.143 connection is closed..
+2024-03-19 09:05:00,500 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:00,500 - 0.7
+2024-03-19 09:05:00,512 - [+] satcp_0.7 10.0.3.143 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:01,201 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:01,201 - 4.3
+2024-03-19 09:05:01,213 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:01,213 - 10.0.3.143 received 0 packets.
+2024-03-19 09:05:01,213 - [-] 10.0.3.143 connection is closed..
+2024-03-19 09:05:05,513 - 10.0.18.28 received 257224 packets.
+2024-03-19 09:05:05,513 - [-] 10.0.18.28 connection is closed..
+2024-03-19 09:05:09,828 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:09,828 - 0.7
+2024-03-19 09:05:09,841 - [+] satcp_0.7 10.0.18.28 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:10,530 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:10,530 - 4.3
+2024-03-19 09:05:10,542 - 10.0.18.28 received 0 packets.
+2024-03-19 09:05:10,542 - [-] 10.0.18.28 connection is closed..
+2024-03-19 09:05:10,543 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:14,843 - 10.0.19.19 received 264969 packets.
+2024-03-19 09:05:14,843 - [-] 10.0.19.19 connection is closed..
+2024-03-19 09:05:19,156 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:19,156 - 0.7
+2024-03-19 09:05:19,168 - [+] satcp_0.7 10.0.19.19 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:19,857 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:19,857 - 4.3
+2024-03-19 09:05:19,869 - 10.0.19.19 received 0 packets.
+2024-03-19 09:05:19,869 - [-] 10.0.19.19 connection is closed..
+2024-03-19 09:05:19,870 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:24,170 - 10.0.4.175 received 300488 packets.
+2024-03-19 09:05:24,170 - [-] 10.0.4.175 connection is closed..
+2024-03-19 09:05:28,421 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:28,421 - 0.7
+2024-03-19 09:05:28,433 - [+] satcp_0.7 10.0.4.175 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:29,121 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:29,121 - 4.3
+2024-03-19 09:05:29,134 - 10.0.4.175 received 0 packets.
+2024-03-19 09:05:29,134 - [-] 10.0.4.175 connection is closed..
+2024-03-19 09:05:29,134 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:33,434 - 10.0.11.250 received 221070 packets.
+2024-03-19 09:05:33,434 - [-] 10.0.11.250 connection is closed..
+2024-03-19 09:05:37,718 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:37,718 - 0.7
+2024-03-19 09:05:37,731 - [+] satcp_0.7 10.0.11.250 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:38,420 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:38,421 - 4.3
+2024-03-19 09:05:38,432 - 10.0.11.250 received 0 packets.
+2024-03-19 09:05:38,432 - [-] 10.0.11.250 connection is closed..
+2024-03-19 09:05:38,434 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:42,734 - 10.0.3.246 received 335097 packets.
+2024-03-19 09:05:42,734 - [-] 10.0.3.246 connection is closed..
+2024-03-19 09:05:46,999 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:46,999 - 0.7
+2024-03-19 09:05:47,012 - [+] satcp_0.7 10.0.3.246 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:47,699 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:47,699 - 4.3
+2024-03-19 09:05:47,712 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:47,713 - 10.0.3.246 received 0 packets.
+2024-03-19 09:05:47,713 - [-] 10.0.3.246 connection is closed..
+2024-03-19 09:05:52,012 - 10.0.19.21 received 253432 packets.
+2024-03-19 09:05:52,012 - [-] 10.0.19.21 connection is closed..
+2024-03-19 09:05:56,265 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:05:56,265 - 0.7
+2024-03-19 09:05:56,278 - [+] satcp_0.7 10.0.19.21 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:56,965 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:05:56,965 - 4.3
+2024-03-19 09:05:56,978 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 09:05:56,979 - 10.0.19.21 received 0 packets.
+2024-03-19 09:05:56,979 - [-] 10.0.19.21 connection is closed..
+2024-03-19 09:06:01,278 - 10.0.16.67 received 264095 packets.
+2024-03-19 09:06:01,278 - [-] 10.0.16.67 connection is closed..
+2024-03-19 09:06:05,561 - Starting client with mode old for duration 0.7 seconds
+2024-03-19 09:06:05,561 - 0.7
+2024-03-19 09:06:05,574 - [+] satcp_0.7 10.0.16.67 is connected to server 10.0.1.100:12345.
+2024-03-19 09:06:06,263 - Starting client with mode new for duration 4.3 seconds
+2024-03-19 09:06:06,263 - 4.3
+2024-03-19 09:06:06,275 - 10.0.16.67 received 0 packets.
+2024-03-19 09:06:06,275 - [-] 10.0.16.67 connection is closed..
+2024-03-19 09:06:06,276 - [+] satcp_0.7 10.0.4.174 is connected to server 10.0.1.100:12345.
+2024-03-19 09:06:10,576 - 10.0.4.174 received 312245 packets.
+2024-03-19 09:06:10,576 - [-] 10.0.4.174 connection is closed..

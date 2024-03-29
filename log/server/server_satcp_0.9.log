@@ -1,1140 +1,2570 @@
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 35930)
-[-] connection is stopped: ('10.0.13.240', 35930)
-[!] ('10.0.13.240', 35930) - Total packets: 253, Lost packets: 19
-[!] ('10.0.13.240', 35930) - Throughput: 9.88 Mbps, Packet Loss Rate: 7.51%
-[+] accept connection: ('10.0.9.98', 59252)
-[-] connection is stopped: ('10.0.9.98', 59252)
-[!] ('10.0.9.98', 59252) - Total packets: 251, Lost packets: 26
-[!] ('10.0.9.98', 59252) - Throughput: 9.80 Mbps, Packet Loss Rate: 10.36%
-[+] accept connection: ('10.0.3.168', 43328)
-[-] connection is stopped: ('10.0.3.168', 43328)
-[!] ('10.0.3.168', 43328) - Total packets: 225, Lost packets: 0
-[!] ('10.0.3.168', 43328) - Throughput: 8.79 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 52428)
-[-] connection is stopped: ('10.0.8.2', 52428)
-[!] ('10.0.8.2', 52428) - Total packets: 252, Lost packets: 26
-[!] ('10.0.8.2', 52428) - Throughput: 9.84 Mbps, Packet Loss Rate: 10.32%
-[+] accept connection: ('10.0.4.162', 35188)
-[-] connection is stopped: ('10.0.4.162', 35188)
-[!] ('10.0.4.162', 35188) - Total packets: 241, Lost packets: 16
-[!] ('10.0.4.162', 35188) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.64%
-[+] accept connection: ('10.0.19.25', 36098)
-[-] connection is stopped: ('10.0.19.25', 36098)
-[!] ('10.0.19.25', 36098) - Total packets: 221, Lost packets: 0
-[!] ('10.0.19.25', 36098) - Throughput: 8.63 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 60870)
-[-] connection is stopped: ('10.0.13.253', 60870)
-[!] ('10.0.13.253', 60870) - Total packets: 252, Lost packets: 26
-[!] ('10.0.13.253', 60870) - Throughput: 9.84 Mbps, Packet Loss Rate: 10.32%
-[+] accept connection: ('10.0.1.7', 56736)
-[-] connection is stopped: ('10.0.1.7', 56736)
-[!] ('10.0.1.7', 56736) - Total packets: 226, Lost packets: 0
-[!] ('10.0.1.7', 56736) - Throughput: 8.83 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 46828)
-[-] connection is stopped: ('10.0.19.23', 46828)
-[!] ('10.0.19.23', 46828) - Total packets: 247, Lost packets: 26
-[!] ('10.0.19.23', 46828) - Throughput: 9.65 Mbps, Packet Loss Rate: 10.53%
-[+] accept connection: ('10.0.6.0', 43946)
-[-] connection is stopped: ('10.0.6.0', 43946)
-[!] ('10.0.6.0', 43946) - Total packets: 225, Lost packets: 0
-[!] ('10.0.6.0', 43946) - Throughput: 8.79 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 56496)
-[-] connection is stopped: ('10.0.5.252', 56496)
-[!] ('10.0.5.252', 56496) - Total packets: 241, Lost packets: 15
-[!] ('10.0.5.252', 56496) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.19.22', 39374)
-[-] connection is stopped: ('10.0.19.22', 39374)
-[!] ('10.0.19.22', 39374) - Total packets: 225, Lost packets: 0
-[!] ('10.0.19.22', 39374) - Throughput: 8.79 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 38044)
-[-] connection is stopped: ('10.0.1.6', 38044)
-[!] ('10.0.1.6', 38044) - Total packets: 241, Lost packets: 15
-[!] ('10.0.1.6', 38044) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.3.165', 41830)
-[-] connection is stopped: ('10.0.3.165', 41830)
-[!] ('10.0.3.165', 41830) - Total packets: 241, Lost packets: 15
-[!] ('10.0.3.165', 41830) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.16.71', 45810)
-[-] connection is stopped: ('10.0.16.71', 45810)
-[!] ('10.0.16.71', 45810) - Total packets: 236, Lost packets: 15
-[!] ('10.0.16.71', 45810) - Throughput: 9.22 Mbps, Packet Loss Rate: 6.36%
-[+] accept connection: ('10.0.18.25', 40742)
-[-] connection is stopped: ('10.0.18.25', 40742)
-[!] ('10.0.18.25', 40742) - Total packets: 241, Lost packets: 15
-[!] ('10.0.18.25', 40742) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.17.192', 47154)
-[-] connection is stopped: ('10.0.17.192', 47154)
-[!] ('10.0.17.192', 47154) - Total packets: 241, Lost packets: 15
-[!] ('10.0.17.192', 47154) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.7.166', 41820)
-[-] connection is stopped: ('10.0.7.166', 41820)
-[!] ('10.0.7.166', 41820) - Total packets: 240, Lost packets: 15
-[!] ('10.0.7.166', 41820) - Throughput: 9.37 Mbps, Packet Loss Rate: 6.25%
-[+] accept connection: ('10.0.19.20', 36844)
-[-] connection is stopped: ('10.0.19.20', 36844)
-[!] ('10.0.19.20', 36844) - Total packets: 242, Lost packets: 15
-[!] ('10.0.19.20', 36844) - Throughput: 9.45 Mbps, Packet Loss Rate: 6.20%
-[+] accept connection: ('10.0.3.143', 59576)
-[-] connection is stopped: ('10.0.3.143', 59576)
-[!] ('10.0.3.143', 59576) - Total packets: 225, Lost packets: 0
-[!] ('10.0.3.143', 59576) - Throughput: 8.79 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 46926)
-[-] connection is stopped: ('10.0.18.28', 46926)
-[!] ('10.0.18.28', 46926) - Total packets: 241, Lost packets: 15
-[!] ('10.0.18.28', 46926) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.19.19', 40884)
-[-] connection is stopped: ('10.0.19.19', 40884)
-[!] ('10.0.19.19', 40884) - Total packets: 241, Lost packets: 15
-[!] ('10.0.19.19', 40884) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.4.175', 33578)
-[-] connection is stopped: ('10.0.4.175', 33578)
-[!] ('10.0.4.175', 33578) - Total packets: 241, Lost packets: 15
-[!] ('10.0.4.175', 33578) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.11.250', 36464)
-[-] connection is stopped: ('10.0.11.250', 36464)
-[!] ('10.0.11.250', 36464) - Total packets: 252, Lost packets: 26
-[!] ('10.0.11.250', 36464) - Throughput: 9.84 Mbps, Packet Loss Rate: 10.32%
-[+] accept connection: ('10.0.3.246', 39718)
-[-] connection is stopped: ('10.0.3.246', 39718)
-[!] ('10.0.3.246', 39718) - Total packets: 251, Lost packets: 26
-[!] ('10.0.3.246', 39718) - Throughput: 9.80 Mbps, Packet Loss Rate: 10.36%
-[+] accept connection: ('10.0.19.21', 54832)
-[-] connection is stopped: ('10.0.19.21', 54832)
-[!] ('10.0.19.21', 54832) - Total packets: 241, Lost packets: 15
-[!] ('10.0.19.21', 54832) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.16.67', 35652)
-[-] connection is stopped: ('10.0.16.67', 35652)
-[!] ('10.0.16.67', 35652) - Total packets: 241, Lost packets: 15
-[!] ('10.0.16.67', 35652) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
-[+] accept connection: ('10.0.4.174', 33986)
-[-] connection is stopped: ('10.0.4.174', 33986)
-[!] ('10.0.4.174', 33986) - Total packets: 241, Lost packets: 15
-[!] ('10.0.4.174', 33986) - Throughput: 9.41 Mbps, Packet Loss Rate: 6.22%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 36590)
+[!] ('10.0.9.95', 36590) - Throughput: 90.62 Mbps, Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 35652)
-[-] connection is stopped: ('10.0.13.240', 35652)
-[!] ('10.0.13.240', 35652) - Total packets: 463, Lost packets: 15
-[!] ('10.0.13.240', 35652) - Throughput: 18.09 Mbps, Packet Loss Rate: 3.24%
-[+] accept connection: ('10.0.9.98', 60798)
-[-] connection is stopped: ('10.0.9.98', 60798)
-[!] ('10.0.9.98', 60798) - Total packets: 475, Lost packets: 26
-[!] ('10.0.9.98', 60798) - Throughput: 18.55 Mbps, Packet Loss Rate: 5.47%
-[+] accept connection: ('10.0.3.168', 36836)
-[-] connection is stopped: ('10.0.3.168', 36836)
-[!] ('10.0.3.168', 36836) - Total packets: 449, Lost packets: 0
-[!] ('10.0.3.168', 36836) - Throughput: 17.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 59844)
-[-] connection is stopped: ('10.0.8.2', 59844)
-[!] ('10.0.8.2', 59844) - Total packets: 447, Lost packets: 0
-[!] ('10.0.8.2', 59844) - Throughput: 17.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 33390)
-[-] connection is stopped: ('10.0.4.162', 33390)
-[!] ('10.0.4.162', 33390) - Total packets: 447, Lost packets: 0
-[!] ('10.0.4.162', 33390) - Throughput: 17.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 38188)
-[-] connection is stopped: ('10.0.19.25', 38188)
-[!] ('10.0.19.25', 38188) - Total packets: 447, Lost packets: 0
-[!] ('10.0.19.25', 38188) - Throughput: 17.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 50570)
-[-] connection is stopped: ('10.0.13.253', 50570)
-[!] ('10.0.13.253', 50570) - Total packets: 447, Lost packets: 0
-[!] ('10.0.13.253', 50570) - Throughput: 17.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 60574)
-[-] connection is stopped: ('10.0.1.7', 60574)
-[!] ('10.0.1.7', 60574) - Total packets: 449, Lost packets: 0
-[!] ('10.0.1.7', 60574) - Throughput: 17.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 47116)
-[-] connection is stopped: ('10.0.19.23', 47116)
-[!] ('10.0.19.23', 47116) - Total packets: 473, Lost packets: 26
-[!] ('10.0.19.23', 47116) - Throughput: 18.48 Mbps, Packet Loss Rate: 5.50%
-[+] accept connection: ('10.0.6.0', 58546)
-[-] connection is stopped: ('10.0.6.0', 58546)
-[!] ('10.0.6.0', 58546) - Total packets: 464, Lost packets: 15
-[!] ('10.0.6.0', 58546) - Throughput: 18.12 Mbps, Packet Loss Rate: 3.23%
-[+] accept connection: ('10.0.5.252', 39768)
-[-] connection is stopped: ('10.0.5.252', 39768)
-[!] ('10.0.5.252', 39768) - Total packets: 473, Lost packets: 26
-[!] ('10.0.5.252', 39768) - Throughput: 18.48 Mbps, Packet Loss Rate: 5.50%
-[+] accept connection: ('10.0.19.22', 53292)
-[-] connection is stopped: ('10.0.19.22', 53292)
-[!] ('10.0.19.22', 53292) - Total packets: 475, Lost packets: 26
-[!] ('10.0.19.22', 53292) - Throughput: 18.55 Mbps, Packet Loss Rate: 5.47%
-[+] accept connection: ('10.0.1.6', 59124)
-[-] connection is stopped: ('10.0.1.6', 59124)
-[!] ('10.0.1.6', 59124) - Total packets: 449, Lost packets: 0
-[!] ('10.0.1.6', 59124) - Throughput: 17.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 60034)
-[-] connection is stopped: ('10.0.3.165', 60034)
-[!] ('10.0.3.165', 60034) - Total packets: 477, Lost packets: 26
-[!] ('10.0.3.165', 60034) - Throughput: 18.63 Mbps, Packet Loss Rate: 5.45%
-[+] accept connection: ('10.0.16.71', 44976)
-[-] connection is stopped: ('10.0.16.71', 44976)
-[!] ('10.0.16.71', 44976) - Total packets: 480, Lost packets: 15
-[!] ('10.0.16.71', 44976) - Throughput: 18.75 Mbps, Packet Loss Rate: 3.12%
-[+] accept connection: ('10.0.18.25', 37408)
-[-] connection is stopped: ('10.0.18.25', 37408)
-[!] ('10.0.18.25', 37408) - Total packets: 465, Lost packets: 0
-[!] ('10.0.18.25', 37408) - Throughput: 18.16 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 41392)
-[-] connection is stopped: ('10.0.17.192', 41392)
-[!] ('10.0.17.192', 41392) - Total packets: 473, Lost packets: 26
-[!] ('10.0.17.192', 41392) - Throughput: 18.48 Mbps, Packet Loss Rate: 5.50%
-[+] accept connection: ('10.0.7.166', 59326)
-[-] connection is stopped: ('10.0.7.166', 59326)
-[!] ('10.0.7.166', 59326) - Total packets: 464, Lost packets: 15
-[!] ('10.0.7.166', 59326) - Throughput: 18.12 Mbps, Packet Loss Rate: 3.23%
-[+] accept connection: ('10.0.19.20', 32936)
-[-] connection is stopped: ('10.0.19.20', 32936)
-[!] ('10.0.19.20', 32936) - Total packets: 449, Lost packets: 0
-[!] ('10.0.19.20', 32936) - Throughput: 17.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 58310)
-[-] connection is stopped: ('10.0.3.143', 58310)
-[!] ('10.0.3.143', 58310) - Total packets: 473, Lost packets: 26
-[!] ('10.0.3.143', 58310) - Throughput: 18.48 Mbps, Packet Loss Rate: 5.50%
-[+] accept connection: ('10.0.18.28', 51982)
-[-] connection is stopped: ('10.0.18.28', 51982)
-[!] ('10.0.18.28', 51982) - Total packets: 474, Lost packets: 26
-[!] ('10.0.18.28', 51982) - Throughput: 18.52 Mbps, Packet Loss Rate: 5.49%
-[+] accept connection: ('10.0.19.19', 45086)
-[-] connection is stopped: ('10.0.19.19', 45086)
-[!] ('10.0.19.19', 45086) - Total packets: 464, Lost packets: 0
-[!] ('10.0.19.19', 45086) - Throughput: 18.12 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 33610)
-[-] connection is stopped: ('10.0.4.175', 33610)
-[!] ('10.0.4.175', 33610) - Total packets: 464, Lost packets: 15
-[!] ('10.0.4.175', 33610) - Throughput: 18.12 Mbps, Packet Loss Rate: 3.23%
-[+] accept connection: ('10.0.11.250', 59404)
-[-] connection is stopped: ('10.0.11.250', 59404)
-[!] ('10.0.11.250', 59404) - Total packets: 464, Lost packets: 15
-[!] ('10.0.11.250', 59404) - Throughput: 18.12 Mbps, Packet Loss Rate: 3.23%
-[+] accept connection: ('10.0.3.246', 54712)
-[-] connection is stopped: ('10.0.3.246', 54712)
-[!] ('10.0.3.246', 54712) - Total packets: 474, Lost packets: 27
-[!] ('10.0.3.246', 54712) - Throughput: 18.52 Mbps, Packet Loss Rate: 5.70%
-[+] accept connection: ('10.0.19.21', 49174)
-[-] connection is stopped: ('10.0.19.21', 49174)
-[!] ('10.0.19.21', 49174) - Total packets: 466, Lost packets: 15
-[!] ('10.0.19.21', 49174) - Throughput: 18.20 Mbps, Packet Loss Rate: 3.22%
-[+] accept connection: ('10.0.16.67', 37890)
-[-] connection is stopped: ('10.0.16.67', 37890)
-[!] ('10.0.16.67', 37890) - Total packets: 464, Lost packets: 15
-[!] ('10.0.16.67', 37890) - Throughput: 18.12 Mbps, Packet Loss Rate: 3.23%
-[+] accept connection: ('10.0.4.174', 55882)
-[-] connection is stopped: ('10.0.4.174', 55882)
-[!] ('10.0.4.174', 55882) - Total packets: 464, Lost packets: 15
-[!] ('10.0.4.174', 55882) - Throughput: 18.12 Mbps, Packet Loss Rate: 3.23%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 52306)
+[+] accept connection: ('10.0.13.240', 42560)
+[!] ('10.0.9.95', 52306) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 42560) - Throughput: 57.48 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 28.74 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 57602)
-[-] connection is stopped: ('10.0.13.240', 57602)
-[!] ('10.0.13.240', 57602) - Total packets: 701, Lost packets: 26
-[!] ('10.0.13.240', 57602) - Throughput: 27.38 Mbps, Packet Loss Rate: 3.71%
-[+] accept connection: ('10.0.9.98', 45180)
-[-] connection is stopped: ('10.0.9.98', 45180)
-[!] ('10.0.9.98', 45180) - Total packets: 690, Lost packets: 15
-[!] ('10.0.9.98', 45180) - Throughput: 26.95 Mbps, Packet Loss Rate: 2.17%
-[+] accept connection: ('10.0.3.168', 53872)
-[-] connection is stopped: ('10.0.3.168', 53872)
-[!] ('10.0.3.168', 53872) - Total packets: 670, Lost packets: 0
-[!] ('10.0.3.168', 53872) - Throughput: 26.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 45270)
-[-] connection is stopped: ('10.0.8.2', 45270)
-[!] ('10.0.8.2', 45270) - Total packets: 671, Lost packets: 0
-[!] ('10.0.8.2', 45270) - Throughput: 26.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 59054)
-[-] connection is stopped: ('10.0.4.162', 59054)
-[!] ('10.0.4.162', 59054) - Total packets: 673, Lost packets: 0
-[!] ('10.0.4.162', 59054) - Throughput: 26.29 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 33656)
-[-] connection is stopped: ('10.0.19.25', 33656)
-[!] ('10.0.19.25', 33656) - Total packets: 673, Lost packets: 0
-[!] ('10.0.19.25', 33656) - Throughput: 26.29 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 50424)
-[-] connection is stopped: ('10.0.13.253', 50424)
-[!] ('10.0.13.253', 50424) - Total packets: 670, Lost packets: 0
-[!] ('10.0.13.253', 50424) - Throughput: 26.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 46542)
-[-] connection is stopped: ('10.0.1.7', 46542)
-[!] ('10.0.1.7', 46542) - Total packets: 670, Lost packets: 0
-[!] ('10.0.1.7', 46542) - Throughput: 26.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 46238)
-[-] connection is stopped: ('10.0.19.23', 46238)
-[!] ('10.0.19.23', 46238) - Total packets: 688, Lost packets: 15
-[!] ('10.0.19.23', 46238) - Throughput: 26.87 Mbps, Packet Loss Rate: 2.18%
-[+] accept connection: ('10.0.6.0', 43862)
-[-] connection is stopped: ('10.0.6.0', 43862)
-[!] ('10.0.6.0', 43862) - Total packets: 687, Lost packets: 15
-[!] ('10.0.6.0', 43862) - Throughput: 26.84 Mbps, Packet Loss Rate: 2.18%
-[+] accept connection: ('10.0.5.252', 36200)
-[-] connection is stopped: ('10.0.5.252', 36200)
-[!] ('10.0.5.252', 36200) - Total packets: 673, Lost packets: 0
-[!] ('10.0.5.252', 36200) - Throughput: 26.29 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 58802)
-[-] connection is stopped: ('10.0.19.22', 58802)
-[!] ('10.0.19.22', 58802) - Total packets: 672, Lost packets: 0
-[!] ('10.0.19.22', 58802) - Throughput: 26.25 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 40260)
-[-] connection is stopped: ('10.0.1.6', 40260)
-[!] ('10.0.1.6', 40260) - Total packets: 671, Lost packets: 0
-[!] ('10.0.1.6', 40260) - Throughput: 26.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 44716)
-[-] connection is stopped: ('10.0.3.165', 44716)
-[!] ('10.0.3.165', 44716) - Total packets: 671, Lost packets: 0
-[!] ('10.0.3.165', 44716) - Throughput: 26.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 59962)
-[-] connection is stopped: ('10.0.16.71', 59962)
-[!] ('10.0.16.71', 59962) - Total packets: 687, Lost packets: 15
-[!] ('10.0.16.71', 59962) - Throughput: 26.84 Mbps, Packet Loss Rate: 2.18%
-[+] accept connection: ('10.0.18.25', 53440)
-[-] connection is stopped: ('10.0.18.25', 53440)
-[!] ('10.0.18.25', 53440) - Total packets: 673, Lost packets: 0
-[!] ('10.0.18.25', 53440) - Throughput: 26.29 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 47722)
-[-] connection is stopped: ('10.0.17.192', 47722)
-[!] ('10.0.17.192', 47722) - Total packets: 710, Lost packets: 15
-[!] ('10.0.17.192', 47722) - Throughput: 27.73 Mbps, Packet Loss Rate: 2.11%
-[+] accept connection: ('10.0.7.166', 48760)
-[-] connection is stopped: ('10.0.7.166', 48760)
-[!] ('10.0.7.166', 48760) - Total packets: 675, Lost packets: 0
-[!] ('10.0.7.166', 48760) - Throughput: 26.37 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 47192)
-[-] connection is stopped: ('10.0.19.20', 47192)
-[!] ('10.0.19.20', 47192) - Total packets: 689, Lost packets: 15
-[!] ('10.0.19.20', 47192) - Throughput: 26.91 Mbps, Packet Loss Rate: 2.18%
-[+] accept connection: ('10.0.3.143', 36976)
-[-] connection is stopped: ('10.0.3.143', 36976)
-[!] ('10.0.3.143', 36976) - Total packets: 668, Lost packets: 0
-[!] ('10.0.3.143', 36976) - Throughput: 26.09 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 43260)
-[-] connection is stopped: ('10.0.18.28', 43260)
-[!] ('10.0.18.28', 43260) - Total packets: 673, Lost packets: 0
-[!] ('10.0.18.28', 43260) - Throughput: 26.29 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 39744)
-[-] connection is stopped: ('10.0.19.19', 39744)
-[!] ('10.0.19.19', 39744) - Total packets: 669, Lost packets: 0
-[!] ('10.0.19.19', 39744) - Throughput: 26.13 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 50638)
-[-] connection is stopped: ('10.0.4.175', 50638)
-[!] ('10.0.4.175', 50638) - Total packets: 695, Lost packets: 0
-[!] ('10.0.4.175', 50638) - Throughput: 27.15 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 40054)
-[-] connection is stopped: ('10.0.11.250', 40054)
-[!] ('10.0.11.250', 40054) - Total packets: 710, Lost packets: 15
-[!] ('10.0.11.250', 40054) - Throughput: 27.73 Mbps, Packet Loss Rate: 2.11%
-[+] accept connection: ('10.0.3.246', 39328)
-[-] connection is stopped: ('10.0.3.246', 39328)
-[!] ('10.0.3.246', 39328) - Total packets: 671, Lost packets: 0
-[!] ('10.0.3.246', 39328) - Throughput: 26.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 57502)
-[-] connection is stopped: ('10.0.19.21', 57502)
-[!] ('10.0.19.21', 57502) - Total packets: 671, Lost packets: 0
-[!] ('10.0.19.21', 57502) - Throughput: 26.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 41800)
-[-] connection is stopped: ('10.0.16.67', 41800)
-[!] ('10.0.16.67', 41800) - Total packets: 686, Lost packets: 15
-[!] ('10.0.16.67', 41800) - Throughput: 26.80 Mbps, Packet Loss Rate: 2.19%
-[+] accept connection: ('10.0.4.174', 45174)
-[-] connection is stopped: ('10.0.4.174', 45174)
-[!] ('10.0.4.174', 45174) - Total packets: 688, Lost packets: 15
-[!] ('10.0.4.174', 45174) - Throughput: 26.87 Mbps, Packet Loss Rate: 2.18%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 41994)
+[+] accept connection: ('10.0.9.98', 52630)
+[!] ('10.0.13.240', 41994) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 52630) - Throughput: 57.76 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 28.88 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 47414)
-[-] connection is stopped: ('10.0.13.240', 47414)
-[!] ('10.0.13.240', 47414) - Total packets: 927, Lost packets: 0
-[!] ('10.0.13.240', 47414) - Throughput: 36.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 57330)
-[-] connection is stopped: ('10.0.9.98', 57330)
-[!] ('10.0.9.98', 57330) - Total packets: 895, Lost packets: 0
-[!] ('10.0.9.98', 57330) - Throughput: 34.96 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 38586)
-[-] connection is stopped: ('10.0.3.168', 38586)
-[!] ('10.0.3.168', 38586) - Total packets: 897, Lost packets: 0
-[!] ('10.0.3.168', 38586) - Throughput: 35.04 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 37638)
-[-] connection is stopped: ('10.0.8.2', 37638)
-[!] ('10.0.8.2', 37638) - Total packets: 893, Lost packets: 0
-[!] ('10.0.8.2', 37638) - Throughput: 34.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 60434)
-[-] connection is stopped: ('10.0.4.162', 60434)
-[!] ('10.0.4.162', 60434) - Total packets: 894, Lost packets: 0
-[!] ('10.0.4.162', 60434) - Throughput: 34.92 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 51836)
-[-] connection is stopped: ('10.0.19.25', 51836)
-[!] ('10.0.19.25', 51836) - Total packets: 895, Lost packets: 0
-[!] ('10.0.19.25', 51836) - Throughput: 34.96 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 41970)
-[-] connection is stopped: ('10.0.13.253', 41970)
-[!] ('10.0.13.253', 41970) - Total packets: 896, Lost packets: 0
-[!] ('10.0.13.253', 41970) - Throughput: 35.00 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 42758)
-[-] connection is stopped: ('10.0.1.7', 42758)
-[!] ('10.0.1.7', 42758) - Total packets: 896, Lost packets: 0
-[!] ('10.0.1.7', 42758) - Throughput: 35.00 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 34304)
-[-] connection is stopped: ('10.0.19.23', 34304)
-[!] ('10.0.19.23', 34304) - Total packets: 926, Lost packets: 0
-[!] ('10.0.19.23', 34304) - Throughput: 36.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 43838)
-[-] connection is stopped: ('10.0.6.0', 43838)
-[!] ('10.0.6.0', 43838) - Total packets: 898, Lost packets: 0
-[!] ('10.0.6.0', 43838) - Throughput: 35.08 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 51890)
-[-] connection is stopped: ('10.0.5.252', 51890)
-[!] ('10.0.5.252', 51890) - Total packets: 895, Lost packets: 0
-[!] ('10.0.5.252', 51890) - Throughput: 34.96 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 41852)
-[-] connection is stopped: ('10.0.19.22', 41852)
-[!] ('10.0.19.22', 41852) - Total packets: 896, Lost packets: 0
-[!] ('10.0.19.22', 41852) - Throughput: 35.00 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 42084)
-[-] connection is stopped: ('10.0.1.6', 42084)
-[!] ('10.0.1.6', 42084) - Total packets: 894, Lost packets: 0
-[!] ('10.0.1.6', 42084) - Throughput: 34.92 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 54218)
-[-] connection is stopped: ('10.0.3.165', 54218)
-[!] ('10.0.3.165', 54218) - Total packets: 887, Lost packets: 0
-[!] ('10.0.3.165', 54218) - Throughput: 34.65 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 36818)
-[-] connection is stopped: ('10.0.16.71', 36818)
-[!] ('10.0.16.71', 36818) - Total packets: 891, Lost packets: 0
-[!] ('10.0.16.71', 36818) - Throughput: 34.80 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 50626)
-[-] connection is stopped: ('10.0.18.25', 50626)
-[!] ('10.0.18.25', 50626) - Total packets: 898, Lost packets: 0
-[!] ('10.0.18.25', 50626) - Throughput: 35.08 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 52092)
-[-] connection is stopped: ('10.0.17.192', 52092)
-[!] ('10.0.17.192', 52092) - Total packets: 902, Lost packets: 0
-[!] ('10.0.17.192', 52092) - Throughput: 35.23 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 36786)
-[-] connection is stopped: ('10.0.7.166', 36786)
-[!] ('10.0.7.166', 36786) - Total packets: 926, Lost packets: 0
-[!] ('10.0.7.166', 36786) - Throughput: 36.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 43824)
-[-] connection is stopped: ('10.0.19.20', 43824)
-[!] ('10.0.19.20', 43824) - Total packets: 926, Lost packets: 0
-[!] ('10.0.19.20', 43824) - Throughput: 36.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 47292)
-[-] connection is stopped: ('10.0.3.143', 47292)
-[!] ('10.0.3.143', 47292) - Total packets: 926, Lost packets: 0
-[!] ('10.0.3.143', 47292) - Throughput: 36.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 37474)
-[-] connection is stopped: ('10.0.18.28', 37474)
-[!] ('10.0.18.28', 37474) - Total packets: 912, Lost packets: 16
-[!] ('10.0.18.28', 37474) - Throughput: 35.62 Mbps, Packet Loss Rate: 1.75%
-[+] accept connection: ('10.0.19.19', 59812)
-[-] connection is stopped: ('10.0.19.19', 59812)
-[!] ('10.0.19.19', 59812) - Total packets: 892, Lost packets: 0
-[!] ('10.0.19.19', 59812) - Throughput: 34.84 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 48562)
-[-] connection is stopped: ('10.0.4.175', 48562)
-[!] ('10.0.4.175', 48562) - Total packets: 895, Lost packets: 0
-[!] ('10.0.4.175', 48562) - Throughput: 34.96 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 36518)
-[-] connection is stopped: ('10.0.11.250', 36518)
-[!] ('10.0.11.250', 36518) - Total packets: 900, Lost packets: 0
-[!] ('10.0.11.250', 36518) - Throughput: 35.16 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 52824)
-[-] connection is stopped: ('10.0.3.246', 52824)
-[!] ('10.0.3.246', 52824) - Total packets: 894, Lost packets: 0
-[!] ('10.0.3.246', 52824) - Throughput: 34.92 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 47366)
-[-] connection is stopped: ('10.0.19.21', 47366)
-[!] ('10.0.19.21', 47366) - Total packets: 928, Lost packets: 0
-[!] ('10.0.19.21', 47366) - Throughput: 36.25 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 51768)
-[-] connection is stopped: ('10.0.16.67', 51768)
-[!] ('10.0.16.67', 51768) - Total packets: 893, Lost packets: 0
-[!] ('10.0.16.67', 51768) - Throughput: 34.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 38964)
-[-] connection is stopped: ('10.0.4.174', 38964)
-[!] ('10.0.4.174', 38964) - Total packets: 900, Lost packets: 0
-[!] ('10.0.4.174', 38964) - Throughput: 35.16 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 45556)
+[+] accept connection: ('10.0.3.168', 47840)
+[!] ('10.0.9.98', 45556) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 47840) - Throughput: 54.66 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 27.34 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 50554)
-[-] connection is stopped: ('10.0.13.240', 50554)
-[!] ('10.0.13.240', 50554) - Total packets: 1116, Lost packets: 0
-[!] ('10.0.13.240', 50554) - Throughput: 43.59 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 39626)
-[-] connection is stopped: ('10.0.9.98', 39626)
-[!] ('10.0.9.98', 39626) - Total packets: 1116, Lost packets: 0
-[!] ('10.0.9.98', 39626) - Throughput: 43.59 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 51668)
-[-] connection is stopped: ('10.0.3.168', 51668)
-[!] ('10.0.3.168', 51668) - Total packets: 1114, Lost packets: 0
-[!] ('10.0.3.168', 51668) - Throughput: 43.51 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 36150)
-[-] connection is stopped: ('10.0.8.2', 36150)
-[!] ('10.0.8.2', 36150) - Total packets: 1120, Lost packets: 0
-[!] ('10.0.8.2', 36150) - Throughput: 43.75 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 50248)
-[-] connection is stopped: ('10.0.4.162', 50248)
-[!] ('10.0.4.162', 50248) - Total packets: 1120, Lost packets: 0
-[!] ('10.0.4.162', 50248) - Throughput: 43.75 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 39616)
-[-] connection is stopped: ('10.0.19.25', 39616)
-[!] ('10.0.19.25', 39616) - Total packets: 1126, Lost packets: 0
-[!] ('10.0.19.25', 39616) - Throughput: 43.98 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 35918)
-[-] connection is stopped: ('10.0.13.253', 35918)
-[!] ('10.0.13.253', 35918) - Total packets: 1123, Lost packets: 0
-[!] ('10.0.13.253', 35918) - Throughput: 43.87 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 42150)
-[-] connection is stopped: ('10.0.1.7', 42150)
-[!] ('10.0.1.7', 42150) - Total packets: 1120, Lost packets: 0
-[!] ('10.0.1.7', 42150) - Throughput: 43.75 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 60518)
-[-] connection is stopped: ('10.0.19.23', 60518)
-[!] ('10.0.19.23', 60518) - Total packets: 1118, Lost packets: 0
-[!] ('10.0.19.23', 60518) - Throughput: 43.67 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 58090)
-[-] connection is stopped: ('10.0.6.0', 58090)
-[!] ('10.0.6.0', 58090) - Total packets: 1128, Lost packets: 0
-[!] ('10.0.6.0', 58090) - Throughput: 44.06 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 38504)
-[-] connection is stopped: ('10.0.5.252', 38504)
-[!] ('10.0.5.252', 38504) - Total packets: 1120, Lost packets: 0
-[!] ('10.0.5.252', 38504) - Throughput: 43.75 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 45086)
-[-] connection is stopped: ('10.0.19.22', 45086)
-[!] ('10.0.19.22', 45086) - Total packets: 1122, Lost packets: 0
-[!] ('10.0.19.22', 45086) - Throughput: 43.83 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 45118)
-[-] connection is stopped: ('10.0.1.6', 45118)
-[!] ('10.0.1.6', 45118) - Total packets: 1118, Lost packets: 0
-[!] ('10.0.1.6', 45118) - Throughput: 43.67 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 57372)
-[-] connection is stopped: ('10.0.3.165', 57372)
-[!] ('10.0.3.165', 57372) - Total packets: 1121, Lost packets: 0
-[!] ('10.0.3.165', 57372) - Throughput: 43.79 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 53492)
-[-] connection is stopped: ('10.0.16.71', 53492)
-[!] ('10.0.16.71', 53492) - Total packets: 1122, Lost packets: 0
-[!] ('10.0.16.71', 53492) - Throughput: 43.83 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 49948)
-[-] connection is stopped: ('10.0.18.25', 49948)
-[!] ('10.0.18.25', 49948) - Total packets: 1120, Lost packets: 0
-[!] ('10.0.18.25', 49948) - Throughput: 43.75 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 37496)
-[-] connection is stopped: ('10.0.17.192', 37496)
-[!] ('10.0.17.192', 37496) - Total packets: 1115, Lost packets: 0
-[!] ('10.0.17.192', 37496) - Throughput: 43.55 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 51168)
-[-] connection is stopped: ('10.0.7.166', 51168)
-[!] ('10.0.7.166', 51168) - Total packets: 1119, Lost packets: 0
-[!] ('10.0.7.166', 51168) - Throughput: 43.71 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 41722)
-[-] connection is stopped: ('10.0.19.20', 41722)
-[!] ('10.0.19.20', 41722) - Total packets: 1119, Lost packets: 0
-[!] ('10.0.19.20', 41722) - Throughput: 43.71 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 60314)
-[-] connection is stopped: ('10.0.3.143', 60314)
-[!] ('10.0.3.143', 60314) - Total packets: 1157, Lost packets: 0
-[!] ('10.0.3.143', 60314) - Throughput: 45.19 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 39344)
-[-] connection is stopped: ('10.0.18.28', 39344)
-[!] ('10.0.18.28', 39344) - Total packets: 1122, Lost packets: 0
-[!] ('10.0.18.28', 39344) - Throughput: 43.83 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 54516)
-[-] connection is stopped: ('10.0.19.19', 54516)
-[!] ('10.0.19.19', 54516) - Total packets: 1128, Lost packets: 0
-[!] ('10.0.19.19', 54516) - Throughput: 44.06 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 34832)
-[-] connection is stopped: ('10.0.4.175', 34832)
-[!] ('10.0.4.175', 34832) - Total packets: 1118, Lost packets: 0
-[!] ('10.0.4.175', 34832) - Throughput: 43.67 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 43386)
-[-] connection is stopped: ('10.0.11.250', 43386)
-[!] ('10.0.11.250', 43386) - Total packets: 1116, Lost packets: 0
-[!] ('10.0.11.250', 43386) - Throughput: 43.59 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 50220)
-[-] connection is stopped: ('10.0.3.246', 50220)
-[!] ('10.0.3.246', 50220) - Total packets: 1117, Lost packets: 0
-[!] ('10.0.3.246', 50220) - Throughput: 43.63 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 44006)
-[-] connection is stopped: ('10.0.19.21', 44006)
-[!] ('10.0.19.21', 44006) - Total packets: 1157, Lost packets: 0
-[!] ('10.0.19.21', 44006) - Throughput: 45.19 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 36702)
-[-] connection is stopped: ('10.0.16.67', 36702)
-[!] ('10.0.16.67', 36702) - Total packets: 1121, Lost packets: 0
-[!] ('10.0.16.67', 36702) - Throughput: 43.79 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 43140)
-[-] connection is stopped: ('10.0.4.174', 43140)
-[!] ('10.0.4.174', 43140) - Total packets: 1114, Lost packets: 0
-[!] ('10.0.4.174', 43140) - Throughput: 43.51 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 56884)
+[+] accept connection: ('10.0.8.2', 43506)
+[!] ('10.0.3.168', 56884) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 43506) - Throughput: 55.48 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 27.75 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 37002)
-[-] connection is stopped: ('10.0.13.240', 37002)
-[!] ('10.0.13.240', 37002) - Total packets: 1343, Lost packets: 0
-[!] ('10.0.13.240', 37002) - Throughput: 52.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 54134)
-[-] connection is stopped: ('10.0.9.98', 54134)
-[!] ('10.0.9.98', 54134) - Total packets: 1348, Lost packets: 0
-[!] ('10.0.9.98', 54134) - Throughput: 52.66 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 54776)
-[-] connection is stopped: ('10.0.3.168', 54776)
-[!] ('10.0.3.168', 54776) - Total packets: 1340, Lost packets: 0
-[!] ('10.0.3.168', 54776) - Throughput: 52.34 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 35262)
-[-] connection is stopped: ('10.0.8.2', 35262)
-[!] ('10.0.8.2', 35262) - Total packets: 1351, Lost packets: 0
-[!] ('10.0.8.2', 35262) - Throughput: 52.77 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 55514)
-[-] connection is stopped: ('10.0.4.162', 55514)
-[!] ('10.0.4.162', 55514) - Total packets: 1339, Lost packets: 0
-[!] ('10.0.4.162', 55514) - Throughput: 52.30 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 45414)
-[-] connection is stopped: ('10.0.19.25', 45414)
-[!] ('10.0.19.25', 45414) - Total packets: 1358, Lost packets: 16
-[!] ('10.0.19.25', 45414) - Throughput: 53.05 Mbps, Packet Loss Rate: 1.18%
-[+] accept connection: ('10.0.13.253', 35254)
-[-] connection is stopped: ('10.0.13.253', 35254)
-[!] ('10.0.13.253', 35254) - Total packets: 1339, Lost packets: 0
-[!] ('10.0.13.253', 35254) - Throughput: 52.30 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 43142)
-[-] connection is stopped: ('10.0.1.7', 43142)
-[!] ('10.0.1.7', 43142) - Total packets: 1338, Lost packets: 0
-[!] ('10.0.1.7', 43142) - Throughput: 52.26 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 53198)
-[-] connection is stopped: ('10.0.19.23', 53198)
-[!] ('10.0.19.23', 53198) - Total packets: 1341, Lost packets: 0
-[!] ('10.0.19.23', 53198) - Throughput: 52.38 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 42236)
-[-] connection is stopped: ('10.0.6.0', 42236)
-[!] ('10.0.6.0', 42236) - Total packets: 1337, Lost packets: 0
-[!] ('10.0.6.0', 42236) - Throughput: 52.23 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 43624)
-[-] connection is stopped: ('10.0.5.252', 43624)
-[!] ('10.0.5.252', 43624) - Total packets: 1343, Lost packets: 0
-[!] ('10.0.5.252', 43624) - Throughput: 52.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 40898)
-[-] connection is stopped: ('10.0.19.22', 40898)
-[!] ('10.0.19.22', 40898) - Total packets: 1340, Lost packets: 0
-[!] ('10.0.19.22', 40898) - Throughput: 52.34 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 33346)
-[-] connection is stopped: ('10.0.1.6', 33346)
-[!] ('10.0.1.6', 33346) - Total packets: 1338, Lost packets: 0
-[!] ('10.0.1.6', 33346) - Throughput: 52.27 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 55450)
-[-] connection is stopped: ('10.0.3.165', 55450)
-[!] ('10.0.3.165', 55450) - Total packets: 1344, Lost packets: 0
-[!] ('10.0.3.165', 55450) - Throughput: 52.50 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 33042)
-[-] connection is stopped: ('10.0.16.71', 33042)
-[!] ('10.0.16.71', 33042) - Total packets: 1341, Lost packets: 0
-[!] ('10.0.16.71', 33042) - Throughput: 52.38 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 52354)
-[-] connection is stopped: ('10.0.18.25', 52354)
-[!] ('10.0.18.25', 52354) - Total packets: 1342, Lost packets: 0
-[!] ('10.0.18.25', 52354) - Throughput: 52.42 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 44506)
-[-] connection is stopped: ('10.0.17.192', 44506)
-[!] ('10.0.17.192', 44506) - Total packets: 1344, Lost packets: 0
-[!] ('10.0.17.192', 44506) - Throughput: 52.50 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 39024)
-[-] connection is stopped: ('10.0.7.166', 39024)
-[!] ('10.0.7.166', 39024) - Total packets: 1338, Lost packets: 0
-[!] ('10.0.7.166', 39024) - Throughput: 52.26 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 48934)
-[-] connection is stopped: ('10.0.19.20', 48934)
-[!] ('10.0.19.20', 48934) - Total packets: 1341, Lost packets: 0
-[!] ('10.0.19.20', 48934) - Throughput: 52.38 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 55916)
-[-] connection is stopped: ('10.0.3.143', 55916)
-[!] ('10.0.3.143', 55916) - Total packets: 1388, Lost packets: 0
-[!] ('10.0.3.143', 55916) - Throughput: 54.22 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 45216)
-[-] connection is stopped: ('10.0.18.28', 45216)
-[!] ('10.0.18.28', 45216) - Total packets: 1344, Lost packets: 0
-[!] ('10.0.18.28', 45216) - Throughput: 52.50 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 36214)
-[-] connection is stopped: ('10.0.19.19', 36214)
-[!] ('10.0.19.19', 36214) - Total packets: 1345, Lost packets: 0
-[!] ('10.0.19.19', 36214) - Throughput: 52.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 41864)
-[-] connection is stopped: ('10.0.4.175', 41864)
-[!] ('10.0.4.175', 41864) - Total packets: 1345, Lost packets: 0
-[!] ('10.0.4.175', 41864) - Throughput: 52.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 48852)
-[-] connection is stopped: ('10.0.11.250', 48852)
-[!] ('10.0.11.250', 48852) - Total packets: 1343, Lost packets: 0
-[!] ('10.0.11.250', 48852) - Throughput: 52.46 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 51446)
-[-] connection is stopped: ('10.0.3.246', 51446)
-[!] ('10.0.3.246', 51446) - Total packets: 1348, Lost packets: 0
-[!] ('10.0.3.246', 51446) - Throughput: 52.66 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 41946)
-[-] connection is stopped: ('10.0.19.21', 41946)
-[!] ('10.0.19.21', 41946) - Total packets: 1344, Lost packets: 0
-[!] ('10.0.19.21', 41946) - Throughput: 52.50 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 50022)
-[-] connection is stopped: ('10.0.16.67', 50022)
-[!] ('10.0.16.67', 50022) - Total packets: 1390, Lost packets: 0
-[!] ('10.0.16.67', 50022) - Throughput: 54.30 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 46788)
-[-] connection is stopped: ('10.0.4.174', 46788)
-[!] ('10.0.4.174', 46788) - Total packets: 1342, Lost packets: 0
-[!] ('10.0.4.174', 46788) - Throughput: 52.42 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 57038)
+[+] accept connection: ('10.0.4.162', 43396)
+[!] ('10.0.8.2', 57038) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 43396) - Throughput: 65.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 32.53 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 51018)
-[-] connection is stopped: ('10.0.13.240', 51018)
-[!] ('10.0.13.240', 51018) - Total packets: 1566, Lost packets: 0
-[!] ('10.0.13.240', 51018) - Throughput: 61.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 52214)
-[-] connection is stopped: ('10.0.9.98', 52214)
-[!] ('10.0.9.98', 52214) - Total packets: 1619, Lost packets: 0
-[!] ('10.0.9.98', 52214) - Throughput: 63.24 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 53132)
-[-] connection is stopped: ('10.0.3.168', 53132)
-[!] ('10.0.3.168', 53132) - Total packets: 1572, Lost packets: 0
-[!] ('10.0.3.168', 53132) - Throughput: 61.41 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 59130)
-[-] connection is stopped: ('10.0.8.2', 59130)
-[!] ('10.0.8.2', 59130) - Total packets: 1561, Lost packets: 0
-[!] ('10.0.8.2', 59130) - Throughput: 60.98 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 55056)
-[-] connection is stopped: ('10.0.4.162', 55056)
-[!] ('10.0.4.162', 55056) - Total packets: 1560, Lost packets: 0
-[!] ('10.0.4.162', 55056) - Throughput: 60.94 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 60016)
-[-] connection is stopped: ('10.0.19.25', 60016)
-[!] ('10.0.19.25', 60016) - Total packets: 1570, Lost packets: 0
-[!] ('10.0.19.25', 60016) - Throughput: 61.33 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 49858)
-[-] connection is stopped: ('10.0.13.253', 49858)
-[!] ('10.0.13.253', 49858) - Total packets: 1565, Lost packets: 0
-[!] ('10.0.13.253', 49858) - Throughput: 61.13 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 33976)
-[-] connection is stopped: ('10.0.1.7', 33976)
-[!] ('10.0.1.7', 33976) - Total packets: 1565, Lost packets: 0
-[!] ('10.0.1.7', 33976) - Throughput: 61.13 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 36190)
-[-] connection is stopped: ('10.0.19.23', 36190)
-[!] ('10.0.19.23', 36190) - Total packets: 1568, Lost packets: 0
-[!] ('10.0.19.23', 36190) - Throughput: 61.25 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 42856)
-[-] connection is stopped: ('10.0.6.0', 42856)
-[!] ('10.0.6.0', 42856) - Total packets: 1620, Lost packets: 0
-[!] ('10.0.6.0', 42856) - Throughput: 63.28 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 42198)
-[-] connection is stopped: ('10.0.5.252', 42198)
-[!] ('10.0.5.252', 42198) - Total packets: 1562, Lost packets: 0
-[!] ('10.0.5.252', 42198) - Throughput: 61.01 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 42838)
-[-] connection is stopped: ('10.0.19.22', 42838)
-[!] ('10.0.19.22', 42838) - Total packets: 1615, Lost packets: 0
-[!] ('10.0.19.22', 42838) - Throughput: 63.09 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 41168)
-[-] connection is stopped: ('10.0.1.6', 41168)
-[!] ('10.0.1.6', 41168) - Total packets: 1563, Lost packets: 0
-[!] ('10.0.1.6', 41168) - Throughput: 61.05 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 43818)
-[-] connection is stopped: ('10.0.3.165', 43818)
-[!] ('10.0.3.165', 43818) - Total packets: 1567, Lost packets: 0
-[!] ('10.0.3.165', 43818) - Throughput: 61.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 35102)
-[-] connection is stopped: ('10.0.16.71', 35102)
-[!] ('10.0.16.71', 35102) - Total packets: 1568, Lost packets: 0
-[!] ('10.0.16.71', 35102) - Throughput: 61.25 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 44616)
-[-] connection is stopped: ('10.0.18.25', 44616)
-[!] ('10.0.18.25', 44616) - Total packets: 1558, Lost packets: 0
-[!] ('10.0.18.25', 44616) - Throughput: 60.86 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 44370)
-[-] connection is stopped: ('10.0.17.192', 44370)
-[!] ('10.0.17.192', 44370) - Total packets: 1562, Lost packets: 0
-[!] ('10.0.17.192', 44370) - Throughput: 61.01 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 59776)
-[-] connection is stopped: ('10.0.7.166', 59776)
-[!] ('10.0.7.166', 59776) - Total packets: 1566, Lost packets: 0
-[!] ('10.0.7.166', 59776) - Throughput: 61.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 33456)
-[-] connection is stopped: ('10.0.19.20', 33456)
-[!] ('10.0.19.20', 33456) - Total packets: 1568, Lost packets: 0
-[!] ('10.0.19.20', 33456) - Throughput: 61.25 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 50414)
-[-] connection is stopped: ('10.0.3.143', 50414)
-[!] ('10.0.3.143', 50414) - Total packets: 1616, Lost packets: 0
-[!] ('10.0.3.143', 50414) - Throughput: 63.12 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 57262)
-[-] connection is stopped: ('10.0.18.28', 57262)
-[!] ('10.0.18.28', 57262) - Total packets: 1618, Lost packets: 0
-[!] ('10.0.18.28', 57262) - Throughput: 63.20 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 39522)
-[-] connection is stopped: ('10.0.19.19', 39522)
-[!] ('10.0.19.19', 39522) - Total packets: 1566, Lost packets: 7
-[!] ('10.0.19.19', 39522) - Throughput: 61.17 Mbps, Packet Loss Rate: 0.45%
-[+] accept connection: ('10.0.4.175', 56668)
-[-] connection is stopped: ('10.0.4.175', 56668)
-[!] ('10.0.4.175', 56668) - Total packets: 1573, Lost packets: 0
-[!] ('10.0.4.175', 56668) - Throughput: 61.44 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 53342)
-[-] connection is stopped: ('10.0.11.250', 53342)
-[!] ('10.0.11.250', 53342) - Total packets: 1563, Lost packets: 0
-[!] ('10.0.11.250', 53342) - Throughput: 61.05 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 52778)
-[-] connection is stopped: ('10.0.3.246', 52778)
-[!] ('10.0.3.246', 52778) - Total packets: 1566, Lost packets: 0
-[!] ('10.0.3.246', 52778) - Throughput: 61.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 54160)
-[-] connection is stopped: ('10.0.19.21', 54160)
-[!] ('10.0.19.21', 54160) - Total packets: 1565, Lost packets: 0
-[!] ('10.0.19.21', 54160) - Throughput: 61.13 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 35988)
-[-] connection is stopped: ('10.0.16.67', 35988)
-[!] ('10.0.16.67', 35988) - Total packets: 1538, Lost packets: 0
-[!] ('10.0.16.67', 35988) - Throughput: 60.08 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 56920)
-[-] connection is stopped: ('10.0.4.174', 56920)
-[!] ('10.0.4.174', 56920) - Total packets: 1563, Lost packets: 0
-[!] ('10.0.4.174', 56920) - Throughput: 61.05 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 43402)
+[+] accept connection: ('10.0.19.25', 35232)
+[!] ('10.0.4.162', 43402) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 35232) - Throughput: 72.22 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 36.11 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 37592)
-[-] connection is stopped: ('10.0.13.240', 37592)
-[!] ('10.0.13.240', 37592) - Total packets: 1786, Lost packets: 0
-[!] ('10.0.13.240', 37592) - Throughput: 69.76 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 60610)
-[-] connection is stopped: ('10.0.9.98', 60610)
-[!] ('10.0.9.98', 60610) - Total packets: 1779, Lost packets: 0
-[!] ('10.0.9.98', 60610) - Throughput: 69.49 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 46298)
-[-] connection is stopped: ('10.0.3.168', 46298)
-[!] ('10.0.3.168', 46298) - Total packets: 1796, Lost packets: 0
-[!] ('10.0.3.168', 46298) - Throughput: 70.16 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 45906)
-[-] connection is stopped: ('10.0.8.2', 45906)
-[!] ('10.0.8.2', 45906) - Total packets: 1783, Lost packets: 0
-[!] ('10.0.8.2', 45906) - Throughput: 69.65 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 34652)
-[-] connection is stopped: ('10.0.4.162', 34652)
-[!] ('10.0.4.162', 34652) - Total packets: 1787, Lost packets: 0
-[!] ('10.0.4.162', 34652) - Throughput: 69.80 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 53154)
-[-] connection is stopped: ('10.0.19.25', 53154)
-[!] ('10.0.19.25', 53154) - Total packets: 1795, Lost packets: 0
-[!] ('10.0.19.25', 53154) - Throughput: 70.12 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 41678)
-[-] connection is stopped: ('10.0.13.253', 41678)
-[!] ('10.0.13.253', 41678) - Total packets: 1781, Lost packets: 0
-[!] ('10.0.13.253', 41678) - Throughput: 69.57 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 38228)
-[-] connection is stopped: ('10.0.1.7', 38228)
-[!] ('10.0.1.7', 38228) - Total packets: 1776, Lost packets: 0
-[!] ('10.0.1.7', 38228) - Throughput: 69.37 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 46694)
-[-] connection is stopped: ('10.0.19.23', 46694)
-[!] ('10.0.19.23', 46694) - Total packets: 1789, Lost packets: 0
-[!] ('10.0.19.23', 46694) - Throughput: 69.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 48354)
-[-] connection is stopped: ('10.0.6.0', 48354)
-[!] ('10.0.6.0', 48354) - Total packets: 1793, Lost packets: 0
-[!] ('10.0.6.0', 48354) - Throughput: 70.04 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 42224)
-[-] connection is stopped: ('10.0.5.252', 42224)
-[!] ('10.0.5.252', 42224) - Total packets: 1789, Lost packets: 0
-[!] ('10.0.5.252', 42224) - Throughput: 69.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 53464)
-[-] connection is stopped: ('10.0.19.22', 53464)
-[!] ('10.0.19.22', 53464) - Total packets: 1788, Lost packets: 0
-[!] ('10.0.19.22', 53464) - Throughput: 69.84 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 33252)
-[-] connection is stopped: ('10.0.1.6', 33252)
-[!] ('10.0.1.6', 33252) - Total packets: 1850, Lost packets: 0
-[!] ('10.0.1.6', 33252) - Throughput: 72.26 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 37852)
-[-] connection is stopped: ('10.0.3.165', 37852)
-[!] ('10.0.3.165', 37852) - Total packets: 1789, Lost packets: 0
-[!] ('10.0.3.165', 37852) - Throughput: 69.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 34070)
-[-] connection is stopped: ('10.0.16.71', 34070)
-[!] ('10.0.16.71', 34070) - Total packets: 1789, Lost packets: 0
-[!] ('10.0.16.71', 34070) - Throughput: 69.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 45852)
-[-] connection is stopped: ('10.0.18.25', 45852)
-[!] ('10.0.18.25', 45852) - Total packets: 1783, Lost packets: 0
-[!] ('10.0.18.25', 45852) - Throughput: 69.65 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 38904)
-[-] connection is stopped: ('10.0.17.192', 38904)
-[!] ('10.0.17.192', 38904) - Total packets: 1784, Lost packets: 0
-[!] ('10.0.17.192', 38904) - Throughput: 69.69 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 41974)
-[-] connection is stopped: ('10.0.7.166', 41974)
-[!] ('10.0.7.166', 41974) - Total packets: 1784, Lost packets: 0
-[!] ('10.0.7.166', 41974) - Throughput: 69.69 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 36322)
-[-] connection is stopped: ('10.0.19.20', 36322)
-[!] ('10.0.19.20', 36322) - Total packets: 1784, Lost packets: 0
-[!] ('10.0.19.20', 36322) - Throughput: 69.69 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 51046)
-[-] connection is stopped: ('10.0.3.143', 51046)
-[!] ('10.0.3.143', 51046) - Total packets: 1780, Lost packets: 0
-[!] ('10.0.3.143', 51046) - Throughput: 69.53 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 36804)
-[-] connection is stopped: ('10.0.18.28', 36804)
-[!] ('10.0.18.28', 36804) - Total packets: 1799, Lost packets: 0
-[!] ('10.0.18.28', 36804) - Throughput: 70.27 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 35866)
-[-] connection is stopped: ('10.0.19.19', 35866)
-[!] ('10.0.19.19', 35866) - Total packets: 1786, Lost packets: 0
-[!] ('10.0.19.19', 35866) - Throughput: 69.76 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 56916)
-[-] connection is stopped: ('10.0.4.175', 56916)
-[!] ('10.0.4.175', 56916) - Total packets: 1782, Lost packets: 0
-[!] ('10.0.4.175', 56916) - Throughput: 69.61 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 40684)
-[-] connection is stopped: ('10.0.11.250', 40684)
-[!] ('10.0.11.250', 40684) - Total packets: 1785, Lost packets: 0
-[!] ('10.0.11.250', 40684) - Throughput: 69.73 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 40480)
-[-] connection is stopped: ('10.0.3.246', 40480)
-[!] ('10.0.3.246', 40480) - Total packets: 1782, Lost packets: 0
-[!] ('10.0.3.246', 40480) - Throughput: 69.61 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 50118)
-[-] connection is stopped: ('10.0.19.21', 50118)
-[!] ('10.0.19.21', 50118) - Total packets: 1779, Lost packets: 0
-[!] ('10.0.19.21', 50118) - Throughput: 69.49 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 48840)
-[-] connection is stopped: ('10.0.16.67', 48840)
-[!] ('10.0.16.67', 48840) - Total packets: 1848, Lost packets: 0
-[!] ('10.0.16.67', 48840) - Throughput: 72.19 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 39054)
-[-] connection is stopped: ('10.0.4.174', 39054)
-[!] ('10.0.4.174', 39054) - Total packets: 1783, Lost packets: 0
-[!] ('10.0.4.174', 39054) - Throughput: 69.65 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 35248)
+[+] accept connection: ('10.0.13.253', 45234)
+[!] ('10.0.19.25', 35248) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 45234) - Throughput: 65.86 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 32.93 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 45154)
-[-] connection is stopped: ('10.0.13.240', 45154)
-[!] ('10.0.13.240', 45154) - Total packets: 2006, Lost packets: 0
-[!] ('10.0.13.240', 45154) - Throughput: 78.36 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 53756)
-[-] connection is stopped: ('10.0.9.98', 53756)
-[!] ('10.0.9.98', 53756) - Total packets: 1992, Lost packets: 0
-[!] ('10.0.9.98', 53756) - Throughput: 77.81 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 45030)
-[-] connection is stopped: ('10.0.3.168', 45030)
-[!] ('10.0.3.168', 45030) - Total packets: 2009, Lost packets: 0
-[!] ('10.0.3.168', 45030) - Throughput: 78.48 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 55010)
-[-] connection is stopped: ('10.0.8.2', 55010)
-[!] ('10.0.8.2', 55010) - Total packets: 1985, Lost packets: 0
-[!] ('10.0.8.2', 55010) - Throughput: 77.54 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 40132)
-[-] connection is stopped: ('10.0.4.162', 40132)
-[!] ('10.0.4.162', 40132) - Total packets: 1996, Lost packets: 0
-[!] ('10.0.4.162', 40132) - Throughput: 77.97 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 54304)
-[-] connection is stopped: ('10.0.19.25', 54304)
-[!] ('10.0.19.25', 54304) - Total packets: 2005, Lost packets: 0
-[!] ('10.0.19.25', 54304) - Throughput: 78.32 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 44330)
-[-] connection is stopped: ('10.0.13.253', 44330)
-[!] ('10.0.13.253', 44330) - Total packets: 2072, Lost packets: 0
-[!] ('10.0.13.253', 44330) - Throughput: 80.94 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 36632)
-[-] connection is stopped: ('10.0.1.7', 36632)
-[!] ('10.0.1.7', 36632) - Total packets: 2013, Lost packets: 5
-[!] ('10.0.1.7', 36632) - Throughput: 78.63 Mbps, Packet Loss Rate: 0.25%
-[+] accept connection: ('10.0.19.23', 41456)
-[-] connection is stopped: ('10.0.19.23', 41456)
-[!] ('10.0.19.23', 41456) - Total packets: 2022, Lost packets: 0
-[!] ('10.0.19.23', 41456) - Throughput: 78.98 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 50460)
-[-] connection is stopped: ('10.0.6.0', 50460)
-[!] ('10.0.6.0', 50460) - Total packets: 2014, Lost packets: 0
-[!] ('10.0.6.0', 50460) - Throughput: 78.67 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 58232)
-[-] connection is stopped: ('10.0.5.252', 58232)
-[!] ('10.0.5.252', 58232) - Total packets: 2078, Lost packets: 0
-[!] ('10.0.5.252', 58232) - Throughput: 81.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 60732)
-[-] connection is stopped: ('10.0.19.22', 60732)
-[!] ('10.0.19.22', 60732) - Total packets: 1987, Lost packets: 0
-[!] ('10.0.19.22', 60732) - Throughput: 77.62 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 48724)
-[-] connection is stopped: ('10.0.1.6', 48724)
-[!] ('10.0.1.6', 48724) - Total packets: 1941, Lost packets: 0
-[!] ('10.0.1.6', 48724) - Throughput: 75.82 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 58584)
-[-] connection is stopped: ('10.0.3.165', 58584)
-[!] ('10.0.3.165', 58584) - Total packets: 2000, Lost packets: 0
-[!] ('10.0.3.165', 58584) - Throughput: 78.12 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 47412)
-[-] connection is stopped: ('10.0.16.71', 47412)
-[!] ('10.0.16.71', 47412) - Total packets: 2005, Lost packets: 0
-[!] ('10.0.16.71', 47412) - Throughput: 78.32 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 41016)
-[-] connection is stopped: ('10.0.18.25', 41016)
-[!] ('10.0.18.25', 41016) - Total packets: 2072, Lost packets: 0
-[!] ('10.0.18.25', 41016) - Throughput: 80.94 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 58466)
-[-] connection is stopped: ('10.0.17.192', 58466)
-[!] ('10.0.17.192', 58466) - Total packets: 2000, Lost packets: 0
-[!] ('10.0.17.192', 58466) - Throughput: 78.12 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 37836)
-[-] connection is stopped: ('10.0.7.166', 37836)
-[!] ('10.0.7.166', 37836) - Total packets: 1997, Lost packets: 0
-[!] ('10.0.7.166', 37836) - Throughput: 78.01 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 34148)
-[-] connection is stopped: ('10.0.19.20', 34148)
-[!] ('10.0.19.20', 34148) - Total packets: 2003, Lost packets: 0
-[!] ('10.0.19.20', 34148) - Throughput: 78.24 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 46216)
-[-] connection is stopped: ('10.0.3.143', 46216)
-[!] ('10.0.3.143', 46216) - Total packets: 2001, Lost packets: 0
-[!] ('10.0.3.143', 46216) - Throughput: 78.16 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 37470)
-[-] connection is stopped: ('10.0.18.28', 37470)
-[!] ('10.0.18.28', 37470) - Total packets: 1995, Lost packets: 0
-[!] ('10.0.18.28', 37470) - Throughput: 77.93 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 56654)
-[-] connection is stopped: ('10.0.19.19', 56654)
-[!] ('10.0.19.19', 56654) - Total packets: 2008, Lost packets: 0
-[!] ('10.0.19.19', 56654) - Throughput: 78.44 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 46594)
-[-] connection is stopped: ('10.0.4.175', 46594)
-[!] ('10.0.4.175', 46594) - Total packets: 2013, Lost packets: 0
-[!] ('10.0.4.175', 46594) - Throughput: 78.63 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 42710)
-[-] connection is stopped: ('10.0.11.250', 42710)
-[!] ('10.0.11.250', 42710) - Total packets: 2004, Lost packets: 0
-[!] ('10.0.11.250', 42710) - Throughput: 78.28 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 37408)
-[-] connection is stopped: ('10.0.3.246', 37408)
-[!] ('10.0.3.246', 37408) - Total packets: 2082, Lost packets: 0
-[!] ('10.0.3.246', 37408) - Throughput: 81.33 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 60682)
-[-] connection is stopped: ('10.0.19.21', 60682)
-[!] ('10.0.19.21', 60682) - Total packets: 2020, Lost packets: 0
-[!] ('10.0.19.21', 60682) - Throughput: 78.91 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 55442)
-[-] connection is stopped: ('10.0.16.67', 55442)
-[!] ('10.0.16.67', 55442) - Total packets: 2010, Lost packets: 0
-[!] ('10.0.16.67', 55442) - Throughput: 78.51 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 51546)
-[-] connection is stopped: ('10.0.4.174', 51546)
-[!] ('10.0.4.174', 51546) - Total packets: 1993, Lost packets: 0
-[!] ('10.0.4.174', 51546) - Throughput: 77.85 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 35138)
+[+] accept connection: ('10.0.1.7', 43154)
+[!] ('10.0.13.253', 35138) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 43154) - Throughput: 56.73 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 28.37 Mbps
+[!] Average Packet Loss Rate: 0.00%
 
 [*] start server 10.0.1.100:12345.
-[+] accept connection: ('10.0.13.240', 53264)
-[-] connection is stopped: ('10.0.13.240', 53264)
-[!] ('10.0.13.240', 53264) - Total packets: 2220, Lost packets: 0
-[!] ('10.0.13.240', 53264) - Throughput: 86.72 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.9.98', 40242)
-[-] connection is stopped: ('10.0.9.98', 40242)
-[!] ('10.0.9.98', 40242) - Total packets: 2170, Lost packets: 0
-[!] ('10.0.9.98', 40242) - Throughput: 84.76 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.168', 44084)
-[-] connection is stopped: ('10.0.3.168', 44084)
-[!] ('10.0.3.168', 44084) - Total packets: 2212, Lost packets: 0
-[!] ('10.0.3.168', 44084) - Throughput: 86.40 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.8.2', 43674)
-[-] connection is stopped: ('10.0.8.2', 43674)
-[!] ('10.0.8.2', 43674) - Total packets: 2207, Lost packets: 0
-[!] ('10.0.8.2', 43674) - Throughput: 86.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.162', 45618)
-[-] connection is stopped: ('10.0.4.162', 45618)
-[!] ('10.0.4.162', 45618) - Total packets: 2304, Lost packets: 0
-[!] ('10.0.4.162', 45618) - Throughput: 90.00 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.25', 42288)
-[-] connection is stopped: ('10.0.19.25', 42288)
-[!] ('10.0.19.25', 42288) - Total packets: 2212, Lost packets: 0
-[!] ('10.0.19.25', 42288) - Throughput: 86.41 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.13.253', 35118)
-[-] connection is stopped: ('10.0.13.253', 35118)
-[!] ('10.0.13.253', 35118) - Total packets: 2205, Lost packets: 0
-[!] ('10.0.13.253', 35118) - Throughput: 86.13 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.7', 55718)
-[-] connection is stopped: ('10.0.1.7', 55718)
-[!] ('10.0.1.7', 55718) - Total packets: 2206, Lost packets: 0
-[!] ('10.0.1.7', 55718) - Throughput: 86.17 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.23', 51666)
-[-] connection is stopped: ('10.0.19.23', 51666)
-[!] ('10.0.19.23', 51666) - Total packets: 2207, Lost packets: 0
-[!] ('10.0.19.23', 51666) - Throughput: 86.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.6.0', 52196)
-[-] connection is stopped: ('10.0.6.0', 52196)
-[!] ('10.0.6.0', 52196) - Total packets: 2297, Lost packets: 0
-[!] ('10.0.6.0', 52196) - Throughput: 89.73 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.5.252', 57358)
-[-] connection is stopped: ('10.0.5.252', 57358)
-[!] ('10.0.5.252', 57358) - Total packets: 2207, Lost packets: 0
-[!] ('10.0.5.252', 57358) - Throughput: 86.21 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.22', 56336)
-[-] connection is stopped: ('10.0.19.22', 56336)
-[!] ('10.0.19.22', 56336) - Total packets: 2275, Lost packets: 0
-[!] ('10.0.19.22', 56336) - Throughput: 88.87 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.1.6', 54902)
-[-] connection is stopped: ('10.0.1.6', 54902)
-[!] ('10.0.1.6', 54902) - Total packets: 2195, Lost packets: 0
-[!] ('10.0.1.6', 54902) - Throughput: 85.74 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.165', 34418)
-[-] connection is stopped: ('10.0.3.165', 34418)
-[!] ('10.0.3.165', 34418) - Total packets: 2224, Lost packets: 0
-[!] ('10.0.3.165', 34418) - Throughput: 86.87 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.71', 34768)
-[-] connection is stopped: ('10.0.16.71', 34768)
-[!] ('10.0.16.71', 34768) - Total packets: 2195, Lost packets: 0
-[!] ('10.0.16.71', 34768) - Throughput: 85.74 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.25', 51554)
-[-] connection is stopped: ('10.0.18.25', 51554)
-[!] ('10.0.18.25', 51554) - Total packets: 2183, Lost packets: 0
-[!] ('10.0.18.25', 51554) - Throughput: 85.27 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.17.192', 37016)
-[-] connection is stopped: ('10.0.17.192', 37016)
-[!] ('10.0.17.192', 37016) - Total packets: 2236, Lost packets: 0
-[!] ('10.0.17.192', 37016) - Throughput: 87.34 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.7.166', 57978)
-[-] connection is stopped: ('10.0.7.166', 57978)
-[!] ('10.0.7.166', 57978) - Total packets: 2213, Lost packets: 0
-[!] ('10.0.7.166', 57978) - Throughput: 86.44 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.20', 37674)
-[-] connection is stopped: ('10.0.19.20', 37674)
-[!] ('10.0.19.20', 37674) - Total packets: 2225, Lost packets: 0
-[!] ('10.0.19.20', 37674) - Throughput: 86.91 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.143', 46606)
-[-] connection is stopped: ('10.0.3.143', 46606)
-[!] ('10.0.3.143', 46606) - Total packets: 2173, Lost packets: 0
-[!] ('10.0.3.143', 46606) - Throughput: 84.88 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.18.28', 37892)
-[-] connection is stopped: ('10.0.18.28', 37892)
-[!] ('10.0.18.28', 37892) - Total packets: 2202, Lost packets: 0
-[!] ('10.0.18.28', 37892) - Throughput: 86.01 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.19', 53708)
-[-] connection is stopped: ('10.0.19.19', 53708)
-[!] ('10.0.19.19', 53708) - Total packets: 2188, Lost packets: 0
-[!] ('10.0.19.19', 53708) - Throughput: 85.47 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.175', 45756)
-[-] connection is stopped: ('10.0.4.175', 45756)
-[!] ('10.0.4.175', 45756) - Total packets: 2187, Lost packets: 0
-[!] ('10.0.4.175', 45756) - Throughput: 85.43 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.11.250', 48432)
-[-] connection is stopped: ('10.0.11.250', 48432)
-[!] ('10.0.11.250', 48432) - Total packets: 2213, Lost packets: 0
-[!] ('10.0.11.250', 48432) - Throughput: 86.44 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.3.246', 40292)
-[-] connection is stopped: ('10.0.3.246', 40292)
-[!] ('10.0.3.246', 40292) - Total packets: 2210, Lost packets: 0
-[!] ('10.0.3.246', 40292) - Throughput: 86.33 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.19.21', 54968)
-[-] connection is stopped: ('10.0.19.21', 54968)
-[!] ('10.0.19.21', 54968) - Total packets: 2221, Lost packets: 0
-[!] ('10.0.19.21', 54968) - Throughput: 86.76 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.16.67', 34774)
-[-] connection is stopped: ('10.0.16.67', 34774)
-[!] ('10.0.16.67', 34774) - Total packets: 2192, Lost packets: 0
-[!] ('10.0.16.67', 34774) - Throughput: 85.62 Mbps, Packet Loss Rate: 0.00%
-[+] accept connection: ('10.0.4.174', 39926)
-[-] connection is stopped: ('10.0.4.174', 39926)
-[!] ('10.0.4.174', 39926) - Total packets: 2204, Lost packets: 0
-[!] ('10.0.4.174', 39926) - Throughput: 86.09 Mbps, Packet Loss Rate: 0.00%
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 42350)
+[+] accept connection: ('10.0.19.23', 39442)
+[!] ('10.0.1.7', 42350) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 39442) - Throughput: 53.55 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 26.78 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 56660)
+[+] accept connection: ('10.0.6.0', 33370)
+[!] ('10.0.19.23', 56660) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 33370) - Throughput: 61.20 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 30.60 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 43638)
+[+] accept connection: ('10.0.5.252', 38186)
+[!] ('10.0.6.0', 43638) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 38186) - Throughput: 64.70 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 32.36 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 48676)
+[+] accept connection: ('10.0.19.22', 53144)
+[!] ('10.0.5.252', 48676) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 53144) - Throughput: 58.66 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 29.33 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 53146)
+[+] accept connection: ('10.0.1.6', 52838)
+[!] ('10.0.19.22', 53146) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 52838) - Throughput: 61.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 30.55 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 52844)
+[+] accept connection: ('10.0.3.165', 44584)
+[!] ('10.0.1.6', 52844) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 44584) - Throughput: 61.73 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 30.87 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 58732)
+[+] accept connection: ('10.0.16.71', 35052)
+[!] ('10.0.3.165', 58732) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 35052) - Throughput: 65.83 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 32.92 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 45760)
+[+] accept connection: ('10.0.18.25', 50560)
+[!] ('10.0.16.71', 45760) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 50560) - Throughput: 51.83 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 25.92 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 59446)
+[+] accept connection: ('10.0.17.192', 46048)
+[!] ('10.0.18.25', 59446) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 46048) - Throughput: 65.00 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 32.50 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 44930)
+[+] accept connection: ('10.0.7.166', 60556)
+[!] ('10.0.17.192', 44930) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 60556) - Throughput: 61.13 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 30.57 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 45810)
+[+] accept connection: ('10.0.19.20', 35836)
+[!] ('10.0.7.166', 45810) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 35836) - Throughput: 66.45 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 33.23 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 54994)
+[+] accept connection: ('10.0.3.143', 56416)
+[!] ('10.0.19.20', 54994) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 56416) - Throughput: 60.00 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 30.00 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 55160)
+[+] accept connection: ('10.0.18.28', 34618)
+[!] ('10.0.3.143', 55160) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 34618) - Throughput: 57.26 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 28.63 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 59400)
+[+] accept connection: ('10.0.19.19', 44392)
+[!] ('10.0.18.28', 59400) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 44392) - Throughput: 56.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 28.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 44398)
+[+] accept connection: ('10.0.4.175', 40952)
+[!] ('10.0.19.19', 44398) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 40952) - Throughput: 59.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 29.64 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 40966)
+[+] accept connection: ('10.0.11.250', 45940)
+[!] ('10.0.4.175', 40966) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 45940) - Throughput: 71.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 35.62 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 39000)
+[+] accept connection: ('10.0.3.246', 58800)
+[!] ('10.0.11.250', 39000) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 58800) - Throughput: 74.13 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 37.07 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 50030)
+[+] accept connection: ('10.0.19.21', 34642)
+[!] ('10.0.3.246', 50030) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 34642) - Throughput: 68.84 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 34.43 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 41320)
+[+] accept connection: ('10.0.16.67', 52792)
+[!] ('10.0.19.21', 41320) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 52792) - Throughput: 74.28 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 37.14 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 37218)
+[+] accept connection: ('10.0.4.174', 49626)
+[!] ('10.0.16.67', 37218) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 49626) - Throughput: 42.52 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 21.27 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 34408)
+[!] ('10.0.9.95', 34408) - Throughput: 181.25 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 55100)
+[+] accept connection: ('10.0.13.240', 49928)
+[!] ('10.0.9.95', 55100) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 49928) - Throughput: 112.15 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 56.08 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 34626)
+[+] accept connection: ('10.0.9.98', 37834)
+[!] ('10.0.13.240', 34626) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 37834) - Throughput: 96.62 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 48.31 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 32830)
+[+] accept connection: ('10.0.3.168', 41528)
+[!] ('10.0.9.98', 32830) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 41528) - Throughput: 114.46 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 57.23 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 49758)
+[+] accept connection: ('10.0.8.2', 48636)
+[!] ('10.0.3.168', 49758) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 48636) - Throughput: 106.62 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 53.32 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 48650)
+[+] accept connection: ('10.0.4.162', 41972)
+[!] ('10.0.8.2', 48650) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 41972) - Throughput: 92.35 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 46.18 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 41976)
+[+] accept connection: ('10.0.19.25', 50530)
+[!] ('10.0.4.162', 41976) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 50530) - Throughput: 126.80 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 63.40 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 59086)
+[+] accept connection: ('10.0.13.253', 59506)
+[!] ('10.0.19.25', 59086) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 59506) - Throughput: 93.45 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 46.73 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 33756)
+[+] accept connection: ('10.0.1.7', 48672)
+[!] ('10.0.13.253', 33756) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 48672) - Throughput: 147.95 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 73.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 52610)
+[+] accept connection: ('10.0.19.23', 36896)
+[!] ('10.0.1.7', 52610) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 36896) - Throughput: 119.84 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 59.92 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 37070)
+[+] accept connection: ('10.0.6.0', 49110)
+[!] ('10.0.19.23', 37070) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 49110) - Throughput: 102.44 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 51.22 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 49114)
+[+] accept connection: ('10.0.5.252', 45014)
+[!] ('10.0.6.0', 49114) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 45014) - Throughput: 95.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 47.64 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 45018)
+[+] accept connection: ('10.0.19.22', 41214)
+[!] ('10.0.5.252', 45018) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 41214) - Throughput: 100.76 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 50.38 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 55720)
+[+] accept connection: ('10.0.1.6', 59248)
+[!] ('10.0.19.22', 55720) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 59248) - Throughput: 136.83 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 68.42 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 51234)
+[+] accept connection: ('10.0.3.165', 49878)
+[!] ('10.0.1.6', 51234) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 49878) - Throughput: 146.62 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 73.31 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 32962)
+[+] accept connection: ('10.0.16.71', 47520)
+[!] ('10.0.3.165', 32962) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 47520) - Throughput: 128.94 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 64.47 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 43538)
+[+] accept connection: ('10.0.18.25', 49650)
+[!] ('10.0.16.71', 43538) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 49650) - Throughput: 128.33 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 64.17 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 46258)
+[+] accept connection: ('10.0.17.192', 39566)
+[!] ('10.0.18.25', 46258) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 39566) - Throughput: 97.12 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 48.57 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 44492)
+[+] accept connection: ('10.0.7.166', 50954)
+[!] ('10.0.17.192', 44492) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 50954) - Throughput: 109.37 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 54.69 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 50678)
+[+] accept connection: ('10.0.19.20', 38226)
+[!] ('10.0.7.166', 50678) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 38226) - Throughput: 105.94 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 52.97 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 60754)
+[+] accept connection: ('10.0.3.143', 40292)
+[!] ('10.0.19.20', 60754) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 40292) - Throughput: 132.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 66.35 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 38552)
+[+] accept connection: ('10.0.18.28', 39872)
+[!] ('10.0.3.143', 38552) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 39872) - Throughput: 112.59 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 56.30 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 39888)
+[+] accept connection: ('10.0.19.19', 38494)
+[!] ('10.0.18.28', 39888) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 38494) - Throughput: 89.17 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 44.59 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 38510)
+[+] accept connection: ('10.0.4.175', 50408)
+[!] ('10.0.19.19', 38510) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 50408) - Throughput: 114.50 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 57.25 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 35016)
+[+] accept connection: ('10.0.11.250', 43012)
+[!] ('10.0.4.175', 35016) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 43012) - Throughput: 106.45 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 53.23 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 55140)
+[+] accept connection: ('10.0.3.246', 58546)
+[!] ('10.0.11.250', 55140) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 58546) - Throughput: 87.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 43.53 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 50482)
+[+] accept connection: ('10.0.19.21', 55192)
+[!] ('10.0.3.246', 50482) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 55192) - Throughput: 118.12 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 59.07 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 52240)
+[+] accept connection: ('10.0.16.67', 38222)
+[!] ('10.0.19.21', 52240) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 38222) - Throughput: 134.40 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 67.20 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 34164)
+[+] accept connection: ('10.0.4.174', 37918)
+[!] ('10.0.16.67', 34164) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 37918) - Throughput: 94.95 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 47.48 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 57468)
+[!] ('10.0.9.95', 57468) - Throughput: 272.01 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 44452)
+[+] accept connection: ('10.0.13.240', 51908)
+[!] ('10.0.9.95', 44452) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 51908) - Throughput: 129.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 64.62 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 56728)
+[+] accept connection: ('10.0.9.98', 46020)
+[!] ('10.0.13.240', 56728) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 46020) - Throughput: 155.31 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 77.66 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 41962)
+[+] accept connection: ('10.0.3.168', 36522)
+[!] ('10.0.9.98', 41962) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 36522) - Throughput: 131.99 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 66.00 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 36528)
+[+] accept connection: ('10.0.8.2', 59628)
+[!] ('10.0.3.168', 36528) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 59628) - Throughput: 143.80 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 71.91 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 59636)
+[+] accept connection: ('10.0.4.162', 46194)
+[!] ('10.0.8.2', 59636) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 46194) - Throughput: 141.71 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 70.86 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 45106)
+[+] accept connection: ('10.0.19.25', 38980)
+[!] ('10.0.4.162', 45106) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 38980) - Throughput: 170.28 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 85.14 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 52428)
+[+] accept connection: ('10.0.13.253', 37826)
+[!] ('10.0.19.25', 52428) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 37826) - Throughput: 162.37 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 81.19 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 33304)
+[+] accept connection: ('10.0.1.7', 42570)
+[!] ('10.0.13.253', 33304) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 42570) - Throughput: 161.21 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 80.61 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 57454)
+[+] accept connection: ('10.0.19.23', 60850)
+[!] ('10.0.1.7', 57454) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 60850) - Throughput: 136.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 68.14 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 37788)
+[+] accept connection: ('10.0.6.0', 45010)
+[!] ('10.0.19.23', 37788) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 45010) - Throughput: 190.46 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 95.23 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 45026)
+[+] accept connection: ('10.0.5.252', 49616)
+[!] ('10.0.6.0', 45026) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 49616) - Throughput: 136.17 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 68.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 49628)
+[+] accept connection: ('10.0.19.22', 34530)
+[!] ('10.0.5.252', 49628) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 34530) - Throughput: 163.41 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 81.71 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 42834)
+[+] accept connection: ('10.0.1.6', 59322)
+[!] ('10.0.19.22', 42834) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 59322) - Throughput: 221.33 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 110.67 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 51326)
+[+] accept connection: ('10.0.3.165', 32974)
+[!] ('10.0.1.6', 51326) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 32974) - Throughput: 139.41 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 69.71 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 46814)
+[+] accept connection: ('10.0.16.71', 52296)
+[!] ('10.0.3.165', 46814) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 52296) - Throughput: 134.91 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 67.46 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 36036)
+[+] accept connection: ('10.0.18.25', 55198)
+[!] ('10.0.16.71', 36036) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 55198) - Throughput: 138.78 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 69.39 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 56560)
+[+] accept connection: ('10.0.17.192', 34138)
+[!] ('10.0.18.25', 56560) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 34138) - Throughput: 139.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 69.53 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 33876)
+[+] accept connection: ('10.0.7.166', 56768)
+[!] ('10.0.17.192', 33876) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 56768) - Throughput: 157.52 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 78.76 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 40196)
+[+] accept connection: ('10.0.19.20', 52064)
+[!] ('10.0.7.166', 40196) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 52064) - Throughput: 197.55 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 98.78 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 53834)
+[+] accept connection: ('10.0.3.143', 51256)
+[!] ('10.0.19.20', 53834) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 51256) - Throughput: 160.91 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 80.46 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 36104)
+[+] accept connection: ('10.0.18.28', 58462)
+[!] ('10.0.3.143', 36104) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 58462) - Throughput: 112.70 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 56.36 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 58468)
+[+] accept connection: ('10.0.19.19', 54172)
+[!] ('10.0.18.28', 58468) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 54172) - Throughput: 120.00 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 60.00 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 54186)
+[+] accept connection: ('10.0.4.175', 36454)
+[!] ('10.0.19.19', 54186) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 36454) - Throughput: 196.41 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 98.21 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 53362)
+[+] accept connection: ('10.0.11.250', 36500)
+[!] ('10.0.4.175', 53362) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 36500) - Throughput: 217.42 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 108.71 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 49632)
+[+] accept connection: ('10.0.3.246', 42908)
+[!] ('10.0.11.250', 49632) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 42908) - Throughput: 126.66 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 63.34 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 51890)
+[+] accept connection: ('10.0.19.21', 33250)
+[!] ('10.0.3.246', 51890) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 33250) - Throughput: 119.96 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 59.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 34680)
+[+] accept connection: ('10.0.16.67', 33920)
+[!] ('10.0.19.21', 34680) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 33920) - Throughput: 132.84 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 66.43 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 54384)
+[+] accept connection: ('10.0.4.174', 41534)
+[!] ('10.0.16.67', 54384) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 41534) - Throughput: 135.81 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 67.91 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 47112)
+[!] ('10.0.9.95', 47112) - Throughput: 362.53 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 56406)
+[+] accept connection: ('10.0.13.240', 51088)
+[!] ('10.0.9.95', 56406) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 51088) - Throughput: 133.66 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 66.83 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 44904)
+[+] accept connection: ('10.0.9.98', 48986)
+[!] ('10.0.13.240', 44904) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 48986) - Throughput: 152.85 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 76.43 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 56394)
+[+] accept connection: ('10.0.3.168', 39752)
+[!] ('10.0.9.98', 56394) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 39752) - Throughput: 150.02 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 75.02 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 39756)
+[+] accept connection: ('10.0.8.2', 51794)
+[!] ('10.0.3.168', 39756) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 51794) - Throughput: 170.91 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 85.46 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 51800)
+[+] accept connection: ('10.0.4.162', 53880)
+[!] ('10.0.8.2', 51800) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 53880) - Throughput: 232.73 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 116.37 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 53896)
+[+] accept connection: ('10.0.19.25', 56422)
+[!] ('10.0.4.162', 53896) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 56422) - Throughput: 138.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 69.08 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 58674)
+[+] accept connection: ('10.0.13.253', 55764)
+[!] ('10.0.19.25', 58674) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 55764) - Throughput: 227.90 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 113.95 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 49600)
+[+] accept connection: ('10.0.1.7', 42644)
+[!] ('10.0.13.253', 49600) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 42644) - Throughput: 144.18 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 72.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 37432)
+[+] accept connection: ('10.0.19.23', 32810)
+[!] ('10.0.1.7', 37432) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 32810) - Throughput: 132.41 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 66.21 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 55806)
+[+] accept connection: ('10.0.6.0', 51936)
+[!] ('10.0.19.23', 55806) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 51936) - Throughput: 225.43 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 112.72 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 49752)
+[+] accept connection: ('10.0.5.252', 42374)
+[!] ('10.0.6.0', 49752) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 42374) - Throughput: 150.51 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 75.26 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 42378)
+[+] accept connection: ('10.0.19.22', 49900)
+[!] ('10.0.5.252', 42378) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 49900) - Throughput: 117.52 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 58.76 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 49902)
+[+] accept connection: ('10.0.1.6', 48064)
+[!] ('10.0.19.22', 49902) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 48064) - Throughput: 157.68 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 78.84 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 56550)
+[+] accept connection: ('10.0.3.165', 43480)
+[!] ('10.0.1.6', 56550) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 43480) - Throughput: 145.13 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 72.57 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 45916)
+[+] accept connection: ('10.0.16.71', 34582)
+[!] ('10.0.3.165', 45916) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 34582) - Throughput: 115.28 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 57.64 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 34886)
+[+] accept connection: ('10.0.18.25', 60232)
+[!] ('10.0.16.71', 34886) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 60232) - Throughput: 178.74 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 89.37 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 33832)
+[+] accept connection: ('10.0.17.192', 41978)
+[!] ('10.0.18.25', 33832) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 41978) - Throughput: 159.76 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 79.88 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 46124)
+[+] accept connection: ('10.0.7.166', 43916)
+[!] ('10.0.17.192', 46124) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 43916) - Throughput: 147.73 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 73.87 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 37366)
+[+] accept connection: ('10.0.19.20', 35832)
+[!] ('10.0.7.166', 37366) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 35832) - Throughput: 234.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 117.08 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 54780)
+[+] accept connection: ('10.0.3.143', 50522)
+[!] ('10.0.19.20', 54780) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 50522) - Throughput: 262.99 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 131.50 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 49846)
+[+] accept connection: ('10.0.18.28', 42302)
+[!] ('10.0.3.143', 49846) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 42302) - Throughput: 259.86 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 129.93 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 34724)
+[+] accept connection: ('10.0.19.19', 52034)
+[!] ('10.0.18.28', 34724) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 52034) - Throughput: 247.07 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 123.54 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 52048)
+[+] accept connection: ('10.0.4.175', 43250)
+[!] ('10.0.19.19', 52048) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 43250) - Throughput: 282.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 141.03 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 43264)
+[+] accept connection: ('10.0.11.250', 37132)
+[!] ('10.0.4.175', 43264) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 37132) - Throughput: 131.30 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 65.66 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 49674)
+[+] accept connection: ('10.0.3.246', 39450)
+[!] ('10.0.11.250', 49674) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 39450) - Throughput: 246.33 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 123.17 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 54318)
+[+] accept connection: ('10.0.19.21', 48360)
+[!] ('10.0.3.246', 54318) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 48360) - Throughput: 181.77 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 90.89 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 40382)
+[+] accept connection: ('10.0.16.67', 55520)
+[!] ('10.0.19.21', 40382) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 55520) - Throughput: 148.79 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 74.40 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 36990)
+[+] accept connection: ('10.0.4.174', 46254)
+[!] ('10.0.16.67', 36990) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 46254) - Throughput: 162.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 81.35 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 46988)
+[!] ('10.0.9.95', 46988) - Throughput: 453.28 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 43170)
+[+] accept connection: ('10.0.13.240', 48656)
+[!] ('10.0.9.95', 43170) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 48656) - Throughput: 220.87 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 110.44 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 36120)
+[+] accept connection: ('10.0.9.98', 34840)
+[!] ('10.0.13.240', 36120) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 34840) - Throughput: 156.26 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 78.13 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 60420)
+[+] accept connection: ('10.0.3.168', 41766)
+[!] ('10.0.9.98', 60420) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 41766) - Throughput: 174.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 87.12 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 45724)
+[+] accept connection: ('10.0.8.2', 45326)
+[!] ('10.0.3.168', 45724) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 45326) - Throughput: 159.34 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 79.67 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 42544)
+[+] accept connection: ('10.0.4.162', 47570)
+[!] ('10.0.8.2', 42544) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 47570) - Throughput: 184.18 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 92.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 47576)
+[+] accept connection: ('10.0.19.25', 33170)
+[!] ('10.0.4.162', 47576) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 33170) - Throughput: 160.04 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 80.02 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 33182)
+[+] accept connection: ('10.0.13.253', 52358)
+[!] ('10.0.19.25', 33182) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 52358) - Throughput: 246.57 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 123.29 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 40774)
+[+] accept connection: ('10.0.1.7', 44162)
+[!] ('10.0.13.253', 40774) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 44162) - Throughput: 171.37 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 85.69 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 47856)
+[+] accept connection: ('10.0.19.23', 41436)
+[!] ('10.0.1.7', 47856) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 41436) - Throughput: 270.00 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 135.00 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 51418)
+[+] accept connection: ('10.0.6.0', 36362)
+[!] ('10.0.19.23', 51418) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 36362) - Throughput: 154.09 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 77.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 58002)
+[+] accept connection: ('10.0.5.252', 59888)
+[!] ('10.0.6.0', 58002) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 59888) - Throughput: 152.55 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 76.28 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 37212)
+[+] accept connection: ('10.0.19.22', 39174)
+[!] ('10.0.5.252', 37212) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 39174) - Throughput: 170.62 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 85.31 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 39180)
+[+] accept connection: ('10.0.1.6', 58230)
+[!] ('10.0.19.22', 39180) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 58230) - Throughput: 175.86 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 87.93 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 58238)
+[+] accept connection: ('10.0.3.165', 48566)
+[!] ('10.0.1.6', 58238) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 48566) - Throughput: 158.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 79.14 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 39688)
+[+] accept connection: ('10.0.16.71', 33168)
+[!] ('10.0.3.165', 39688) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 33168) - Throughput: 354.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 177.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 32960)
+[+] accept connection: ('10.0.18.25', 49800)
+[!] ('10.0.16.71', 32960) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 49800) - Throughput: 213.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 106.53 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 45226)
+[+] accept connection: ('10.0.17.192', 45676)
+[!] ('10.0.18.25', 45226) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 45676) - Throughput: 187.82 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 93.91 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 41434)
+[+] accept connection: ('10.0.7.166', 33406)
+[!] ('10.0.17.192', 41434) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 33406) - Throughput: 177.13 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 88.57 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 55112)
+[+] accept connection: ('10.0.19.20', 43642)
+[!] ('10.0.7.166', 55112) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 43642) - Throughput: 189.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 94.58 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 50282)
+[+] accept connection: ('10.0.3.143', 48220)
+[!] ('10.0.19.20', 50282) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 48220) - Throughput: 357.72 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 178.86 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 47402)
+[+] accept connection: ('10.0.18.28', 58822)
+[!] ('10.0.3.143', 47402) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 58822) - Throughput: 360.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 180.35 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 32988)
+[+] accept connection: ('10.0.19.19', 47724)
+[!] ('10.0.18.28', 32988) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 47724) - Throughput: 357.44 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 178.73 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 44910)
+[+] accept connection: ('10.0.4.175', 34780)
+[!] ('10.0.19.19', 44910) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 34780) - Throughput: 351.17 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 175.59 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 49512)
+[+] accept connection: ('10.0.11.250', 57978)
+[!] ('10.0.4.175', 49512) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 57978) - Throughput: 208.54 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 104.27 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 57986)
+[+] accept connection: ('10.0.3.246', 41292)
+[!] ('10.0.11.250', 57986) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 41292) - Throughput: 271.53 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 135.77 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 41302)
+[+] accept connection: ('10.0.19.21', 52834)
+[!] ('10.0.3.246', 41302) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 52834) - Throughput: 173.02 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 86.52 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 37462)
+[+] accept connection: ('10.0.16.67', 40450)
+[!] ('10.0.19.21', 37462) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 40450) - Throughput: 160.88 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 80.45 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 55732)
+[+] accept connection: ('10.0.4.174', 46340)
+[!] ('10.0.16.67', 55732) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 46340) - Throughput: 187.80 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 93.90 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 53148)
+[!] ('10.0.9.95', 53148) - Throughput: 543.54 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 53626)
+[+] accept connection: ('10.0.13.240', 60798)
+[!] ('10.0.9.95', 53626) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 60798) - Throughput: 364.26 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 182.13 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 57114)
+[+] accept connection: ('10.0.9.98', 35822)
+[!] ('10.0.13.240', 57114) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 35822) - Throughput: 280.78 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 140.39 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 50778)
+[+] accept connection: ('10.0.3.168', 54576)
+[!] ('10.0.9.98', 50778) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 54576) - Throughput: 209.41 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 104.71 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 35772)
+[+] accept connection: ('10.0.8.2', 40772)
+[!] ('10.0.3.168', 35772) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 40772) - Throughput: 204.43 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 102.22 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 43924)
+[+] accept connection: ('10.0.4.162', 39038)
+[!] ('10.0.8.2', 43924) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 39038) - Throughput: 202.78 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 101.39 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 42570)
+[+] accept connection: ('10.0.19.25', 52872)
+[!] ('10.0.4.162', 42570) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 52872) - Throughput: 168.82 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 84.41 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 53126)
+[+] accept connection: ('10.0.13.253', 39460)
+[!] ('10.0.19.25', 53126) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 39460) - Throughput: 259.62 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 129.82 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 39466)
+[+] accept connection: ('10.0.1.7', 33274)
+[!] ('10.0.13.253', 39466) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 33274) - Throughput: 194.82 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 97.41 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 33288)
+[+] accept connection: ('10.0.19.23', 58084)
+[!] ('10.0.1.7', 33288) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 58084) - Throughput: 244.80 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 122.40 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 37368)
+[+] accept connection: ('10.0.6.0', 42982)
+[!] ('10.0.19.23', 37368) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 42982) - Throughput: 290.14 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 145.07 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 38592)
+[+] accept connection: ('10.0.5.252', 43236)
+[!] ('10.0.6.0', 38592) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 43236) - Throughput: 295.48 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 147.74 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 40538)
+[+] accept connection: ('10.0.19.22', 35630)
+[!] ('10.0.5.252', 40538) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 35630) - Throughput: 176.19 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 88.10 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 53238)
+[+] accept connection: ('10.0.1.6', 39446)
+[!] ('10.0.19.22', 53238) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 39446) - Throughput: 182.21 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 91.11 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 58400)
+[+] accept connection: ('10.0.3.165', 52502)
+[!] ('10.0.1.6', 58400) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 52502) - Throughput: 187.34 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 93.68 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 49230)
+[+] accept connection: ('10.0.16.71', 42750)
+[!] ('10.0.3.165', 49230) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 42750) - Throughput: 190.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 95.14 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 42766)
+[+] accept connection: ('10.0.18.25', 51072)
+[!] ('10.0.16.71', 42766) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 51072) - Throughput: 311.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 155.62 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 51074)
+[+] accept connection: ('10.0.17.192', 52174)
+[!] ('10.0.18.25', 51074) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 52174) - Throughput: 214.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 107.03 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 55782)
+[+] accept connection: ('10.0.7.166', 45176)
+[!] ('10.0.17.192', 55782) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 45176) - Throughput: 214.97 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 107.49 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 50938)
+[+] accept connection: ('10.0.19.20', 60202)
+[!] ('10.0.7.166', 50938) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 60202) - Throughput: 216.40 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 108.20 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 44668)
+[+] accept connection: ('10.0.3.143', 33522)
+[!] ('10.0.19.20', 44668) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 33522) - Throughput: 204.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 102.14 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 45430)
+[+] accept connection: ('10.0.18.28', 37742)
+[!] ('10.0.3.143', 45430) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 37742) - Throughput: 276.59 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 138.30 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 34686)
+[+] accept connection: ('10.0.19.19', 60670)
+[!] ('10.0.18.28', 34686) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 60670) - Throughput: 189.14 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 94.57 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 37960)
+[+] accept connection: ('10.0.4.175', 42940)
+[!] ('10.0.19.19', 37960) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 42940) - Throughput: 250.35 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 125.18 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 35072)
+[+] accept connection: ('10.0.11.250', 46002)
+[!] ('10.0.4.175', 35072) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 46002) - Throughput: 200.77 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 100.39 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 34920)
+[+] accept connection: ('10.0.3.246', 34512)
+[!] ('10.0.11.250', 34920) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 34512) - Throughput: 327.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 163.85 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 45650)
+[+] accept connection: ('10.0.19.21', 55940)
+[!] ('10.0.3.246', 45650) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 55940) - Throughput: 260.49 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 130.25 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 40586)
+[+] accept connection: ('10.0.16.67', 59126)
+[!] ('10.0.19.21', 40586) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 59126) - Throughput: 247.34 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 123.67 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 59130)
+[+] accept connection: ('10.0.4.174', 39636)
+[!] ('10.0.16.67', 59130) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 39636) - Throughput: 303.62 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 151.82 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 58454)
+[!] ('10.0.9.95', 58454) - Throughput: 634.13 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 42692)
+[+] accept connection: ('10.0.13.240', 43916)
+[!] ('10.0.9.95', 42692) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 43916) - Throughput: 223.67 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 111.84 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 56060)
+[+] accept connection: ('10.0.9.98', 47728)
+[!] ('10.0.13.240', 56060) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 47728) - Throughput: 423.90 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 211.96 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 50666)
+[+] accept connection: ('10.0.3.168', 35692)
+[!] ('10.0.9.98', 50666) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 35692) - Throughput: 389.28 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 194.64 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 43748)
+[+] accept connection: ('10.0.8.2', 53560)
+[!] ('10.0.3.168', 43748) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 53560) - Throughput: 289.54 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 144.77 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 50532)
+[+] accept connection: ('10.0.4.162', 55784)
+[!] ('10.0.8.2', 50532) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 55784) - Throughput: 258.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 129.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 57082)
+[+] accept connection: ('10.0.19.25', 54482)
+[!] ('10.0.4.162', 57082) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 54482) - Throughput: 402.60 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 201.30 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 35390)
+[+] accept connection: ('10.0.13.253', 34708)
+[!] ('10.0.19.25', 35390) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 34708) - Throughput: 417.94 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 208.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 39598)
+[+] accept connection: ('10.0.1.7', 45902)
+[!] ('10.0.13.253', 39598) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 45902) - Throughput: 254.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 127.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 51040)
+[+] accept connection: ('10.0.19.23', 48446)
+[!] ('10.0.1.7', 51040) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 48446) - Throughput: 444.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 222.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 35244)
+[+] accept connection: ('10.0.6.0', 35022)
+[!] ('10.0.19.23', 35244) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 35022) - Throughput: 469.30 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 234.66 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 52616)
+[+] accept connection: ('10.0.5.252', 32790)
+[!] ('10.0.6.0', 52616) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 32790) - Throughput: 279.29 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 139.65 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 43612)
+[+] accept connection: ('10.0.19.22', 39018)
+[!] ('10.0.5.252', 43612) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 39018) - Throughput: 204.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 102.12 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 41978)
+[+] accept connection: ('10.0.1.6', 49324)
+[!] ('10.0.19.22', 41978) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 49324) - Throughput: 278.59 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 139.30 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 49354)
+[+] accept connection: ('10.0.3.165', 48784)
+[!] ('10.0.1.6', 49354) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 48784) - Throughput: 428.95 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 214.48 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 55130)
+[+] accept connection: ('10.0.16.71', 51092)
+[!] ('10.0.3.165', 55130) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 51092) - Throughput: 253.07 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 126.54 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 41352)
+[+] accept connection: ('10.0.18.25', 48676)
+[!] ('10.0.16.71', 41352) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 48676) - Throughput: 241.87 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 120.94 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 58686)
+[+] accept connection: ('10.0.17.192', 39322)
+[!] ('10.0.18.25', 58686) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 39322) - Throughput: 244.36 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 122.18 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 48270)
+[+] accept connection: ('10.0.7.166', 35278)
+[!] ('10.0.17.192', 48270) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 35278) - Throughput: 376.66 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 188.33 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 35288)
+[+] accept connection: ('10.0.19.20', 60302)
+[!] ('10.0.7.166', 35288) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 60302) - Throughput: 245.66 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 122.84 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 60312)
+[+] accept connection: ('10.0.3.143', 44186)
+[!] ('10.0.19.20', 60312) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 44186) - Throughput: 187.04 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 93.52 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 35730)
+[+] accept connection: ('10.0.18.28', 58046)
+[!] ('10.0.3.143', 35730) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 58046) - Throughput: 234.92 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 117.46 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 53042)
+[+] accept connection: ('10.0.19.19', 38590)
+[!] ('10.0.18.28', 53042) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 38590) - Throughput: 292.96 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 146.48 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 54086)
+[+] accept connection: ('10.0.4.175', 44768)
+[!] ('10.0.19.19', 54086) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 44768) - Throughput: 333.98 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 166.99 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 35704)
+[+] accept connection: ('10.0.11.250', 42728)
+[!] ('10.0.4.175', 35704) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 42728) - Throughput: 303.15 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 151.58 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 52358)
+[+] accept connection: ('10.0.3.246', 58198)
+[!] ('10.0.11.250', 52358) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 58198) - Throughput: 338.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 169.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 50104)
+[+] accept connection: ('10.0.19.21', 51762)
+[!] ('10.0.3.246', 50104) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 51762) - Throughput: 224.84 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 112.42 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 46418)
+[+] accept connection: ('10.0.16.67', 43272)
+[!] ('10.0.19.21', 46418) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 43272) - Throughput: 329.87 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 164.94 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 57646)
+[+] accept connection: ('10.0.4.174', 47646)
+[!] ('10.0.16.67', 57646) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 47646) - Throughput: 205.81 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 102.91 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 51224)
+[!] ('10.0.9.95', 51224) - Throughput: 724.57 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 34950)
+[+] accept connection: ('10.0.13.240', 49638)
+[!] ('10.0.9.95', 34950) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 49638) - Throughput: 383.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 191.53 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 37240)
+[+] accept connection: ('10.0.9.98', 43404)
+[!] ('10.0.13.240', 37240) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 43404) - Throughput: 248.06 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 124.03 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 43418)
+[+] accept connection: ('10.0.3.168', 35246)
+[!] ('10.0.9.98', 43418) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 35246) - Throughput: 209.94 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 104.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 35258)
+[+] accept connection: ('10.0.8.2', 49672)
+[!] ('10.0.3.168', 35258) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 49672) - Throughput: 417.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 208.85 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 47030)
+[+] accept connection: ('10.0.4.162', 58998)
+[!] ('10.0.8.2', 47030) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 58998) - Throughput: 398.87 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 199.44 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 59406)
+[+] accept connection: ('10.0.19.25', 42030)
+[!] ('10.0.4.162', 59406) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 42030) - Throughput: 402.37 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 201.19 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 46266)
+[+] accept connection: ('10.0.13.253', 52636)
+[!] ('10.0.19.25', 46266) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 52636) - Throughput: 421.18 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 210.59 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 50190)
+[+] accept connection: ('10.0.1.7', 40362)
+[!] ('10.0.13.253', 50190) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 40362) - Throughput: 320.42 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 160.21 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 34918)
+[+] accept connection: ('10.0.19.23', 34016)
+[!] ('10.0.1.7', 34918) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 34016) - Throughput: 470.02 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 235.02 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 52672)
+[+] accept connection: ('10.0.6.0', 43208)
+[!] ('10.0.19.23', 52672) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 43208) - Throughput: 379.81 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 189.91 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 43220)
+[+] accept connection: ('10.0.5.252', 60800)
+[!] ('10.0.6.0', 43220) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 60800) - Throughput: 403.58 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 201.79 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 60816)
+[+] accept connection: ('10.0.19.22', 48710)
+[!] ('10.0.5.252', 60816) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 48710) - Throughput: 372.73 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 186.37 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 49578)
+[+] accept connection: ('10.0.1.6', 38800)
+[!] ('10.0.19.22', 49578) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 38800) - Throughput: 237.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 118.85 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 49050)
+[+] accept connection: ('10.0.3.165', 40490)
+[!] ('10.0.1.6', 49050) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 40490) - Throughput: 430.19 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 215.10 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 38660)
+[+] accept connection: ('10.0.16.71', 59166)
+[!] ('10.0.3.165', 38660) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 59166) - Throughput: 255.48 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 127.75 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 48540)
+[+] accept connection: ('10.0.18.25', 48946)
+[!] ('10.0.16.71', 48540) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 48946) - Throughput: 374.42 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 187.21 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 36076)
+[+] accept connection: ('10.0.17.192', 45216)
+[!] ('10.0.18.25', 36076) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 45216) - Throughput: 391.87 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 195.94 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 44510)
+[+] accept connection: ('10.0.7.166', 45076)
+[!] ('10.0.17.192', 44510) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 45076) - Throughput: 347.29 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 173.65 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 60478)
+[+] accept connection: ('10.0.19.20', 43548)
+[!] ('10.0.7.166', 60478) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 43548) - Throughput: 332.52 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 166.27 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 55252)
+[+] accept connection: ('10.0.3.143', 41930)
+[!] ('10.0.19.20', 55252) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 41930) - Throughput: 293.96 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 146.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 42848)
+[+] accept connection: ('10.0.18.28', 53358)
+[!] ('10.0.3.143', 42848) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 53358) - Throughput: 343.56 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 171.78 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 52798)
+[+] accept connection: ('10.0.19.19', 56826)
+[!] ('10.0.18.28', 52798) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 56826) - Throughput: 377.80 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 188.90 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 59468)
+[+] accept connection: ('10.0.4.175', 50406)
+[!] ('10.0.19.19', 59468) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 50406) - Throughput: 395.95 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 197.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 50408)
+[+] accept connection: ('10.0.11.250', 39100)
+[!] ('10.0.4.175', 50408) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 39100) - Throughput: 436.18 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 218.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 39102)
+[+] accept connection: ('10.0.3.246', 58944)
+[!] ('10.0.11.250', 39102) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 58944) - Throughput: 422.86 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 211.43 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 47592)
+[+] accept connection: ('10.0.19.21', 38056)
+[!] ('10.0.3.246', 47592) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 38056) - Throughput: 383.09 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 191.55 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 46396)
+[+] accept connection: ('10.0.16.67', 48064)
+[!] ('10.0.19.21', 46396) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 48064) - Throughput: 253.54 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 126.77 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 45848)
+[+] accept connection: ('10.0.4.174', 37846)
+[!] ('10.0.16.67', 45848) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 37846) - Throughput: 287.57 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 143.79 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 38370)
+[!] ('10.0.9.95', 38370) - Throughput: 814.76 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 56250)
+[+] accept connection: ('10.0.13.240', 58552)
+[!] ('10.0.9.95', 56250) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 58552) - Throughput: 318.25 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 159.13 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 46736)
+[+] accept connection: ('10.0.9.98', 59776)
+[!] ('10.0.13.240', 46736) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 59776) - Throughput: 265.27 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 132.64 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 54640)
+[+] accept connection: ('10.0.3.168', 60092)
+[!] ('10.0.9.98', 54640) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 60092) - Throughput: 291.43 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 145.72 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 60676)
+[+] accept connection: ('10.0.8.2', 48404)
+[!] ('10.0.3.168', 60676) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 48404) - Throughput: 343.50 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 171.75 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 44848)
+[+] accept connection: ('10.0.4.162', 45184)
+[!] ('10.0.8.2', 44848) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 45184) - Throughput: 480.30 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 240.16 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 57882)
+[+] accept connection: ('10.0.19.25', 46250)
+[!] ('10.0.4.162', 57882) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 46250) - Throughput: 322.51 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 161.26 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 40208)
+[+] accept connection: ('10.0.13.253', 42632)
+[!] ('10.0.19.25', 40208) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 42632) - Throughput: 327.46 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 163.73 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 42636)
+[+] accept connection: ('10.0.1.7', 37876)
+[!] ('10.0.13.253', 42636) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 37876) - Throughput: 376.06 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 188.03 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 37882)
+[+] accept connection: ('10.0.19.23', 55590)
+[!] ('10.0.1.7', 37882) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 55590) - Throughput: 349.69 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 174.85 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 52776)
+[+] accept connection: ('10.0.6.0', 37652)
+[!] ('10.0.19.23', 52776) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 37652) - Throughput: 306.12 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 153.07 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 42742)
+[+] accept connection: ('10.0.5.252', 45390)
+[!] ('10.0.6.0', 42742) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 45390) - Throughput: 448.38 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 224.19 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 52400)
+[+] accept connection: ('10.0.19.22', 55062)
+[!] ('10.0.5.252', 52400) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 55062) - Throughput: 294.57 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 147.29 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 56024)
+[+] accept connection: ('10.0.1.6', 50990)
+[!] ('10.0.19.22', 56024) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 50990) - Throughput: 289.79 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 144.90 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 51184)
+[+] accept connection: ('10.0.3.165', 52072)
+[!] ('10.0.1.6', 51184) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 52072) - Throughput: 339.96 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 169.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 53456)
+[+] accept connection: ('10.0.16.71', 56158)
+[!] ('10.0.3.165', 53456) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 56158) - Throughput: 406.15 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 203.08 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 40440)
+[+] accept connection: ('10.0.18.25', 51538)
+[!] ('10.0.16.71', 40440) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 51538) - Throughput: 268.43 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 134.22 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 51544)
+[+] accept connection: ('10.0.17.192', 40952)
+[!] ('10.0.18.25', 51544) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 40952) - Throughput: 496.67 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 248.34 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 40968)
+[+] accept connection: ('10.0.7.166', 33514)
+[!] ('10.0.17.192', 40968) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 33514) - Throughput: 307.34 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 153.67 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 45798)
+[+] accept connection: ('10.0.19.20', 49002)
+[!] ('10.0.7.166', 45798) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 49002) - Throughput: 443.65 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 221.83 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 40336)
+[+] accept connection: ('10.0.3.143', 42370)
+[!] ('10.0.19.20', 40336) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 42370) - Throughput: 402.12 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 201.06 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 41646)
+[+] accept connection: ('10.0.18.28', 47026)
+[!] ('10.0.3.143', 41646) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 47026) - Throughput: 372.48 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 186.24 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 59794)
+[+] accept connection: ('10.0.19.19', 55342)
+[!] ('10.0.18.28', 59794) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 55342) - Throughput: 296.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 148.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 55972)
+[+] accept connection: ('10.0.4.175', 33590)
+[!] ('10.0.19.19', 55972) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 33590) - Throughput: 239.95 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 119.98 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 43760)
+[+] accept connection: ('10.0.11.250', 52784)
+[!] ('10.0.4.175', 43760) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 52784) - Throughput: 312.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 156.03 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 43612)
+[+] accept connection: ('10.0.3.246', 52304)
+[!] ('10.0.11.250', 43612) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 52304) - Throughput: 373.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 186.62 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 48348)
+[+] accept connection: ('10.0.19.21', 59448)
+[!] ('10.0.3.246', 48348) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 59448) - Throughput: 359.45 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 179.73 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 42888)
+[+] accept connection: ('10.0.16.67', 33686)
+[!] ('10.0.19.21', 42888) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 33686) - Throughput: 488.88 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 244.44 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 56492)
+[+] accept connection: ('10.0.4.174', 49706)
+[!] ('10.0.16.67', 56492) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 49706) - Throughput: 308.97 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 154.49 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 52586)
+[!] ('10.0.9.95', 52586) - Throughput: 903.31 Mbps, Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.95', 52592)
+[+] accept connection: ('10.0.13.240', 54698)
+[!] ('10.0.9.95', 52592) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.240', 54698) - Throughput: 316.56 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 158.28 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.240', 54712)
+[+] accept connection: ('10.0.9.98', 57038)
+[!] ('10.0.13.240', 54712) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.9.98', 57038) - Throughput: 476.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 238.09 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.9.98', 37356)
+[+] accept connection: ('10.0.3.168', 33956)
+[!] ('10.0.9.98', 37356) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.168', 33956) - Throughput: 378.54 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 189.27 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.168', 49320)
+[+] accept connection: ('10.0.8.2', 38412)
+[!] ('10.0.3.168', 49320) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.8.2', 38412) - Throughput: 448.33 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 224.17 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.8.2', 36738)
+[+] accept connection: ('10.0.4.162', 53262)
+[!] ('10.0.8.2', 36738) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.162', 53262) - Throughput: 251.97 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 125.99 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.162', 49716)
+[+] accept connection: ('10.0.19.25', 55718)
+[!] ('10.0.4.162', 49716) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.25', 55718) - Throughput: 245.51 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 122.76 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.25', 53248)
+[+] accept connection: ('10.0.13.253', 41260)
+[!] ('10.0.19.25', 53248) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.13.253', 41260) - Throughput: 269.26 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 134.63 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.13.253', 50526)
+[+] accept connection: ('10.0.1.7', 49164)
+[!] ('10.0.13.253', 50526) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.7', 49164) - Throughput: 381.34 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 190.68 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.7', 33168)
+[+] accept connection: ('10.0.19.23', 34356)
+[!] ('10.0.1.7', 33168) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.23', 34356) - Throughput: 332.11 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 166.06 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.23', 40668)
+[+] accept connection: ('10.0.6.0', 44966)
+[!] ('10.0.19.23', 40668) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.6.0', 44966) - Throughput: 511.05 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 255.53 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.6.0', 44974)
+[+] accept connection: ('10.0.5.252', 57726)
+[!] ('10.0.6.0', 44974) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.5.252', 57726) - Throughput: 395.99 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 198.00 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.5.252', 34618)
+[+] accept connection: ('10.0.19.22', 33756)
+[!] ('10.0.5.252', 34618) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.22', 33756) - Throughput: 468.33 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 234.17 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.22', 42948)
+[+] accept connection: ('10.0.1.6', 54432)
+[!] ('10.0.19.22', 42948) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.1.6', 54432) - Throughput: 245.58 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 122.79 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.1.6', 44140)
+[+] accept connection: ('10.0.3.165', 52626)
+[!] ('10.0.1.6', 44140) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.165', 52626) - Throughput: 448.37 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 224.19 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.165', 45810)
+[+] accept connection: ('10.0.16.71', 51670)
+[!] ('10.0.3.165', 45810) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.71', 51670) - Throughput: 424.23 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 212.12 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.71', 34488)
+[+] accept connection: ('10.0.18.25', 42496)
+[!] ('10.0.16.71', 34488) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.25', 42496) - Throughput: 465.98 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 233.00 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.25', 60130)
+[+] accept connection: ('10.0.17.192', 41490)
+[!] ('10.0.18.25', 60130) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.17.192', 41490) - Throughput: 317.73 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 158.87 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.17.192', 55326)
+[+] accept connection: ('10.0.7.166', 37872)
+[!] ('10.0.17.192', 55326) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.7.166', 37872) - Throughput: 404.19 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 202.10 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.7.166', 53180)
+[+] accept connection: ('10.0.19.20', 58436)
+[!] ('10.0.7.166', 53180) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.20', 58436) - Throughput: 516.80 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 258.40 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.20', 39296)
+[+] accept connection: ('10.0.3.143', 40804)
+[!] ('10.0.19.20', 39296) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.143', 40804) - Throughput: 446.33 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 223.17 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.143', 58386)
+[+] accept connection: ('10.0.18.28', 41796)
+[!] ('10.0.3.143', 58386) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.18.28', 41796) - Throughput: 361.43 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 180.72 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.18.28', 56418)
+[+] accept connection: ('10.0.19.19', 35018)
+[!] ('10.0.18.28', 56418) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.19', 35018) - Throughput: 350.76 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 175.39 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.19', 35026)
+[+] accept connection: ('10.0.4.175', 54978)
+[!] ('10.0.19.19', 35026) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.175', 54978) - Throughput: 452.91 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 226.46 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.4.175', 54986)
+[+] accept connection: ('10.0.11.250', 42022)
+[!] ('10.0.4.175', 54986) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.11.250', 42022) - Throughput: 536.14 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 268.07 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.11.250', 42038)
+[+] accept connection: ('10.0.3.246', 40286)
+[!] ('10.0.11.250', 42038) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.3.246', 40286) - Throughput: 391.45 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 195.73 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.3.246', 53806)
+[+] accept connection: ('10.0.19.21', 40460)
+[!] ('10.0.3.246', 53806) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.19.21', 40460) - Throughput: 271.16 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 135.59 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.19.21', 40522)
+[+] accept connection: ('10.0.16.67', 42072)
+[!] ('10.0.19.21', 40522) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.16.67', 42072) - Throughput: 444.10 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 222.05 Mbps
+[!] Average Packet Loss Rate: 0.00%
+
+[*] start server 10.0.1.100:12345.
+[*] Server started 10.0.1.100:12345. Waiting for connections...
+[+] accept connection: ('10.0.16.67', 35724)
+[+] accept connection: ('10.0.4.174', 52108)
+[!] ('10.0.16.67', 35724) - Throughput: 0.01 Mbps, Packet Loss Rate: 0.00%
+[!] ('10.0.4.174', 52108) - Throughput: 429.55 Mbps, Packet Loss Rate: 0.00%
+[!] Average Throughput: 214.78 Mbps
+[!] Average Packet Loss Rate: 0.00%

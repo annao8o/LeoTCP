@@ -7,7 +7,6 @@ phi = 0.2  # Amplitude scintillation index
 X = 5  # Determined by building type
 Y = 10  # Determined by UT location
 Z = 15  # Determined by carrier frequency
-
 R = 6378 * (10 ** 3)  # Earth radius in meters  # Ref: SaTCP
 c = 3e8  # Speed of light in meters/second
 communication_range = 1000  # Communication range in meters
@@ -29,7 +28,6 @@ switch_queue_size = 50000
 start_bw = 100
 end_bw = 1000
 step_bw = 100
-# a negligible delay value assigned to links when the simulation has not started yet
 link_delay = '0.01ms'
 
 satellites_num = 6000
@@ -43,5 +41,4 @@ data_file_dir = './data/'
 save_file_dir = './save/'
 ground_station_file_name = 'ground_stations.xlsx'
 handover_info_file_name = 'handover_info_file.mat'
-server_output_path = 'log/log_server.txt'
 results_file = 'save/results.csv'

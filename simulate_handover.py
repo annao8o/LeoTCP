@@ -103,7 +103,7 @@ def start_mininet_env(ip_address_list, link_bw, sat_list, algo):
     net.start()
 
     gs = net.getNodeByName('gs')
-    gs.cmd(f'python3.8 server.py {gs.IP()} {algo.name} &')
+    gs.cmd(f'python3.8 server.py {gs.IP()} {algo.name} {link_bw} &')
     time.sleep(2)
 
     switch = net.getNodeByName('switch0')
@@ -178,32 +178,6 @@ def process_handover(link_bw, address_list, algo, gs_data):
                 if algo.is_freeze:
                     tstart = time.time()
                     tcp_data_transfer(gs, sat_list, algo, algo.freeze_duration, frame_length-algo.freeze_duration)    # sat_list = [old_sat, new_sat]
-
-            # # if curr_sat == target_sat:
-            # #     continue
-            # if curr_sat != target_sat:
-            #     old_sat = net.getNodeByName(f's{curr_sat}')
-
-            #     tstart = time.time()
-            #     if algo.is_freeze:
-            #         if 'proposed' in algo.name:
-            #             duration = float(curr_data[2].strip())
-            #             algo.set_freeze_duration(duration)
-                    
-            #         ## set new environment 
-            #         net.configLinkStatus('switch0', old_sat.name, 'down')
-            #         remove_satellite(net, old_sat, switch)
-            #         new_sat = add_satellite(net, link_bw, switch, target_sat, target_addr)
-
-            #         # ## send data
-            #         tcp_data_transfer(net, gs, new_sat, algo, algo.freeze_duration)
-            #     else:
-            #         # net.configLinkStatus('switch0', old_sat.name, 'down')
-            #         tcp_data_transfer(net, gs, old_sat, algo, max_handover_time)
-            #         time.sleep(1)
-            #         remove_satellite(net, old_sat, switch)
-            #         new_sat = add_satellite(net, switch, target_sat, target_addr)
-            #         # 전체 한 cycle의 duration_per_cycle - handover_duration 을 한 나머지는 새로운 satellite에 data 전송하기
         
         tend = time.time()
         sleep_duration = frame_length - (tend - tstart)
@@ -229,8 +203,8 @@ def main_simulation(link_bw):
     # Proposed
     # algo = Algorithm("proposed", is_freeze=True)
 
-    # SaTCP - 0.3
-    algo = Algorithm("satcp_0.6", is_freeze=True, freeze_duration=0.6)
+    # SaTCP - 0.7
+    algo = Algorithm("satcp_0.7_cwnd", is_freeze=True, freeze_duration=0.7)
 
     # SaTCP - 0.9
     # algo = Algorithm("satcp_0.9", is_freeze=True, freeze_duration=0.9)
@@ -246,7 +220,7 @@ def main_simulation(link_bw):
     tcp_data_transfer(gs, sat, algo, freeze_duration=0, remaining_duration=frame_length)
     process_handover(link_bw, ip_address_list, algo, gs_data)
 
-    net.stop()
+    clean_mininet_env()
     print("Simulation is successfully completed!")
 
     throughput, loss = calculate_averages(f'log/server/results_{algo.name}.csv')
@@ -264,7 +238,7 @@ def calculate_averages(csv_file_path):
 
         # Iterate through each row in the CSV file
         for row in csv_reader:
-            total_throughput += float(row["Throughput (Mbps)"])
+            total_throughput += float(row["Average Throughput (Mbps)"])
             total_loss += float(row["Packet Loss Rate (%)"])
             row_count += 1
 
