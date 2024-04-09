@@ -1,0 +1,8 @@
+save/*
+log*/*
+*.csv
+*.log
+*.gif
+*.pdf
+
+!save/handover_info_file.mat
