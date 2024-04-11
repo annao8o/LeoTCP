@@ -2,7 +2,7 @@ import socket
 import time
 import logging
 import argparse
-from config_new import server_port, log_dir
+from config_new import server_port, log_dir, payload_size
 from utility_new import getHostID
 
 
@@ -26,7 +26,7 @@ def main(server_ip, client_id, process_duration):
 
         # Receive data from server
         while True: 
-            data = client_socket.recv(1024).decode()
+            data = client_socket.recv(payload_size).decode()
             if data:
                 client_socket.send("ACK".encode()) 
                 received_data_size += len(data)
