@@ -4,5 +4,5 @@ log*/*
 *.log
 *.gif
 *.pdf
-
+*.pyc
 !save/handover_info_file.mat
